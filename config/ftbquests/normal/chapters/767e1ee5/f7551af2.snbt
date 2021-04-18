@@ -1,0 +1,17 @@
+{
+	x: -3.0d,
+	y: 8.0d,
+	text: [
+		"不让蜜蜂为树木杂交授粉"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "d8e1229b",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 22"
+		}]
+	}]
+}

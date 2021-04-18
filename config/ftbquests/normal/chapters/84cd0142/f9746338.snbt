@@ -1,0 +1,11 @@
+{
+	x: -29.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "0c23b11e",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solar_panel_advanced"
+		}]
+	}]
+}

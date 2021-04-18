@@ -1,0 +1,31 @@
+{
+	x: -4.0d,
+	y: 1.0d,
+	text: [
+		"可以提取所贴近的树的树脂/树汁(蘑菇树会提取出蘑菇煲)，随着贴近同一棵树的机器数量增多，效率也随之下降(心急吃不了热豆腐)"
+	],
+	dependencies: [
+		"4adafbf9"
+	],
+	tasks: [{
+		uid: "b7469336",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				]
+			},
+			Damage: 3s
+		}]
+	}]
+}

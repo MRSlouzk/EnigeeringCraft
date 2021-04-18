@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 5.0d,
+	text: [
+		"增加蜂箱内湿度，以适应需要湿润环境工作的蜜蜂"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "c7795079",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 4"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "箱子yyds!",
+	icon: "minecraft:chest",
+	x: -1.0d,
+	y: 2.5d,
+	dependencies: [
+		"cfe3a0a8"
+	],
+	tasks: [{
+		uid: "2fd5c85b",
+		type: "item",
+		items: [{
+			item: "minecraft:chest"
+		}],
+		count: 16L
+	}]
+}

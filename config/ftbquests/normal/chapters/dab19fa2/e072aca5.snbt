@@ -1,0 +1,22 @@
+{
+	icon: "mekanism:machineblock3",
+	x: -6.5d,
+	y: 7.0d,
+	text: [
+		"量子传送装置可以传输物品，能量，液体，气体等",
+		"首先先在下方设定栏输入数字，打钩，然后另一个传送器输入相同数字，打钩，即可建立连接",
+		"注:注意调节量子传送装置每个面的输入输出!!!"
+	],
+	dependencies: [
+		"4dcc960c"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "60f243e8",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock3"
+		}],
+		ignore_nbt: 1b
+	}]
+}

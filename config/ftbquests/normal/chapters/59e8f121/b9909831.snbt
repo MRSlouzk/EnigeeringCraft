@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 5.5d,
+	dependencies: [
+		"a9f27672"
+	],
+	tasks: [{
+		uid: "6f4ec9ef",
+		type: "item",
+		items: [{
+			item: "environmentaltech:nano_cont_personal_4"
+		}]
+	}]
+}

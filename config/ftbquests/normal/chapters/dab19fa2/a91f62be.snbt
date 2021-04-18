@@ -1,0 +1,35 @@
+{
+	title: "ME设备 #3",
+	icon: "appliedenergistics2:part 1 320",
+	x: 11.0d,
+	y: 7.0d,
+	text: [
+		"成型面板相当于方块放置机与物品投掷机的组合体，有GUI界面，可以标记想要投掷/放置的物品，左上角切换物品掉落与方块放置模式",
+		"破坏面板可以\"捡起\"贴近的物品或者破坏前方可以破坏的方块并输入网络",
+		"精准破坏面板跟破坏面板差不多，但是是有差别的(精准破坏面板和精准采集没有半毛钱关系！！！没有精准采集效果！！！)，具体的也不太好解释，可以上网查询"
+	],
+	dependencies: [
+		"19c29725"
+	],
+	tasks: [{
+		uid: "8cb1b556",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 300"
+		}]
+	},
+	{
+		uid: "c60325a6",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 320"
+		}]
+	},
+	{
+		uid: "71f364f7",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 301"
+		}]
+	}]
+}

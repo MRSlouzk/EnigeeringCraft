@@ -1,0 +1,7 @@
+{
+	title: "第三科技时代",
+	icon: "draconicevolution:awakened_core",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

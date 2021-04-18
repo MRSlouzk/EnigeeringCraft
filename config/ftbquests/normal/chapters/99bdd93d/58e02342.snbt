@@ -1,0 +1,30 @@
+{
+	title: "高效的挖矿方式",
+	x: -1.5d,
+	y: -6.5d,
+	text: [
+		"数字采矿机是一种针对性极强的采矿设备，可以对某一单一矿物进行采集，具体使用方法见\"通用机械\"章节的\"数字采矿机\"任务,里面有非常详细的介绍"
+	],
+	dependencies: [
+		"25ce2b84"
+	],
+	tasks: [{
+		uid: "fa76729c",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "514dd8b8",
+		type: "loot",
+		table: 3
+	},
+	{
+		uid: "63ac898b",
+		type: "item",
+		item: "mekanism:atomicalloy",
+		count: 8
+	}]
+}

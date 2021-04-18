@@ -1,0 +1,14 @@
+{
+	x: -16.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "54efcf8b",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_redstone"
+			}
+		}]
+	}]
+}

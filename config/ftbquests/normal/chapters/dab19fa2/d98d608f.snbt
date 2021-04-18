@@ -1,0 +1,26 @@
+{
+	title: "网络核心",
+	icon: "appliedenergistics2:controller",
+	x: 9.0d,
+	y: 1.5d,
+	text: [
+		"ME控制器是AE网络中一个重要元件，它可以转化其它能源为AE供电，但它最重要的功能则是每个面可以提供32个频道",
+		"首先来说说AE中频道的概念，AE中同一条线缆上的每一个AE设备都会占用一个频道(ME控制器，驱动器，能源接收器，压印器，充能器不算)，当设备频道总数超过线缆承载的最大频道数，则会导致设备缺失频道无法工作",
+		"玻璃线缆，包层线缆，智能线缆上限都为8频道，智能线缆可以显示目前占用频道数，其他两个不能，致密包层与致密线缆可以承载32频道，致密线缆可显示频道数"
+	],
+	dependencies: [
+		"83d1073b"
+	],
+	tasks: [{
+		uid: "1ff47973",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
+		}]
+	}],
+	rewards: [{
+		uid: "c8ba33a3",
+		type: "loot",
+		table: 1
+	}]
+}

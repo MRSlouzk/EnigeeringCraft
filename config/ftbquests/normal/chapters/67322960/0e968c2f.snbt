@@ -1,0 +1,17 @@
+{
+	x: -7.5d,
+	y: -7.5d,
+	text: [
+		"可以在减少药水效果持续时间的同时增强药效"
+	],
+	dependencies: [
+		"72c432ec"
+	],
+	tasks: [{
+		uid: "3d9f0ef2",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 369"
+		}]
+	}]
+}

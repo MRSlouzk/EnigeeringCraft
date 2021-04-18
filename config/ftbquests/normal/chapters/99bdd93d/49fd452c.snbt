@@ -1,0 +1,18 @@
+{
+	title: "boom！",
+	x: -4.0d,
+	y: -3.5d,
+	text: [
+		"匠魂的\"爆破球\"可以进行高效的挖矿作业，其造价非常便宜，右键丢向方块就会爆炸，可以快速得到大量的矿物"
+	],
+	dependencies: [
+		"25ce2b84"
+	],
+	tasks: [{
+		uid: "09f123ab",
+		type: "item",
+		items: [{
+			item: "tconstruct:throwball 1 1"
+		}]
+	}]
+}

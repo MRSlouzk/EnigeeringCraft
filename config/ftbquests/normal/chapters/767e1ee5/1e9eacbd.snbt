@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: 3.0d,
+	text: [
+		"用来保存一个个体(蜜蜂，蝴蝶，树苗等等)的属性基因"
+	],
+	dependencies: [
+		"039e6479"
+	],
+	tasks: [{
+		uid: "92b35c31",
+		type: "item",
+		items: [{
+			item: "gendustry:gene_template"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

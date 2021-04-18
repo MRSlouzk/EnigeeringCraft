@@ -1,0 +1,19 @@
+{
+	title: "合成卡",
+	icon: "appliedenergistics2:material 1 53",
+	x: 13.0d,
+	y: 6.5d,
+	text: [
+		"合成卡可以放置在输出总线/ME接口中，当设备中的标记物品/缓存物品在网络中没有现成物品且此物品有自动合成的时候，可调用此物品的自动合成来制作物品填充空缺"
+	],
+	dependencies: [
+		"19c29725"
+	],
+	tasks: [{
+		uid: "13fda514",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 53"
+		}]
+	}]
+}

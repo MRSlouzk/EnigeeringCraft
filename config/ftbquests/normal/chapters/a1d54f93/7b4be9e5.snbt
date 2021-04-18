@@ -1,0 +1,18 @@
+{
+	x: 2.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "f5f01291",
+		type: "item",
+		items: [{
+			id: "mekanism:energycube",
+			tag: {
+				tier: 4,
+				mekData: {
+					energyStored: 1.7976931348623157E308d
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

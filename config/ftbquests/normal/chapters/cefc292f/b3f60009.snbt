@@ -1,0 +1,35 @@
+{
+	title: "聚合",
+	icon: "draconicevolution:fusion_crafting_core",
+	x: 3.0d,
+	y: -3.5d,
+	text: [
+		"聚合装置是龙研里一个重要的多方块结构，很多物品都要用它合成，工具武器装备的强化也要靠它",
+		"不仅如此，许多大后期的物品也要靠它来合成(并且耗电量惊人)",
+		"注入装置有四个等级，对应四个注入合成装置，配方通常都有注入等级需求，合成用的注入装置等级必须大于等于显示的等级(升级时注入合成装置要全部替换!!!)"
+	],
+	dependencies: [
+		"55a6758a"
+	],
+	tasks: [{
+		uid: "c6754696",
+		type: "item",
+		items: [{
+			item: "draconicevolution:fusion_crafting_core"
+		}]
+	},
+	{
+		uid: "ec18a961",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "84c63785",
+		type: "item",
+		item: "thermaldynamics:duct_0 1 5",
+		count: 10
+	}]
+}

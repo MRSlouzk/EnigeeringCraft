@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: -2.0d,
+	text: [
+		"(这不科学！！！这是反自然的机器(大雾 )",
+		"复制机可以通过液态基因，液态蛋白质以及基因模板复刻出一个生物个体(比如蜜蜂，但是只能出卑贱种(出始祖种还得了))"
+	],
+	dependencies: [
+		"bd623e7b",
+		"9ca95a7e"
+	],
+	tasks: [{
+		uid: "7984bced",
+		type: "item",
+		items: [{
+			item: "gendustry:replicator"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -6.0d,
+	text: [
+		"可以根据烧制的物品让矿物有3-4倍的产出"
+	],
+	dependencies: [
+		"f782d3d0"
+	],
+	tasks: [{
+		uid: "df2b7f31",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 304"
+		}]
+	}]
+}

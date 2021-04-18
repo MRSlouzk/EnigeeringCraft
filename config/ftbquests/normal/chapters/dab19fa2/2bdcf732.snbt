@@ -1,0 +1,15 @@
+{
+	title: "铁板箱子",
+	x: -1.0d,
+	y: 4.0d,
+	dependencies: [
+		"6a157a9a"
+	],
+	tasks: [{
+		uid: "e4dea753",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest"
+		}]
+	}]
+}

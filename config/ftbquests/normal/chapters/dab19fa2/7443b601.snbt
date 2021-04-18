@@ -1,0 +1,46 @@
+{
+	title: "Xnet",
+	icon: "xnet:controller",
+	x: -3.0d,
+	y: 13.0d,
+	text: [
+		"Xnet是一个强大的物流模组，主要优点就是可以集中式管理",
+		"将线缆接到机器上，再将所有线缆连接上控制器(需要供电)，控制器可以设置各个管道与机器/容器接口的输入输出，交互面，红石控制，NBT/矿辞/meta过滤等等",
+		"Xnet使用较为复杂，详细请去搜寻教程"
+	],
+	dependencies: [
+		"1c013ce9"
+	],
+	tasks: [{
+		uid: "79b421bc",
+		type: "item",
+		items: [{
+			item: "xnet:controller"
+		}]
+	},
+	{
+		uid: "8012cad4",
+		type: "item",
+		items: [{
+			id: "xnet:netcable",
+			tag: {
+				display: {
+					LocName: "tile.xnet.netcable_blue.name"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "3f96ceb2",
+		type: "item",
+		item: {
+			id: "xnet:netcable",
+			tag: {
+				display: {
+					LocName: "tile.xnet.netcable_blue.name"
+				}
+			}
+		},
+		count: 8
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "网络美化",
+	icon: {
+		id: "appliedenergistics2:facade",
+		tag: {
+			damage: 0,
+			item: "minecraft:grass"
+		}
+	},
+	x: 5.0d,
+	y: 2.5d,
+	text: [
+		"线缆锚可以用来合成伪装板，这些伪装板可以贴在面板，线缆上，使其与周围环境融为一体，强迫症福利！",
+		"PS:伪装板可以用扳手潜行右键取下来",
+		"线缆锚还可以阻隔AE线缆之间的连接"
+	],
+	dependencies: [
+		"83d1073b"
+	],
+	tasks: [{
+		uid: "27974237",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 120"
+		}]
+	}],
+	rewards: [{
+		uid: "0af921e4",
+		type: "loot",
+		table: 1
+	}]
+}

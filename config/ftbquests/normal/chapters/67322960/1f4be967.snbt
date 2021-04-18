@@ -1,0 +1,31 @@
+{
+	x: -5.5d,
+	y: -10.0d,
+	text: [
+		"相当于用电作燃料的熔炉，可以烧制物品"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "aae58d56",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			}
+		}]
+	}]
+}

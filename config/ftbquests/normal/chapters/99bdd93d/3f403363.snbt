@@ -1,0 +1,18 @@
+{
+	title: "虚空造矿",
+	x: 0.0d,
+	y: -5.0d,
+	text: [
+		"环境科技的采矿机是本包中后期最推荐使用的挖矿机，在有大发电设施的情况下，加上升级的情况下，产矿速度惊人，具体内容见\"第三科技时代-环境科技\"章节"
+	],
+	dependencies: [
+		"25ce2b84"
+	],
+	tasks: [{
+		uid: "f859c2c8",
+		type: "item",
+		items: [{
+			item: "environmentaltech:litherite_crystal"
+		}]
+	}]
+}

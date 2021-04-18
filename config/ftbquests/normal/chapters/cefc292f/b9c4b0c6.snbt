@@ -1,0 +1,20 @@
+{
+	title: "神龙充电宝",
+	x: 6.0d,
+	y: 0.5d,
+	text: [
+		"使用同飞龙电容，不过容量更大"
+	],
+	dependencies: [
+		"8303fd8b",
+		"45dfa625"
+	],
+	tasks: [{
+		uid: "8ad04555",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_capacitor 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

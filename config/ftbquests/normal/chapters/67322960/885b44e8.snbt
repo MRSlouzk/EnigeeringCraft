@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: -2.0d,
+	text: [
+		"可以存五排物品了(真的好寒酸)"
+	],
+	dependencies: [
+		"2eee9857"
+	],
+	tasks: [{
+		uid: "6fe6c24d",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			},
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}]
+}

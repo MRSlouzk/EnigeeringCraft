@@ -1,0 +1,215 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "mainmenu:gui/title.png",
+            "posX" : -180,
+            "posY" : 30,
+            "width" : 366,
+            "height" : 55,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "孤独人生",
+            "posX" : -100,
+            "posY" : -30,
+            "width" : 200,
+            "height" : 19,
+            "texture": "mainmenu:gui/button.png",
+            "alignment": "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "激情之旅",
+            "posX" : -100,
+            "posY" : -5,
+            "width" : 200,
+            "height" : 19,
+            "texture": "mainmenu:gui/button.png",
+            "alignment": "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -100,
+            "posY" : 20,
+            "width" : 200,
+            "height" : 19,
+            "texture": "mainmenu:gui/button.png",
+            "alignment": "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "游戏设置",
+            "posX" : -100,
+            "posY" : 45,
+            "width" : 200,
+            "height" : 19,
+            "texture": "mainmenu:gui/button.png",
+            "alignment": "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "忍痛离开",
+            "posX" : -100,
+            "posY" : 95,
+            "width" : 200,
+            "height" : 19,
+            "texture": "mainmenu:gui/button.png",
+            "alignment": "center",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "语言选择",
+            "posX" : -100,
+            "posY" : 70,
+            "width" : 200,
+            "height" : 19,
+            "texture": "mainmenu:gui/button.png",
+            "alignment": "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "hoverText" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -162,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+        "version":
+        {
+            "text" : "§cMinecraft §6#mcversion#",
+            "posX" : 0,
+            "posY" : -50,
+            "alignment": "bottom_left",
+            "color" : -1
+        },
+        "author":
+        {
+            "text" : "§e整合包作者 §d§l§nMRSlouzk",
+            "hoverText": "§4唯一作者!!!",
+            "posX" : 0,
+            "posY" : -40,
+            "alignment": "bottom_left",
+            "color" : -1
+
+        },
+        "modpack":
+        {
+            "text" : "§1整合包版本 §a§lV0.28",
+            "hoverText": "§c请保证你玩的是最新版本!!!",
+            "posX" : 0,
+            "posY" : -30,
+            "alignment": "bottom_left",
+            "color" : -1
+
+        },
+        "forge":
+        {
+            "text" : "§bForge版本 §8#forgeversion#",
+            "posX" : 0,
+            "posY" : -20,
+            "alignment": "bottom_left",
+            "color" : -1
+
+        },
+        "mods":
+        {
+            "text" : "§5已加载模组数 §d#modsloaded#",
+            "posX" : 0,
+            "posY" : -10,
+            "alignment": "bottom_left",
+            "color" : -1
+
+        },
+        "qqgroup":
+        {
+            "text" : "§4整合包交流群 §0???",
+            "posX" : 0,
+            "posY" : -262,
+            "alignment": "bottom_left",
+            "color" : -1
+
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:mainmenu:splashes/splashes.txt"
+        },
+        "background":{
+            "image":"mainmenu:background/1.png",
+            "mode":"fill"
+        }
+    }
+}

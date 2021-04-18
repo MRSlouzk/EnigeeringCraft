@@ -1,0 +1,14 @@
+{
+	title: "恭喜毕业！！！",
+	icon: "extendedcrafting:storage 1 2",
+	x: 9.0d,
+	y: -1.0d,
+	dependencies: [
+		"609c11f0"
+	],
+	tasks: [{
+		uid: "9a6198e3",
+		type: "checkmark",
+		title: "恭喜毕业！！！"
+	}]
+}

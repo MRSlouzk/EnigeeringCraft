@@ -1,0 +1,17 @@
+{
+	x: -2.5d,
+	y: 7.5d,
+	text: [
+		"使附近的玩家有急迫效果"
+	],
+	dependencies: [
+		"e59c5148"
+	],
+	tasks: [{
+		uid: "f47a9cf9",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_haste"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "高炉炼钢",
+	icon: "thermalfoundation:material 1 160",
+	x: -1.0d,
+	y: -1.5d,
+	text: [
+		"将高炉砖摆成3*3*3结构，用锤子右键即可变成高炉",
+		"向高炉内放入焦炭与铁锭(木炭也行，但是浪费)，等待一段时间后即可产出钢与炉渣",
+		"高炉是进入Two阶段前唯二的炼钢方式(还有电弧炉)"
+	],
+	dependencies: [
+		"0940e653"
+	],
+	tasks: [{
+		uid: "137d847a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "组装！合成！",
+	icon: "appliedenergistics2:molecular_assembler",
+	x: 15.0d,
+	y: -1.0d,
+	text: [
+		"分子装配室是AE2自带的进行自动化合成台合成的机器，可以与接口完美交互，放入加速卡可以提升效率",
+		"PS:接口与分子装配室之间的摆放是有技巧的，一个接口对多个装配室可以加快合成速度，而一个装配室对应多个接口则可以兼容更多的配方，实现最大化利用，视情况选择"
+	],
+	dependencies: [
+		"917f2553"
+	],
+	tasks: [{
+		uid: "981c5b3f",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:molecular_assembler"
+		}]
+	}]
+}

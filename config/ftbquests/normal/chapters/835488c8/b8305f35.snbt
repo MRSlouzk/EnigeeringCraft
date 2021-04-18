@@ -1,0 +1,18 @@
+{
+	x: -2.5d,
+	y: 2.0d,
+	text: [
+		"激光牵引器五个面可接受激光能量(包括其他激光牵引器)，输出方向在玩家放置牵引器时面对方向的背面"
+	],
+	dependencies: [
+		"dd5e1449"
+	],
+	tasks: [{
+		uid: "73ea9cc0",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 15"
+		}],
+		ignore_nbt: 1b
+	}]
+}

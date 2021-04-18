@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"可以从肉类中提取液态蛋白质"
+	],
+	dependencies: [
+		"6b84ee85"
+	],
+	tasks: [{
+		uid: "7b07e451",
+		type: "item",
+		items: [{
+			item: "gendustry:liquifier"
+		}]
+	}]
+}

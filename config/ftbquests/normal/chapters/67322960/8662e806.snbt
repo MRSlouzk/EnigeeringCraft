@@ -1,0 +1,21 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	text: [
+		"空气右键可以存储玩家所有经验，潜行右键可以消耗存储的经验提升一个等级",
+		"右键储罐或者可以存储经验的机器可以将存储的经验转移出来，再右键可以继续存到书里面"
+	],
+	dependencies: [
+		"acbbf027"
+	],
+	tasks: [{
+		uid: "98cf0666",
+		type: "item",
+		items: [{
+			id: "thermalfoundation:tome_experience",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

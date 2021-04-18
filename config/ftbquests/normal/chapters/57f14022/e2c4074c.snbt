@@ -1,0 +1,17 @@
+{
+	x: -10.0d,
+	y: 1.0d,
+	text: [
+		"后期重要合成材料"
+	],
+	dependencies: [
+		"828cff9f"
+	],
+	tasks: [{
+		uid: "a988fa84",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material 1 48"
+		}]
+	}]
+}

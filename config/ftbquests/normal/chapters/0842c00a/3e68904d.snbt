@@ -1,0 +1,27 @@
+{
+	x: -9.5d,
+	y: 2.5d,
+	text: [
+		"(完成此任务后即可进入匠魂任务线)",
+		"匠魂(Tconstruct)是一个可以自定义武器装备的模组，通过部件加工台或者浇铸制造部件，再将这些部件打造成自己心仪的工具，甚至可以对工具进行强化，使其拥有各种各样的属性"
+	],
+	dependencies: [
+		"4125a991",
+		"636a5f87"
+	],
+	tasks: [{
+		uid: "8c2d5d29",
+		type: "item",
+		title: "工匠之路",
+		items: [{
+			item: "tconstruct:materials"
+		}],
+		count: 118L
+	}],
+	rewards: [{
+		uid: "2c94a7b5",
+		type: "item",
+		item: "minecraft:gold_ingot",
+		count: 2
+	}]
+}

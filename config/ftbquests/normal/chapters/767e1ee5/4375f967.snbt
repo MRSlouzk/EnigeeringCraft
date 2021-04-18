@@ -1,0 +1,17 @@
+{
+	x: 2.5d,
+	y: 3.0d,
+	text: [
+		"可以从红石，红石块中提取诱变剂"
+	],
+	dependencies: [
+		"6b84ee85"
+	],
+	tasks: [{
+		uid: "10b14a7a",
+		type: "item",
+		items: [{
+			item: "gendustry:mutagen_producer"
+		}]
+	}]
+}

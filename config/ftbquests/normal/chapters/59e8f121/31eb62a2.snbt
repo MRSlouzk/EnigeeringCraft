@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"顾名思义，采掘植物用的"
+	],
+	dependencies: [
+		"3bd4a424"
+	],
+	tasks: [{
+		uid: "d331058b",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_botanic_miner_cont_1"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "环境科技",
+	icon: "environmentaltech:litherite_crystal",
+	x: -2.5d,
+	y: -0.5d,
+	text: [
+		"环境科技(Environment Techology)是一个以资源获取为主题的科技模组",
+		"里面有可以消耗能量虚空造矿的虚空采矿机，发电量惊人的太阳能发电装置，采掘各种方块(垃圾)的虚空资源采掘机，采掘植物的虚空植物采掘机，收集雷电能量的避雷针控制器以及超级加强版的信标--纳米机器人信标",
+		"",
+		"(环境科技的发电部分请见\"电网建设\"章节)",
+		"PS:本章有隐藏任务，完成指定的任务后会触发"
+	],
+	dependencies: [
+		"caf6c50d"
+	],
+	tasks: [{
+		uid: "d427bdce",
+		type: "checkmark"
+	}]
+}

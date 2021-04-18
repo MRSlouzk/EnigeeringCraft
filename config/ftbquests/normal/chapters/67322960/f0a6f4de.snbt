@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: -10.5d,
+	text: [
+		"安装此升级后可以消耗能量与经验修复物品且机器无法再为物品充能"
+	],
+	dependencies: [
+		"a36f6bcc"
+	],
+	tasks: [{
+		uid: "d70a6c3d",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 401"
+		}]
+	}]
+}

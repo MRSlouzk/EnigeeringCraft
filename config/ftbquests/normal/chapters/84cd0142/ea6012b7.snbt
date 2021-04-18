@@ -1,0 +1,11 @@
+{
+	x: -30.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "8ad48cb9",
+		type: "item",
+		items: [{
+			item: "enderio:block_enhanced_combustion_generator"
+		}]
+	}]
+}

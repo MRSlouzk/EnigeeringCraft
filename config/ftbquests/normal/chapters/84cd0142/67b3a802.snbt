@@ -1,0 +1,11 @@
+{
+	x: -24.5d,
+	y: 10.0d,
+	tasks: [{
+		uid: "55620ca4",
+		type: "item",
+		items: [{
+			item: "rftools:endergenic"
+		}]
+	}]
+}

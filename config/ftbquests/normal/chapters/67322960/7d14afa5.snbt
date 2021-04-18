@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: -4.0d,
+	text: [
+		"安装升级后可以销毁磨粉机，感应炉，离心机，锯木机等有固体副产物机器的固体副产物"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "e131bda1",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 130"
+		}]
+	}]
+}

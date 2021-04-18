@@ -1,0 +1,37 @@
+{
+	x: -4.0d,
+	y: 2.0d,
+	text: [
+		"可以吸收附近的经验球并转化为液态经验"
+	],
+	dependencies: [
+		"4adafbf9"
+	],
+	tasks: [{
+		uid: "4d904186",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				]
+			},
+			Damage: 8s
+		}]
+	}],
+	rewards: [{
+		uid: "5cab7cde",
+		type: "item",
+		item: "minecraft:experience_bottle",
+		count: 16
+	}]
+}

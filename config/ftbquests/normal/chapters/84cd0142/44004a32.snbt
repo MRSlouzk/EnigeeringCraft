@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "73733fec",
+		type: "item",
+		items: [{
+			item: "enderio:block_cap_bank 1 2"
+		}]
+	}]
+}

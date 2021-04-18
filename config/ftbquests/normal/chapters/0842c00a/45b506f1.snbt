@@ -1,0 +1,22 @@
+{
+	x: 1.0d,
+	y: 2.5d,
+	text: [
+		"后期重要合成材料，造价不菲"
+	],
+	dependencies: [
+		"13d2ddc8"
+	],
+	tasks: [{
+		uid: "f9d0afd7",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "bc061440",
+		type: "item",
+		item: "avaritia:resource 1 1"
+	}]
+}

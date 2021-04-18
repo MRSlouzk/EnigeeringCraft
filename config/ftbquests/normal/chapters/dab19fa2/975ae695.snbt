@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 6.5d,
+	text: [
+		"可以紧贴方块在两个机器的夹缝里(无法被看到)进行物品传输(强迫症福利)"
+	],
+	dependencies: [
+		"511bcd22"
+	],
+	tasks: [{
+		uid: "498560e4",
+		type: "item",
+		items: [{
+			item: "extrautils2:flattransfernode"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -7.5d,
+	y: -6.5d,
+	text: [
+		"站在上面即可为身上物品充能",
+		"(咋跟IC2的充电座这么像呢)"
+	],
+	dependencies: [
+		"ad843343"
+	],
+	tasks: [{
+		uid: "ca44a50c",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 14"
+		}],
+		ignore_nbt: 1b
+	}]
+}

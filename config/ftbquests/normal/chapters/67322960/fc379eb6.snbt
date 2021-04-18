@@ -1,0 +1,32 @@
+{
+	x: -5.5d,
+	y: -9.0d,
+	text: [
+		"可以按照给定配方自动合成输入机器的物品并输出"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "cad5d7c0",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 11s
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: -10.5d,
+	y: -6.5d,
+	text: [
+		"这个箱子相当于一个背包，但是容量更大，可以放在地上，而且别人无法使用你的私人箱子"
+	],
+	dependencies: [
+		"626d75d9"
+	],
+	tasks: [{
+		uid: "2770f549",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			tag: {
+				mekData: {
+					ownerUUID: "8c2d7e2a-a575-357c-aa94-13721d1cafb6",
+					Items: []
+				}
+			},
+			Damage: 13s
+		}],
+		ignore_nbt: 1b
+	}]
+}

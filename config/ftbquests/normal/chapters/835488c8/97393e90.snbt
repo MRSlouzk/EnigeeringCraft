@@ -1,0 +1,23 @@
+{
+	title: "氚",
+	icon: {
+		id: "forestry:can",
+		tag: {
+			Fluid: {
+				FluidName: "liquiddeuterium",
+				Amount: 1000
+			}
+		},
+		Damage: 1s
+	},
+	x: -1.5d,
+	y: -2.0d,
+	dependencies: [
+		"69ad29ea"
+	],
+	tasks: [{
+		uid: "fbebb248",
+		type: "fluid",
+		fluid: "liquiddeuterium"
+	}]
+}

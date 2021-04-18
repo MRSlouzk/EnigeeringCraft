@@ -1,0 +1,10 @@
+{
+	title: "储电",
+	icon: "enderio:item_basic_capacitor 1 2",
+	x: -5.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "2c728753",
+		type: "checkmark"
+	}]
+}

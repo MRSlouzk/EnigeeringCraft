@@ -1,0 +1,57 @@
+{
+	title: "神龙武具",
+	icon: {
+		id: "draconicevolution:draconic_sword",
+		tag: {
+			Energy: 16000000
+		}
+	},
+	x: 7.5d,
+	y: 2.5d,
+	text: [
+		"同飞龙的，不过是升级版"
+	],
+	dependencies: [
+		"8303fd8b",
+		"7d33f855"
+	],
+	tasks: [{
+		uid: "bc6642c8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 18,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_pick"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4b6b0224",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 18,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dd21aa68",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

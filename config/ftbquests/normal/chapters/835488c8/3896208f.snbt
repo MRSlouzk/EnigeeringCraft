@@ -1,0 +1,20 @@
+{
+	x: -2.5d,
+	y: -3.0d,
+	text: [
+		"加载电动泵上可以让泵只抽取\"重水\"而非\"水\"",
+		"(重水可以电解出氘，是核聚变的燃料)"
+	],
+	dependencies: [
+		"b05a39fb"
+	],
+	tasks: [{
+		uid: "a01f6d62",
+		type: "item",
+		items: [{
+			item: "mekanism:filterupgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

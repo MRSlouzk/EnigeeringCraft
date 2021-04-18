@@ -1,0 +1,19 @@
+{
+	title: "物品管道",
+	x: 0.5d,
+	y: 9.0d,
+	text: [
+		"进行物品传输的管道"
+	],
+	dependencies: [
+		"669c7149"
+	],
+	tasks: [{
+		uid: "c19bf423",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_32"
+		}],
+		count: 4L
+	}]
+}

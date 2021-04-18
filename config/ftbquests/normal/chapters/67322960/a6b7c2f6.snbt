@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 0.0d,
+	text: [
+		"右键机器复制配置信息，潜行右键机器粘贴配置，对空气潜行右键清空配置记录"
+	],
+	dependencies: [
+		"acbbf027"
+	],
+	tasks: [{
+		uid: "db6465f8",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:diagram_redprint"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

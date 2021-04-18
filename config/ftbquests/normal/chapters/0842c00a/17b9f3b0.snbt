@@ -1,0 +1,20 @@
+{
+	title: "芜湖起飞",
+	x: 14.0d,
+	y: -3.0d,
+	text: [
+		"末地城内有概率生成末地船，船内可以找到鞘翅，鞘翅可以进行滑翔(说得好我选择天使指环和喷气背包)"
+	],
+	dependencies: [
+		"01ac9a25"
+	],
+	tasks: [{
+		uid: "ecb6c250",
+		type: "item",
+		items: [{
+			item: "minecraft:elytra"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

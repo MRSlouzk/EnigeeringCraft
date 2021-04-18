@@ -1,0 +1,11 @@
+{
+	x: -21.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "95b628e0",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:salt_fission_controller"
+		}]
+	}]
+}

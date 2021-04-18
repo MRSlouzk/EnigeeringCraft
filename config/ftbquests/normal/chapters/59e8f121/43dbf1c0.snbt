@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 5.5d,
+	dependencies: [
+		"b9909831"
+	],
+	tasks: [{
+		uid: "aae51fab",
+		type: "item",
+		items: [{
+			item: "environmentaltech:nano_cont_personal_5"
+		}]
+	}]
+}

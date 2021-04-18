@@ -1,0 +1,11 @@
+{
+	x: -10.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "e7ca8102",
+		type: "item",
+		items: [{
+			item: "extrautils2:powertransmitter"
+		}]
+	}]
+}

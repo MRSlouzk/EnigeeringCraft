@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	text: [
+		"精度强化部件可以使透镜的选择性更强，即采到透镜颜色对应的矿物几率再次增加"
+	],
+	dependencies: [
+		"3bd4a424"
+	],
+	tasks: [{
+		uid: "21aadbc4",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_accuracy"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: -1.5d,
+	text: [
+		"高级压印器可以一次放入一组物品而不是像原版AE压印器一次放一个物品，并且可以锁定配方"
+	],
+	dependencies: [
+		"77098556"
+	],
+	tasks: [{
+		uid: "c46d0dae",
+		type: "item",
+		items: [{
+			item: "ae2stuff:inscriber"
+		}]
+	}]
+}

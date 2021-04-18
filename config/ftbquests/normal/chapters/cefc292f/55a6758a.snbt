@@ -1,0 +1,19 @@
+{
+	title: "\"心\"片技术",
+	icon: "draconicevolution:draconic_core",
+	x: 1.0d,
+	y: -2.0d,
+	text: [
+		"龙芯是模组内非常重要的合成材料"
+	],
+	dependencies: [
+		"316acf5a"
+	],
+	tasks: [{
+		uid: "5a5d809d",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_core"
+		}]
+	}]
+}

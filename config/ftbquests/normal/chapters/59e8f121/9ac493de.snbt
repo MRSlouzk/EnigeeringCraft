@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: 0.5d,
+	text: [
+		"可以提高太阳能发电机与避雷针的产能量"
+	],
+	dependencies: [
+		"3bd4a424"
+	],
+	tasks: [{
+		uid: "1e30e56b",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_piezo"
+		}]
+	}]
+}

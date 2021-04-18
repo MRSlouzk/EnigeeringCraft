@@ -1,0 +1,31 @@
+{
+	x: 1.0d,
+	y: 4.0d,
+	text: [
+		"放入水产捕捞器可以加快捕捞速度"
+	],
+	dependencies: [
+		"3f2c702d"
+	],
+	tasks: [{
+		uid: "21a3624a",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:bait 1 2"
+		}]
+	},
+	{
+		uid: "20d65cce",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:bait 1 1"
+		}]
+	},
+	{
+		uid: "02a80616",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:bait"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -2.5d,
+	y: 7.0d,
+	text: [
+		"提高相同条件下树木杂交成功的几率"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "2b309504",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 2"
+		}]
+	}]
+}

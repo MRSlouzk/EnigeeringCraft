@@ -1,0 +1,19 @@
+{
+	x: -7.5d,
+	y: -4.0d,
+	text: [
+		"锇压缩机消耗液态锇锭制作强化萤石锭(唯一方式)与强化黑曜石锭(还可以用匠魂炉子/电弧炉)"
+	],
+	dependencies: [
+		"7e898721",
+		"ad843343"
+	],
+	tasks: [{
+		uid: "847e5108",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

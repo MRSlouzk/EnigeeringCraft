@@ -1,0 +1,19 @@
+{
+	title: "进化:觉醒龙",
+	icon: "draconicevolution:awakened_core",
+	x: 7.5d,
+	y: -2.0d,
+	text: [
+		"觉醒核心是龙研装备的第二等级，也是一种强力的材料"
+	],
+	dependencies: [
+		"b9948701"
+	],
+	tasks: [{
+		uid: "c28e4c60",
+		type: "item",
+		items: [{
+			item: "draconicevolution:awakened_core"
+		}]
+	}]
+}

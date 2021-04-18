@@ -1,0 +1,14 @@
+{
+	x: -13.5d,
+	y: 6.0d,
+	text: [
+		"1024RF"
+	],
+	tasks: [{
+		uid: "fbe08788",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: -5.0d,
+	text: [
+		"安装此升级后炼药时有几率不消耗炼药材料"
+	],
+	dependencies: [
+		"c70c2294"
+	],
+	tasks: [{
+		uid: "aa940b42",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 448"
+		}]
+	}]
+}

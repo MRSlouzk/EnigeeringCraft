@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: -3.0d,
+	text: [
+		"(使用方法见JEI)",
+		"除龙蛋发电机以外最推荐的，有16GP发电"
+	],
+	dependencies: [
+		"c06cea3c"
+	],
+	tasks: [{
+		uid: "87a4c794",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 3"
+		}]
+	}]
+}

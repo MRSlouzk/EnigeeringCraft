@@ -1,0 +1,54 @@
+{
+	title: "神龙套装",
+	icon: {
+		id: "draconicevolution:draconic_chest",
+		tag: {
+			Energy: 16000000
+		}
+	},
+	x: 5.5d,
+	y: -0.5d,
+	text: [
+		"神龙套装是本模组中最强力的一套装备，同时也是整合包里排名前五的装备，是对抗混沌龙所必须的装备(大佬当我没说)"
+	],
+	dependencies: [
+		"8303fd8b",
+		"2bc26e2c"
+	],
+	tasks: [{
+		uid: "808fc1b8",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a51fcf86",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "db0b4bf7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0ec3f452",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

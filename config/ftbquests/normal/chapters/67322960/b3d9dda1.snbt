@@ -1,0 +1,17 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"相当于桶，可以装填液体"
+	],
+	dependencies: [
+		"acbbf027"
+	],
+	tasks: [{
+		uid: "b3efbeca",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:florb"
+		}]
+	}]
+}

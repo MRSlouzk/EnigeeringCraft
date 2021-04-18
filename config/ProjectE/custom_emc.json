@@ -1,0 +1,144 @@
+{
+  "entries": [
+    {
+      "item": "avaritia:resource|4",
+      "emc": 5308416
+    },
+    {
+      "item": "avaritia:resource|6",
+      "emc": 2594073385365405696
+    },
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 100000000
+    },
+    {
+      "item": "draconicevolution:draconium_ingot|0",
+      "emc": 16384
+    },
+    {
+      "item": "draconicevolution:draconium_dust|0",
+      "emc": 16384
+    },
+    {
+      "item": "avaritia:cosmic_meatballs|0",
+      "emc": 66176
+    },
+    {
+      "item": "avaritia:ultimate_stew|0",
+      "emc": 72347
+    },
+    {
+      "item": "avaritia:endest_pearl|0",
+      "emc": 35561496
+    },
+    {
+      "item": "tconstruct:ingots|0",
+      "emc": 16384
+    },
+    {
+      "item": "tconstruct:ingots|1",
+      "emc": 16384
+    },
+    {
+      "item": "tconstruct:ingots|2",
+      "emc": 32376
+    },
+    {
+      "item": "thermalfoundation:material|167",
+      "emc": 65536
+    },
+    {
+      "item": "thermalfoundation:material|166",
+      "emc": 16384
+    },
+    {
+      "item": "thermalfoundation:material|165",
+      "emc": 32000
+    },
+    {
+      "item": "extendedcrafting:material|24",
+      "emc": 134000
+    },
+    {
+      "item": "nuclearcraft:ingot|10",
+      "emc": 512
+    },
+    {
+      "item": "nuclearcraft:ingot|11",
+      "emc": 512
+    },
+    {
+      "item": "nuclearcraft:ingot|9",
+      "emc": 512
+    },
+    {
+      "item": "extrautils2:ingredients|11",
+      "emc": 8192
+    },
+    {
+      "item": "extrautils2:ingredients|12",
+      "emc": 3234
+    },
+    {
+      "item": "extrautils2:ingredients|17",
+      "emc": 4096
+    },
+    {
+      "item": "enderio:item_alloy_endergy_ingot|5",
+      "emc": 1200
+    },
+    {
+      "item": "enderio:item_alloy_ingot|8",
+      "emc": 1024
+    },
+    {
+      "item": "enderio:item_alloy_endergy_ingot|2",
+      "emc": 2644
+    },
+    {
+      "item": "enderio:item_alloy_endergy_ingot|3",
+      "emc": 85183
+    },
+    {
+      "item": "enderio:item_alloy_endergy_ingot|1",
+      "emc": 13242
+    },
+    {
+      "item": "enderio:item_alloy_endergy_ingot|4",
+      "emc": 32768
+    },
+    {
+      "item": "enderio:item_alloy_endergy_ingot|6",
+      "emc": 2430
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 256
+    },
+    {
+      "item": "extendedcrafting:material|40",
+      "emc": 218112
+    },
+    {
+      "item": "extendedcrafting:material|48",
+      "emc": 177418
+    },
+    {
+      "item": "thermalfoundation:material|164",
+      "emc": 1250
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 2048
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 8192
+    },
+    {
+      "item": "thermalfoundation:material|136",
+      "emc": 8192
+    }
+  ]
+}

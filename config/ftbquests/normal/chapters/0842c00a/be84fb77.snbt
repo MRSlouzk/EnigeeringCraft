@@ -1,0 +1,135 @@
+{
+	title: "收集矿物",
+	x: -5.0d,
+	y: -1.5d,
+	text: [
+		"矿物是推进科技线的重要物资，前期没有自动化采矿的情况下只能手挖(使用~进行一键挖掘)"
+	],
+	dependencies: [
+		"7a00f74f"
+	],
+	tasks: [{
+		uid: "406ac008",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreCopper"
+				}
+			}
+		}],
+		count: 8L
+	},
+	{
+		uid: "bd2cbfc0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTin",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreTin"
+				}
+			}
+		}],
+		count: 8L
+	},
+	{
+		uid: "388e94a2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreNickel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreNickel"
+				}
+			}
+		}],
+		count: 2L
+	},
+	{
+		uid: "66e427a0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreLead",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreLead"
+				}
+			}
+		}],
+		count: 8L
+	},
+	{
+		uid: "0969a944",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore 1 2"
+		}],
+		count: 4L
+	},
+	{
+		uid: "6e7dd810",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore 1 4"
+		}],
+		count: 4L
+	},
+	{
+		uid: "8b8c58eb",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ore"
+		}],
+		count: 4L
+	},
+	{
+		uid: "6d360f2a",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "f3e2c0b1",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "57470922",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 2
+	},
+	{
+		uid: "cdc3712c",
+		type: "item",
+		item: "minecraft:water_bucket"
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 1.5d,
+	y: -2.0d,
+	text: [
+		"三排了"
+	],
+	dependencies: [
+		"e2a12e10"
+	],
+	tasks: [{
+		uid: "b10cc554",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

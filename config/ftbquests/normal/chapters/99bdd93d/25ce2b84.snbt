@@ -1,0 +1,20 @@
+{
+	title: "人工挖掘",
+	x: -4.0d,
+	y: -5.0d,
+	text: [
+		"绝大多数整合包(空岛除外)前期都需要用人工方法进行矿物采掘，所以科技起步前很难偷懒"
+	],
+	dependencies: [
+		"35840c05"
+	],
+	tasks: [{
+		uid: "dbd9ae3d",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: 0.0d,
+	text: [
+		"可以将基因样本的属性加基因模板上(直接加或者替换原属性)"
+	],
+	dependencies: [
+		"6b84ee85"
+	],
+	tasks: [{
+		uid: "2081633a",
+		type: "item",
+		items: [{
+			item: "gendustry:transposer"
+		}]
+	}]
+}

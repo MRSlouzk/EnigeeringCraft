@@ -1,0 +1,17 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	text: [
+		"从蜜蜂，树苗(林业)，蝴蝶等中提取液态基因"
+	],
+	dependencies: [
+		"6b84ee85"
+	],
+	tasks: [{
+		uid: "ea405725",
+		type: "item",
+		items: [{
+			item: "gendustry:extractor"
+		}]
+	}]
+}

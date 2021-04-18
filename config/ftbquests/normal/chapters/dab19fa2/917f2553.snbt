@@ -1,0 +1,34 @@
+{
+	title: "自动化的力量！ P3",
+	icon: "appliedenergistics2:interface",
+	x: 15.0d,
+	y: 0.5d,
+	text: [
+		"ME接口是自动化合成中非常重要的一个组成部分，它负责对物品进行发配与接收并返还存储器。",
+		"当开始合成时，有对应样板(之后讲)的ME接口会将物品发配到临近容器(箱子，熔炉，漏斗，各种机器等等，但是物品管道不可以！它不是容器)。",
+		"ME接口只能被动输入物品(除了分子装配室)，所以处理完成后，可以用管道，漏斗或者机器的自动弹出功能将产物返还存储器",
+		"(题外话，与自动化无关)ME接口还有其他功能，比如可以缓存物品:将要缓存的物品放入ME接口内上方有箭头的格子标记，接入网络的接口就会从网络中抽取标记数量的物品存入接口(ME接口也是个容器)，这时接口可以进行被动输出(用管道将接口内物品抽出)，此功能与合成卡搭配效果很棒(合成卡使用见\"合成卡\"任务)"
+	],
+	dependencies: [
+		"153e6386"
+	],
+	tasks: [{
+		uid: "35219819",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:interface"
+		}]
+	}],
+	rewards: [{
+		uid: "5fec5938",
+		type: "item",
+		item: "appliedenergistics2:material 1 44",
+		count: 4
+	},
+	{
+		uid: "1d0b6072",
+		type: "item",
+		item: "appliedenergistics2:material 1 43",
+		count: 4
+	}]
+}

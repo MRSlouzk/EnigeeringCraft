@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 2.0d,
+	text: [
+		"从生物中随机提取属性(有好有坏，非酋慎入)"
+	],
+	dependencies: [
+		"6b84ee85"
+	],
+	tasks: [{
+		uid: "071881a0",
+		type: "item",
+		items: [{
+			item: "gendustry:sampler"
+		}]
+	}]
+}

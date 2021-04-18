@@ -1,0 +1,56 @@
+{
+	title: "四倍矿物",
+	icon: "mekanism:shard",
+	x: 6.5d,
+	y: -0.5d,
+	dependencies: [
+		"0f7f47b0",
+		"19190b12",
+		"16f56412"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "cb505ef0",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 3"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cd2e47ce",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "13acb923",
+		type: "loot",
+		table: 3
+	},
+	{
+		uid: "3df8e2c5",
+		type: "loot",
+		table: 3
+	},
+	{
+		uid: "08106b5a",
+		type: "loot",
+		table: 3
+	},
+	{
+		uid: "8e304579",
+		type: "item",
+		item: "mekanism:speedupgrade",
+		count: 8
+	},
+	{
+		uid: "5483d0c7",
+		type: "item",
+		item: "mekanism:energyupgrade",
+		count: 8
+	}]
+}

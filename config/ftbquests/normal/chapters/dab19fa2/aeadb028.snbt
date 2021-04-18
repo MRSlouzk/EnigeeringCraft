@@ -1,0 +1,19 @@
+{
+	title: "强迫症福音",
+	icon: "extrautils2:largishchest",
+	x: 1.0d,
+	y: 1.5d,
+	text: [
+		"不同于普通箱子，它是占用一整格方块"
+	],
+	dependencies: [
+		"6a157a9a"
+	],
+	tasks: [{
+		uid: "8dba850f",
+		type: "item",
+		items: [{
+			item: "extrautils2:largishchest"
+		}]
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "自动化之力",
+	icon: "appliedenergistics2:interface",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

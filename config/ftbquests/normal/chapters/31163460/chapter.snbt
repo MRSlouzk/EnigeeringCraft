@@ -1,0 +1,7 @@
+{
+	title: "核电工艺",
+	icon: "nuclearcraft:gem 1 1",
+	always_invisible: false,
+	group: -2025200011,
+	default_quest_shape: ""
+}

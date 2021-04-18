@@ -1,0 +1,11 @@
+{
+	x: -23.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "461d3fd1",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rtg_plutonium"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -0.5d,
+	y: 11.0d,
+	text: [
+		"物品接口是集成动力的物品交互接口，集成动力接口的具体用法请参见\"自动化之力-集成动力\"章节的\"\""
+	],
+	dependencies: [
+		"669c7149"
+	],
+	tasks: [{
+		uid: "8ce9155b",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_interface_item_item"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "龙之研究",
+	icon: "draconicevolution:dragon_heart",
+	x: -3.0d,
+	y: -2.0d,
+	text: [
+		"龙之研究(Draconic Evolution)是一个后期科技模组，以与龙相关的物品为主体，提供强力的武器工具与装备和一些特殊装置。"
+	],
+	dependencies: [
+		"69c76f22",
+		"ac0271a4"
+	],
+	tasks: [{
+		uid: "120eab37",
+		type: "checkmark"
+	}]
+}

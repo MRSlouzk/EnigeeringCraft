@@ -1,0 +1,18 @@
+{
+	title: "终极任务",
+	icon: "contenttweaker:star_of_blue",
+	x: 7.0d,
+	y: -1.0d,
+	dependencies: [
+		"9974faa1"
+	],
+	tasks: [{
+		uid: "c7a97d81",
+		type: "item",
+		items: [{
+			item: "contenttweaker:star_of_blue"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

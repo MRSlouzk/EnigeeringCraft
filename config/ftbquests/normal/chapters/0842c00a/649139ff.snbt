@@ -1,0 +1,20 @@
+{
+	title: "末地外岛",
+	icon: "minecraft:chorus_flower",
+	x: 9.0d,
+	y: -3.0d,
+	text: [
+		"末地外岛可以找到大量的紫颂果"
+	],
+	dependencies: [
+		"fdcd3de3"
+	],
+	tasks: [{
+		uid: "b34616f5",
+		type: "item",
+		items: [{
+			item: "minecraft:chorus_fruit"
+		}],
+		count: 8L
+	}]
+}

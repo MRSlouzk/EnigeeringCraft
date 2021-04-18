@@ -1,0 +1,18 @@
+{
+	title: "碾杀怪物",
+	x: 1.0d,
+	y: -0.5d,
+	text: [
+		"怪物磨床拥有极高的伤害，可以瞬间秒杀生物(包括凋零)，是做自动屠宰场的好东西"
+	],
+	dependencies: [
+		"55a6758a"
+	],
+	tasks: [{
+		uid: "71e34b43",
+		type: "item",
+		items: [{
+			item: "draconicevolution:grinder"
+		}]
+	}]
+}

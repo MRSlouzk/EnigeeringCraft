@@ -1,0 +1,31 @@
+{
+	x: -1.5d,
+	y: 4.0d,
+	text: [
+		"(个人认为不耗电的机器里最有用的了)",
+		"紧贴其中一面放上水即可产水，有水的面越多，产的越快"
+	],
+	dependencies: [
+		"4adafbf9"
+	],
+	tasks: [{
+		uid: "246c4c38",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					0b,
+					1b,
+					0b,
+					0b,
+					0b,
+					0b
+				]
+			}
+		}]
+	}]
+}

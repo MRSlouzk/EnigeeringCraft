@@ -1,0 +1,7 @@
+{
+	title: "Rftools",
+	icon: "rftools:powercell_card",
+	always_invisible: false,
+	group: 1471999454,
+	default_quest_shape: ""
+}

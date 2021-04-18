@@ -1,0 +1,17 @@
+{
+	x: -2.5d,
+	y: -11.5d,
+	text: [
+		"安装此升级后可以为物品无线充电，但是机器本身失去有线充电功能"
+	],
+	dependencies: [
+		"a36f6bcc"
+	],
+	tasks: [{
+		uid: "8e2e79ed",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 402"
+		}]
+	}]
+}

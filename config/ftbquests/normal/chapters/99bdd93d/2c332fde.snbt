@@ -1,0 +1,17 @@
+{
+	title: "人工增产#2",
+	icon: "integrateddynamics:squeezer",
+	x: -3.5d,
+	y: 1.0d,
+	dependencies: [
+		"4eb68cbe"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e6d3e7b9",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:squeezer"
+		}]
+	}]
+}

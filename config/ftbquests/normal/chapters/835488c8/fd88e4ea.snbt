@@ -1,0 +1,33 @@
+{
+	icon: "mekanism:machineblock 1 11",
+	x: -1.0d,
+	y: -7.5d,
+	text: [
+		"传送机是一个多方块结构，可以对实体进行远距离传送(甚至腐化裂缝也可以，别问我为什么知道，问就是翻过车)",
+		"摆放:用传送机框架与传送机摆成3*4的一个空心框架，传送机放在最下面的中间一格，打开界面后设置频道，并通入能量，到另一处地方再摆上另一个相同的传送门，通上能量并连接对应频道，传送门出现一层绿色薄膜后进入即可传送",
+		"注:两个传送门处都要有区块在加载才能用!!!"
+	],
+	dependencies: [
+		"d96023a8"
+	],
+	tasks: [{
+		uid: "363792be",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			tag: {
+				mekData: {}
+			},
+			Damage: 11s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d6dc0a87",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 7"
+		}],
+		count: 9L
+	}]
+}

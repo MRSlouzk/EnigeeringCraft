@@ -1,0 +1,26 @@
+{
+	title: "ME设备 #2",
+	icon: "appliedenergistics2:part 1 240",
+	x: 11.0d,
+	y: 5.0d,
+	text: [
+		"输入/输出总线顾名思义，一可以从外部容器输入物品进网络/输出网络物品进外部容器，速度随着连续传输物品的时间增加而增加(放加速卡效果明显)，开始传输时速度很慢。"
+	],
+	dependencies: [
+		"ce5b01ea"
+	],
+	tasks: [{
+		uid: "9f1732b4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 240"
+		}]
+	},
+	{
+		uid: "65983eb8",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 260"
+		}]
+	}]
+}

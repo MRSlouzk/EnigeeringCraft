@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: -8.0d,
+	text: [
+		"安装此升级后可以在圆石，岩浆块等方块中提取岩浆"
+	],
+	dependencies: [
+		"6bea2a1d"
+	],
+	tasks: [{
+		uid: "c5afb224",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 352"
+		}]
+	}]
+}

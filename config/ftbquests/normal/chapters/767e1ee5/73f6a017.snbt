@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 5.5d,
+	text: [
+		"增大蜂箱内温度，以适应需要炎热环境进行工作的蜜蜂"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "7f8e70a7",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 6"
+		}]
+	}]
+}

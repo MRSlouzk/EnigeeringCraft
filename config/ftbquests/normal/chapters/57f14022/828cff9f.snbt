@@ -1,0 +1,27 @@
+{
+	title: "末影合成",
+	icon: "extendedcrafting:ender_crafter",
+	x: -11.5d,
+	y: 1.0d,
+	text: [
+		"将末影工作台放下，在以末影工作台为球心，3位半径的球内放上末影发电机即可开始合成(末影发电机越多越好，实在不懂直接绕着末影工作台放一圈就行)"
+	],
+	dependencies: [
+		"b40aae34"
+	],
+	tasks: [{
+		uid: "e674fa32",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:ender_crafter"
+		}]
+	},
+	{
+		uid: "54c383d8",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:ender_alternator"
+		}],
+		count: 8L
+	}]
+}

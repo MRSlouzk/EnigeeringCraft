@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 5.0d,
+	text: [
+		"使蜂箱可以产出林业树木的花粉"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "f00a6beb",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 15"
+		}]
+	}]
+}

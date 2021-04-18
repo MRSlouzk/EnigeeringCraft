@@ -1,0 +1,25 @@
+{
+	title: "黑色头颅",
+	icon: "minecraft:skull 1 1",
+	x: -1.0d,
+	y: 0.5d,
+	text: [
+		"收集凋零骷髅头来召唤凋零"
+	],
+	dependencies: [
+		"93f43132"
+	],
+	tasks: [{
+		uid: "918f379c",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "259f95ec",
+		type: "item",
+		item: "minecraft:skull 1 1",
+		count: 2
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: 0.5d,
+	text: [
+		"重要材料，可以制作冷却剂，超导管道等",
+		"凛冰粉可以通过打暴雪人(生成在寒冷或者有雪的群系，几率很低)或者用流体转置机灌注雪球获取(推荐)"
+	],
+	dependencies: [
+		"8662e806"
+	],
+	tasks: [{
+		uid: "271fd6f4",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 1025"
+		}]
+	}]
+}

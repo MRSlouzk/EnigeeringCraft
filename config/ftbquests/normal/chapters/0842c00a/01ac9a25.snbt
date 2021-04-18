@@ -1,0 +1,19 @@
+{
+	title: "这上面风景真不错，真不戳",
+	icon: "minecraft:shulker_shell",
+	x: 11.5d,
+	y: -3.0d,
+	text: [
+		"末地外岛可以找到末地城，里面会生成箱子与潜影贝，击杀后可以获得潜影壳"
+	],
+	dependencies: [
+		"649139ff"
+	],
+	tasks: [{
+		uid: "8bd56fc0",
+		type: "item",
+		items: [{
+			item: "minecraft:shulker_shell"
+		}]
+	}]
+}

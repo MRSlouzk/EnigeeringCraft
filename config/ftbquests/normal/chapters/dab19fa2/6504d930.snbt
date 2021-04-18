@@ -1,0 +1,23 @@
+{
+	title: "物流管道",
+	x: 2.0d,
+	y: 8.0d,
+	text: [
+		"MEK的物流管道可以抽取容器内物品传输，并且可以设置频道，配合物流分配器还有过滤功能",
+		"(本人并不推荐在本包使用，这个管道比较鸡肋，抽取速度和功能性都远不如其他管道，还可能造成卡顿)"
+	],
+	dependencies: [
+		"669c7149"
+	],
+	tasks: [{
+		uid: "270dd2c7",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			},
+			Damage: 3s
+		}]
+	}]
+}

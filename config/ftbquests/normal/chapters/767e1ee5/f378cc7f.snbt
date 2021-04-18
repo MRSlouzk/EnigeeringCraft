@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: 1.0d,
+	text: [
+		"可反复充能进行使用的捕蜂网"
+	],
+	dependencies: [
+		"039e6479"
+	],
+	tasks: [{
+		uid: "64414636",
+		type: "item",
+		items: [{
+			id: "gendustry:industrial_scoop",
+			tag: {
+				charge: 0
+			},
+			Damage: 100s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

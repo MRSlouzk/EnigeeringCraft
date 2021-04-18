@@ -1,0 +1,10 @@
+{
+	title: "整合包版本 v0.24",
+	x: -11.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "29084d34",
+		type: "checkmark",
+		title: "整合包版本 v0.12"
+	}]
+}

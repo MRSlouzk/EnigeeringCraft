@@ -1,0 +1,17 @@
+{
+	x: -2.5d,
+	y: -5.0d,
+	text: [
+		"降低机器工作时发出的噪声音量(消音器:???)"
+	],
+	dependencies: [
+		"b05a39fb"
+	],
+	tasks: [{
+		uid: "9147ccbe",
+		type: "item",
+		items: [{
+			item: "mekanism:mufflingupgrade"
+		}]
+	}]
+}

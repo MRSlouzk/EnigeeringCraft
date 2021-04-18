@@ -1,0 +1,32 @@
+{
+	x: -6.5d,
+	y: -4.5d,
+	text: [
+		"可以将锭压成板,粉压成棒"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "4e6338c5",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 5s
+		}]
+	}]
+}

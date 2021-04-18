@@ -1,0 +1,42 @@
+{
+	title: "飞龙神弓",
+	icon: {
+		id: "draconicevolution:wyvern_bow",
+		tag: {
+			Energy: 4000000
+		}
+	},
+	x: 3.5d,
+	y: 1.5d,
+	text: [
+		"双足飞龙弓可以自定义调节箭矢伤害，速度，准确度等数据(耗电量也增加)，慢慢科技味的弓(雾，伤害也不容小觑",
+		"可以被RF容量升级，拉弓速度升级，箭矢速度，箭矢伤害升级升级"
+	],
+	dependencies: [
+		"34449f52"
+	],
+	tasks: [{
+		uid: "977109a5",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1230dbc5",
+		type: "item",
+		item: "draconicevolution:tool_upgrade 1 5"
+	},
+	{
+		uid: "8e74f094",
+		type: "item",
+		item: "draconicevolution:tool_upgrade 1 7"
+	},
+	{
+		uid: "3a1c872c",
+		type: "item",
+		item: "draconicevolution:tool_upgrade 1 6"
+	}]
+}

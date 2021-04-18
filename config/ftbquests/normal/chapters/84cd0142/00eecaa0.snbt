@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: 11.0d,
+	text: [
+		"4MRF"
+	],
+	tasks: [{
+		uid: "8f24d0d9",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_crystal 1 3"
+		}]
+	}]
+}

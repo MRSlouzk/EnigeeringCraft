@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: 1.5d,
+	text: [
+		"晶体催生仓可以批量制作高纯水晶(做种子再催生可以两倍复制，但是赛特斯石英在本包中并不缺，没必要两倍化，想要高纯水晶直接用富集仓富集对应的水晶就行/doge)"
+	],
+	dependencies: [
+		"77098556"
+	],
+	tasks: [{
+		uid: "66899e8e",
+		type: "item",
+		items: [{
+			item: "ae2stuff:grower"
+		}]
+	}],
+	rewards: [{
+		uid: "b5ecdace",
+		type: "loot",
+		table: 1
+	}]
+}

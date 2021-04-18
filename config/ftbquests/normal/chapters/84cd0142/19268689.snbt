@@ -1,0 +1,18 @@
+{
+	x: -17.5d,
+	y: 5.0d,
+	tasks: [{
+		uid: "faedc397",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:dynamo",
+			tag: {
+				RSControl: 0b,
+				Facing: 1b,
+				Energy: 0,
+				Level: 0b
+			},
+			Damage: 5s
+		}]
+	}]
+}

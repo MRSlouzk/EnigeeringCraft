@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: -8.0d,
+	text: [
+		"安装此升级后有几率不消耗肥料"
+	],
+	dependencies: [
+		"99db0767"
+	],
+	tasks: [{
+		uid: "29f328e0",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 320"
+		}]
+	}]
+}

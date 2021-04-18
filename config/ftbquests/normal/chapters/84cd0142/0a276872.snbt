@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: -1.5d,
+	text: [
+		"放在火上面产生4GP能量"
+	],
+	dependencies: [
+		"c06cea3c"
+	],
+	tasks: [{
+		uid: "3cb34b6b",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 5"
+		}]
+	}]
+}

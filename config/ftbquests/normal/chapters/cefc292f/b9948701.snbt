@@ -1,0 +1,21 @@
+{
+	title: "龙的力量",
+	icon: "draconicevolution:draconic_ingot",
+	x: 5.0d,
+	y: -2.0d,
+	text: [
+		"龙块被注入龙之心的力量之后就变成了觉醒龙块，由此诞生出了一种重要材料:觉醒龙锭"
+	],
+	dependencies: [
+		"34449f52",
+		"b3f60009"
+	],
+	tasks: [{
+		uid: "4c09e004",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_block"
+		}],
+		count: 4L
+	}]
+}

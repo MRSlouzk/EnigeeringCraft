@@ -1,0 +1,10 @@
+{
+	title: "等价交换",
+	icon: {
+		id: "projecte:item.pe_philosophers_stone",
+		tag: {}
+	},
+	always_invisible: false,
+	group: -202943150,
+	default_quest_shape: ""
+}

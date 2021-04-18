@@ -1,0 +1,7 @@
+{
+	title: "太肝了?这里是福利区",
+	icon: "draconicevolution:chaos_shard",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

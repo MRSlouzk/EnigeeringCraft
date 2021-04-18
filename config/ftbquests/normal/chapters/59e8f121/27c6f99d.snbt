@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: 3.0d,
+	text: [
+		"使附近的玩家隐身"
+	],
+	dependencies: [
+		"e59c5148"
+	],
+	tasks: [{
+		uid: "bede875c",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_invisibility"
+		}]
+	}]
+}

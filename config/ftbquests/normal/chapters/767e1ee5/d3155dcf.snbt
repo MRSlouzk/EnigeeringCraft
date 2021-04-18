@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 12.5d,
+	text: [
+		"增加蜜蜂产物的产量，可安装多个"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "07e8d58f",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade"
+		}]
+	}]
+}

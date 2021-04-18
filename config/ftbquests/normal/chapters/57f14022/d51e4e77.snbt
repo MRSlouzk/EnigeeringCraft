@@ -1,0 +1,17 @@
+{
+	x: -8.5d,
+	y: -0.5d,
+	text: [
+		"7*7的合成台"
+	],
+	dependencies: [
+		"d6a5aab0"
+	],
+	tasks: [{
+		uid: "c5502ba3",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_elite"
+		}]
+	}]
+}

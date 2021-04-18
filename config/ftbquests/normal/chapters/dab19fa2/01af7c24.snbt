@@ -1,0 +1,19 @@
+{
+	title: "红石卡",
+	icon: "appliedenergistics2:material 1 26",
+	x: 13.0d,
+	y: 5.0d,
+	text: [
+		"红石卡可以反转红石信号需求，相当于一个小型非门"
+	],
+	dependencies: [
+		"19c29725"
+	],
+	tasks: [{
+		uid: "9f223fb4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 26"
+		}]
+	}]
+}

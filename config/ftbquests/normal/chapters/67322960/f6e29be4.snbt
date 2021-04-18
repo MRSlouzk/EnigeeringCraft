@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: -7.0d,
+	text: [
+		"三种都可以作为有机灌注机肥料，并且效果各不相同"
+	],
+	dependencies: [
+		"99db0767"
+	],
+	tasks: [{
+		uid: "e3303b73",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:fertilizer 1 2"
+		}]
+	},
+	{
+		uid: "544cc04b",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:fertilizer 1 1"
+		}]
+	},
+	{
+		uid: "17b32d8b",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:fertilizer"
+		}]
+	}]
+}

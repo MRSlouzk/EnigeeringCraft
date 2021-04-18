@@ -1,0 +1,35 @@
+{
+	title: "抽屉！",
+	icon: {
+		id: "storagedrawers:basicdrawers",
+		tag: {
+			material: "oak"
+		}
+	},
+	x: -3.0d,
+	y: 1.5d,
+	text: [
+		"储物抽屉(Storage Drawers)模组是一个强大的存储模组，一个普通一格抽屉可以存储32组同类物品，并且还有两格，四格以及强大的压缩抽屉"
+	],
+	dependencies: [
+		"6a157a9a"
+	],
+	tasks: [{
+		uid: "9c58b79c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "drawerBasic",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any drawerBasic"
+				}
+			}
+		}]
+	}]
+}

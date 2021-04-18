@@ -1,0 +1,31 @@
+{
+	x: -6.0d,
+	y: -6.5d,
+	text: [
+		"使用侦测器潜行右键振动器可以查看机器所在格地下的方块分布(没卵用)"
+	],
+	dependencies: [
+		"ad843343"
+	],
+	tasks: [{
+		uid: "c22cde15",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				mekData: {}
+			},
+			Damage: 9s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "991cf547",
+		type: "item",
+		items: [{
+			item: "mekanism:seismicreader"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: -6.0d,
+	y: -0.5d,
+	dependencies: [
+		"318b3ae6"
+	],
+	tasks: [{
+		uid: "71bdb09f",
+		type: "checkmark",
+		title: "欢迎来到\"矿物处理\"章节",
+		icon: "mekanism:crystal"
+	}]
+}

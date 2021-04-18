@@ -1,0 +1,32 @@
+{
+	x: -8.5d,
+	y: -7.0d,
+	text: [
+		"锯木机可以将原木分解为六个木板，也可以拆解木制品以及用植物生产制浆生物质"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "3209c114",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					3b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 2s
+		}]
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "三倍矿物",
+	icon: {
+		id: "thermalexpansion:florb",
+		tag: {
+			Fluid: "pyrotheum"
+		},
+		Damage: 1s
+	},
+	x: 3.0d,
+	y: -0.5d,
+	dependencies: [
+		"8422a49a",
+		"a07884f0",
+		"1891be18",
+		"bf537bd8",
+		"d87c0d40"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "c54ba99e",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a452284f",
+		type: "loot",
+		table: 3
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "厉害了，环境科技的功能性结构都做到了满级，为你点赞",
+	x: 14.5d,
+	y: 1.5d,
+	dependencies: [
+		"2c973646",
+		"e4baf9a3",
+		"ace5feac",
+		"1a8c3ebe",
+		"69f5aa87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0cac441c",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "f2bf1d52",
+		type: "loot",
+		table: 2
+	}]
+}

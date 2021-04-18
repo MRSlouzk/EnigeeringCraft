@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 11.0d,
+	text: [
+		"使蜜蜂交配时不再杂交出新种类蜜蜂"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "0caa1e5f",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 19"
+		}]
+	}]
+}

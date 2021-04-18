@@ -1,0 +1,19 @@
+{
+	x: -7.0d,
+	y: -3.0d,
+	text: [
+		"此机器可以将MEK的气体液体相互转化",
+		"(MEK的气体是个神奇的存在)"
+	],
+	dependencies: [
+		"7e898721"
+	],
+	tasks: [{
+		uid: "38e5a2c6",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2"
+		}],
+		ignore_nbt: 1b
+	}]
+}

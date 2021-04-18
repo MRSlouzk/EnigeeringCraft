@@ -1,0 +1,17 @@
+{
+	x: -6.5d,
+	y: -3.5d,
+	text: [
+		"安装升级之后可以通过压缩机直接将四个锭压缩为齿轮"
+	],
+	dependencies: [
+		"60c953aa"
+	],
+	tasks: [{
+		uid: "a4867f2e",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 337"
+		}]
+	}]
+}

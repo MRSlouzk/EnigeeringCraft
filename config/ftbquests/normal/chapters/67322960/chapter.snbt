@@ -1,0 +1,7 @@
+{
+	title: "热力膨胀",
+	icon: "thermalfoundation:material 1 256",
+	always_invisible: false,
+	group: -2025200011,
+	default_quest_shape: ""
+}

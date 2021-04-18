@@ -1,0 +1,32 @@
+{
+	x: -6.0d,
+	y: -5.5d,
+	text: [
+		"冷冻机可以消耗水与能量生产冰与雪"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "cf5beec9",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 14s
+		}]
+	}]
+}

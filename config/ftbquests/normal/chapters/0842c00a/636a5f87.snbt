@@ -1,0 +1,85 @@
+{
+	title: "匠魂套装",
+	x: -11.0d,
+	y: 1.0d,
+	text: [
+		"  匠魂最基础的五个物品",
+		"  空白模具：用于制造各式模具",
+		"  模具加工台：将空白模具加工成各种模具",
+		"  部件加工台:利用模具将非金属材料加工成部件(PS:做部件的时候别按到shift了)",
+		"  合成站:和合成台一样，但是退出页面时可以保留物品，放到箱子旁边时可以在合成时直接使用箱子中物品",
+		"  模具箱:存储各式模具",
+		"  工具装配台:用于组装工具以及对工具进行强化(工具锻造台为其升级版，可以组装更多的工具武器)。左侧第一行第一个铁砧样的是工具修复与强化模式，剩下的都是对应工具的组装界面，点击后右下角会显示所需要的部件，放置部件以后右上角会在不组装工具武器的情况下显示工具武器的各种属性(就相当于预览)"
+	],
+	dependencies: [
+		"cfe3a0a8"
+	],
+	tasks: [{
+		uid: "c73b9452",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: false
+	},
+	{
+		uid: "f4edef09",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}]
+	},
+	{
+		uid: "81a1d798",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f4d27b66",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 4"
+		}]
+	},
+	{
+		uid: "347ca755",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}]
+	},
+	{
+		uid: "b6e5ad3c",
+		type: "item",
+		items: [{
+			item: "tconstruct:pattern"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "3fb072b9",
+		type: "item",
+		item: "tconstruct:pattern",
+		count: 4
+	}]
+}

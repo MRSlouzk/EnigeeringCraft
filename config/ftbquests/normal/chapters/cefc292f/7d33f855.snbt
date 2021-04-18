@@ -1,0 +1,58 @@
+{
+	title: "飞龙武具",
+	icon: {
+		id: "draconicevolution:wyvern_sword",
+		tag: {
+			Energy: 4000000
+		}
+	},
+	x: 3.0d,
+	y: 2.5d,
+	text: [
+		"双足飞龙的武器工具",
+		"(什么你问我为什么木得锄头?那玩意啥用都没有啊)",
+		"可被RF容量升级，采掘速度升级，范围挖掘升级，攻击速度升级，范围伤害升级，攻击伤害升级升级"
+	],
+	dependencies: [
+		"34449f52"
+	],
+	tasks: [{
+		uid: "eef1c696",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 9,
+					Items: []
+				}
+			},
+			id: "draconicevolution:wyvern_pick"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a883b91a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 9,
+					Items: []
+				}
+			},
+			id: "draconicevolution:wyvern_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e59a8fe5",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

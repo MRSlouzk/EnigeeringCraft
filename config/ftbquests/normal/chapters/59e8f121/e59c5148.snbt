@@ -1,0 +1,15 @@
+{
+	title: "机器人信标的强化部件",
+	x: -2.5d,
+	y: 3.5d,
+	text: [
+		"机器人信标的强化部件会给予玩家对应的属性效果"
+	],
+	dependencies: [
+		"1e2bf2f8"
+	],
+	tasks: [{
+		uid: "42fcdf60",
+		type: "checkmark"
+	}]
+}

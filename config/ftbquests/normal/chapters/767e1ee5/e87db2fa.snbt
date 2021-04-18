@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 7.0d,
+	text: [
+		"使需要露天环境工作的蜜蜂工作"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "bc6cdcca",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 12"
+		}]
+	}]
+}

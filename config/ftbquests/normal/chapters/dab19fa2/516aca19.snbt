@@ -1,0 +1,27 @@
+{
+	title: "跨空间传输",
+	icon: "enderio:block_transceiver",
+	x: -2.5d,
+	y: 8.0d,
+	text: [
+		"先选择要传输的东西(物品，流体，能量)，然后建立频道，选择发送并在左下角插入电容，然后向空间传送器输入对应的东西",
+		"另一个传送器也插入电容，跳至要传输的东西的界面，选择对应频道，然后调进接收即可",
+		""
+	],
+	dependencies: [
+		"4dcc960c"
+	],
+	tasks: [{
+		uid: "a07870e6",
+		type: "item",
+		items: [{
+			item: "enderio:block_transceiver"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e3a80307",
+		type: "item",
+		item: "enderio:block_transceiver"
+	}]
+}

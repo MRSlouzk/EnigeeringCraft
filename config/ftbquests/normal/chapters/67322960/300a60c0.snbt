@@ -1,0 +1,18 @@
+{
+	x: 5.5d,
+	y: -8.5d,
+	text: [
+		"放置于旅行管道系统的两端，可使用物品标记，传输速度快，但不能垂直运输与设置多个路径点"
+	],
+	dependencies: [
+		"32108eb1",
+		"27c4f63d"
+	],
+	tasks: [{
+		uid: "bf6e7ae1",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_64 1 2"
+		}]
+	}]
+}

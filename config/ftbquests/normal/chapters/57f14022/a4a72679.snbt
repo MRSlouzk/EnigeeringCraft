@@ -1,0 +1,17 @@
+{
+	x: -7.0d,
+	y: 1.0d,
+	text: [
+		"重要合成材料"
+	],
+	dependencies: [
+		"7114fe51"
+	],
+	tasks: [{
+		uid: "99544291",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_ultimate"
+		}]
+	}]
+}

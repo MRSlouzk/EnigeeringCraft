@@ -1,0 +1,21 @@
+{
+	x: -8.0d,
+	y: 0.5d,
+	dependencies: [
+		"a852a07c"
+	],
+	tasks: [{
+		uid: "c13afad5",
+		type: "item",
+		title: "粘乎乎的",
+		items: [{
+			item: "minecraft:clay_ball"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "4604b828",
+		type: "loot",
+		table: 0
+	}]
+}

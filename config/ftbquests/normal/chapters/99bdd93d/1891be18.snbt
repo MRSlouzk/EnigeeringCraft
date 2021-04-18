@@ -1,0 +1,18 @@
+{
+	x: 0.5d,
+	y: -0.5d,
+	dependencies: [
+		"b40b2d53"
+	],
+	hide: true,
+	tasks: [{
+		uid: "43dda53c",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:crusher"
+			}
+		}]
+	}]
+}

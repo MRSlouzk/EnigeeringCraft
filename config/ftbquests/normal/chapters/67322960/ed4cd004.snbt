@@ -1,0 +1,17 @@
+{
+	x: -7.5d,
+	y: -3.5d,
+	text: [
+		"热力的货币在本整合包中并没有太大的用途，顶多是用来发电而已"
+	],
+	dependencies: [
+		"4e79cbd3"
+	],
+	tasks: [{
+		uid: "1a6f7e67",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:coin 1 103"
+		}]
+	}]
+}

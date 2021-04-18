@@ -1,0 +1,7 @@
+{
+	title: "匠魂",
+	icon: "tconstruct:materials",
+	always_invisible: false,
+	group: 987920466,
+	default_quest_shape: ""
+}

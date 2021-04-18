@@ -1,0 +1,17 @@
+{
+	x: -8.5d,
+	y: -9.5d,
+	text: [
+		"可以制作部分有流体参与的配方的合成(信素粉，流明粉等等)"
+	],
+	dependencies: [
+		"fc379eb6"
+	],
+	tasks: [{
+		uid: "cd857ba3",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 433"
+		}]
+	}]
+}

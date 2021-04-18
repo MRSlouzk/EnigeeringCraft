@@ -1,0 +1,17 @@
+{
+	x: -2.5d,
+	y: 14.5d,
+	text: [
+		"(没想到吧，我也能传输流体)，可以配合浇筑口(相当于泵，放在流体容器上输入红石信号即可抽出流体)进行流体传输"
+	],
+	dependencies: [
+		"c64deb81"
+	],
+	tasks: [{
+		uid: "c9c14ad1",
+		type: "item",
+		items: [{
+			item: "tconstruct:channel"
+		}]
+	}]
+}

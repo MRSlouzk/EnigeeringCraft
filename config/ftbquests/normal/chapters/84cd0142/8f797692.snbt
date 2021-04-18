@@ -1,0 +1,14 @@
+{
+	x: -13.5d,
+	y: 10.5d,
+	text: [
+		"32768RF"
+	],
+	tasks: [{
+		uid: "eb1e3899",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 2"
+		}]
+	}]
+}

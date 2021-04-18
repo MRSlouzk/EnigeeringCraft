@@ -1,0 +1,47 @@
+{
+	title: "电路板压制",
+	icon: "appliedenergistics2:inscriber",
+	x: 5.0d,
+	y: 0.0d,
+	text: [
+		"压印器是AE2的基础设备，用于制作三种处理器，配方请查询JEI"
+	],
+	dependencies: [
+		"1cf1b651",
+		"46e93fdd",
+		"e8dd250c"
+	],
+	tasks: [{
+		uid: "25350dc2",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:inscriber"
+		}]
+	},
+	{
+		uid: "f5fa0f6e",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 23"
+		}]
+	},
+	{
+		uid: "579d00d9",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 24"
+		}]
+	},
+	{
+		uid: "e4943ca8",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 22"
+		}]
+	}],
+	rewards: [{
+		uid: "8664ab7b",
+		type: "loot",
+		table: 1
+	}]
+}

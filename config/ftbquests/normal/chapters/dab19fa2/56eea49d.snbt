@@ -1,0 +1,18 @@
+{
+	title: "锁定抽屉",
+	x: -1.5d,
+	y: 0.5d,
+	text: [
+		"用抽屉钥匙可以为抽屉上锁，此时只能存入抽屉内原有的物品，无法再存入其他的物品(若原来没有物品则此抽屉无法自动存入东西，只能手动放入物品后才会自动输入)"
+	],
+	dependencies: [
+		"d21a268e"
+	],
+	tasks: [{
+		uid: "4a709a7e",
+		type: "item",
+		items: [{
+			item: "storagedrawers:drawer_key"
+		}]
+	}]
+}

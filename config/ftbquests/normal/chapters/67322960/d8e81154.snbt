@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	text: [
+		"可以将其面前11*11*11范围内的生物捕捉到生物球里(Pokeman???)"
+	],
+	dependencies: [
+		"4adafbf9"
+	],
+	tasks: [{
+		uid: "165c5c45",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				]
+			},
+			Damage: 11s
+		}]
+	}]
+}

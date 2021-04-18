@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 1.0d,
+	text: [
+		"可以将基因模板/基因样本上的属性压印到生物上面(蜜蜂的话有几率会被刷成卑贱种!!!)"
+	],
+	dependencies: [
+		"6b84ee85"
+	],
+	tasks: [{
+		uid: "7e8fb874",
+		type: "item",
+		items: [{
+			item: "gendustry:imprinter"
+		}]
+	}]
+}

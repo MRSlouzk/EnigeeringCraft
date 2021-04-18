@@ -1,0 +1,18 @@
+{
+	title: "超强黑曜石",
+	x: -1.0d,
+	y: 0.0d,
+	text: [
+		"注入龙力的黑曜石具有非常强大的爆炸抗性"
+	],
+	dependencies: [
+		"316acf5a"
+	],
+	tasks: [{
+		uid: "5839a4b4",
+		type: "item",
+		items: [{
+			item: "draconicevolution:infused_obsidian"
+		}]
+	}]
+}

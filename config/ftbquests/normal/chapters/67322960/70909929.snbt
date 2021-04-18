@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: 3.0d,
+	text: [
+		"放在生物捕捉机里可以捕捉生物，也可以右键扔到生物身上捕捉生物(精灵球???)",
+		"一次性用品"
+	],
+	dependencies: [
+		"d8e81154"
+	],
+	tasks: [{
+		uid: "fd27a46b",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:morb"
+		}]
+	}]
+}

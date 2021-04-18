@@ -1,0 +1,31 @@
+{
+	x: -2.5d,
+	y: 4.0d,
+	text: [
+		"可以将输入的物品从各个面输出，调节一次输出的物品量，并可以为每个面设置过滤(空手潜行右键那个面即可)"
+	],
+	dependencies: [
+		"4adafbf9"
+	],
+	tasks: [{
+		uid: "06cfe76c",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					2b,
+					1b,
+					1b,
+					1b,
+					1b,
+					1b
+				]
+			},
+			Damage: 5s
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -5.0d,
+	y: 1.0d,
+	text: [
+		"使附近的玩家有生命回复效果"
+	],
+	dependencies: [
+		"e59c5148"
+	],
+	tasks: [{
+		uid: "e24f4cc6",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_regeneration"
+		}]
+	}]
+}

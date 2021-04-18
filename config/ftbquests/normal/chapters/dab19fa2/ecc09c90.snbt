@@ -1,0 +1,24 @@
+{
+	title: "应用能源2",
+	icon: "appliedenergistics2:controller",
+	x: 1.0d,
+	y: 0.0d,
+	text: [
+		"应用能源2(Applied energistics)是一个集存储，物流，自动化为一体的强大的科技模组",
+		"它可以充当一个巨大的储物箱，也可以是一个物品交互中心，也可以制作各种自动化，解放双手！！！"
+	],
+	dependencies: [
+		"e1f2f732",
+		"6a157a9a"
+	],
+	tasks: [{
+		uid: "8ee0c955",
+		type: "checkmark",
+		title: "应用能源2"
+	}],
+	rewards: [{
+		uid: "10fe0310",
+		type: "loot",
+		table: 1
+	}]
+}

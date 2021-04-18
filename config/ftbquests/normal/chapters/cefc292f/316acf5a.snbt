@@ -1,0 +1,19 @@
+{
+	title: "龙之尘埃",
+	x: -1.0d,
+	y: -2.0d,
+	text: [
+		"主世界，地狱，末地可以找到名为\"龙矿\"的矿物，破坏会掉落龙尘，烧制得到的龙锭是本模组重要合成原料"
+	],
+	dependencies: [
+		"727915dd"
+	],
+	tasks: [{
+		uid: "845db7b1",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_dust"
+		}],
+		count: 16L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -8.5d,
+	text: [
+		"旅行管道可以在任意方向进行传送(玩家运输)，可以设置多个路径点进行传输"
+	],
+	dependencies: [
+		"5aa8bc54",
+		"c59e059d",
+		"6bea2a1d"
+	],
+	tasks: [{
+		uid: "1d519d3e",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_64"
+		}]
+	}]
+}

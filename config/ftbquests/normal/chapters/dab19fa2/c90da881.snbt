@@ -1,0 +1,19 @@
+{
+	title: "ME设备 #4",
+	icon: "appliedenergistics2:part 1 280",
+	x: 9.0d,
+	y: 7.0d,
+	text: [
+		"发信器可以检测网络中执行物品的数量并根据其数量与给定的数字之间的大小关系来发出红石信号，右键打开GUI即可设置"
+	],
+	dependencies: [
+		"a91f62be"
+	],
+	tasks: [{
+		uid: "839798f4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 280"
+		}]
+	}]
+}

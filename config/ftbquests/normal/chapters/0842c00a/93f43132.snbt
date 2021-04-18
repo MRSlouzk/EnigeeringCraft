@@ -1,0 +1,25 @@
+{
+	title: "进入地狱",
+	icon: "minecraft:netherrack",
+	x: -1.0d,
+	y: -1.5d,
+	dependencies: [
+		"31d2fd31"
+	],
+	tasks: [{
+		uid: "a0dcc0d3",
+		type: "dimension",
+		icon: "minecraft:netherrack",
+		dim: -1
+	},
+	{
+		uid: "2556a4f4",
+		type: "dimension",
+		dim: -1
+	}],
+	rewards: [{
+		uid: "7965d6fc",
+		type: "loot",
+		table: 0
+	}]
+}

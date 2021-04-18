@@ -1,0 +1,83 @@
+{
+	title: "终极五倍矿",
+	icon: "mekanism:crystal",
+	x: 9.0d,
+	y: -0.5d,
+	dependencies: [
+		"54cfb375"
+	],
+	hide: true,
+	tasks: [{
+		uid: "dba1c953",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 6"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "22e37c31",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 7"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "92892a51",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 8"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1884d194",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "748bba49",
+		type: "loot",
+		table: 3
+	},
+	{
+		uid: "647781f3",
+		type: "loot",
+		table: 3
+	},
+	{
+		uid: "5ce614cf",
+		type: "loot",
+		table: 3
+	},
+	{
+		uid: "1dde2673",
+		type: "loot",
+		table: 3
+	},
+	{
+		uid: "a486b33a",
+		type: "loot",
+		table: 3
+	},
+	{
+		uid: "b47779e8",
+		type: "xp",
+		xp: 1000000
+	},
+	{
+		uid: "9f5b928b",
+		type: "item",
+		item: {
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 3
+			}
+		},
+		count: 16
+	}]
+}

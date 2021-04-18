@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: -11.5d,
+	text: [
+		"安装此升级后可以加快机器充能速度"
+	],
+	dependencies: [
+		"a36f6bcc"
+	],
+	tasks: [{
+		uid: "75c55685",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 400"
+		}]
+	}]
+}

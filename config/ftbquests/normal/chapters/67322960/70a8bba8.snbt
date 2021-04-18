@@ -1,0 +1,17 @@
+{
+	x: -9.5d,
+	y: -7.0d,
+	text: [
+		"安装此升级后可以在处理原木的时候产出树脂/树汁"
+	],
+	dependencies: [
+		"031128a1"
+	],
+	tasks: [{
+		uid: "4cf57f6b",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 288"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "飞龙充电宝",
+	x: 4.0d,
+	y: 0.5d,
+	text: [
+		"飞龙通量容器可以存储64MRF的电能，相当于一个大型充电宝，手持它潜行右键可以切换模式。",
+		"可以被RF容量升级升级"
+	],
+	dependencies: [
+		"34449f52"
+	],
+	tasks: [{
+		uid: "b1fbe75e",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_capacitor"
+		}],
+		ignore_nbt: 1b
+	}]
+}

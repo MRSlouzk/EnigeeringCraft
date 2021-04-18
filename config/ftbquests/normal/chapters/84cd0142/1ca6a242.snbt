@@ -1,0 +1,10 @@
+{
+	title: "产电",
+	icon: "extrautils2:rainbowgenerator",
+	x: -27.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "b1dc9fde",
+		type: "checkmark"
+	}]
+}

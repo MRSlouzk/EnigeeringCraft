@@ -1,0 +1,32 @@
+{
+	title: "焦灼♂的棒棒",
+	icon: "minecraft:blaze_powder",
+	x: 1.0d,
+	y: -1.5d,
+	text: [
+		"地狱堡垒里会自然生成烈焰人，运气好的话还可以找到刷怪笼，烈焰棒是很重要的资源"
+	],
+	dependencies: [
+		"93f43132"
+	],
+	tasks: [{
+		uid: "8bad4a5a",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_rod"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "80b53015",
+		type: "item",
+		item: "minecraft:blaze_rod",
+		count: 4
+	},
+	{
+		uid: "3f30b7a4",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 16
+	}]
+}

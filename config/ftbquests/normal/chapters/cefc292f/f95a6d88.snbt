@@ -1,0 +1,39 @@
+{
+	title: "神龙之杖",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 27,
+				Items: []
+			}
+		},
+		id: "draconicevolution:draconic_staff_of_power",
+		tag: {
+			Energy: 48000000
+		}
+	},
+	x: 9.0d,
+	y: 0.5d,
+	text: [
+		"神龙之杖相当于万能工具，可以充当镐，铲，剑，且可以调节挖掘速度，范围，AOE伤害等等(原子分解机表示很淦)"
+	],
+	dependencies: [
+		"8303fd8b",
+		"74b157b5"
+	],
+	tasks: [{
+		uid: "8bff5165",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 27,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_staff_of_power"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

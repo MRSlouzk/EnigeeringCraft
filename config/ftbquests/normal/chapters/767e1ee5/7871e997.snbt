@@ -1,0 +1,17 @@
+{
+	x: -2.0d,
+	y: 6.0d,
+	text: [
+		"使需要沙漠群系才能工作的蜜蜂工作(需要其他群系的无法工作)"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "e609c8ec",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 16"
+		}]
+	}]
+}

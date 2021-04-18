@@ -1,0 +1,17 @@
+{
+	x: -4.5d,
+	y: -12.0d,
+	text: [
+		"安装此升级后只能制造砂砾，石灰岩，红沙，砂岩与红砂岩"
+	],
+	dependencies: [
+		"4d951224"
+	],
+	tasks: [{
+		uid: "21b6aef9",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 497"
+		}]
+	}]
+}

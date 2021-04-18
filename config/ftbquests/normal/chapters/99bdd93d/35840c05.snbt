@@ -1,0 +1,15 @@
+{
+	x: -6.0d,
+	y: -5.0d,
+	text: [
+		"本整合白中的矿物采集有多种方式，将在此处一一为您介绍"
+	],
+	dependencies: [
+		"4eb68cbe"
+	],
+	tasks: [{
+		uid: "23b43511",
+		type: "checkmark",
+		title: "矿物采集"
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "巨型箱子",
+	x: 1.0d,
+	y: -3.5d,
+	text: [
+		"龙箱拥有巨大的存储空间，还自带合成台与电炉，使用龙芯可以加快其效率"
+	],
+	dependencies: [
+		"55a6758a"
+	],
+	tasks: [{
+		uid: "fe29f233",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_chest"
+		}]
+	}]
+}

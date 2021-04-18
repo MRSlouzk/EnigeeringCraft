@@ -1,0 +1,11 @@
+{
+	x: -24.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "42d559d5",
+		type: "item",
+		items: [{
+			item: "environmentaltech:lightning_cont_1"
+		}]
+	}]
+}

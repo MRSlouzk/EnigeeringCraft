@@ -1,0 +1,17 @@
+{
+	x: -8.5d,
+	y: -8.5d,
+	text: [
+		"可以让合成配方中一个原料格子内的原料最多占用两个物品槽，避免因单个物品过多导致物品槽过满堵塞，机器停止工作"
+	],
+	dependencies: [
+		"fc379eb6"
+	],
+	tasks: [{
+		uid: "39375fab",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 432"
+		}]
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "挖矿必备神器",
+	x: -3.0d,
+	y: 0.5d,
+	text: [
+		"/dank/null一格可以存放大量物品，是挖矿时存储石头的好东西",
+		"Tips:按下ctrl左键切换取出模式，否则拿不出物品"
+	],
+	dependencies: [
+		"be84fb77"
+	],
+	tasks: [{
+		uid: "dc25ff8d",
+		type: "item",
+		items: [{
+			item: "danknull:dank_null_0"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a53d2070",
+		type: "item",
+		item: "danknull:dank_null_panel_1",
+		count: 4
+	}]
+}

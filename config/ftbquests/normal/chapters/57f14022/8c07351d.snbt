@@ -1,0 +1,17 @@
+{
+	x: -7.0d,
+	y: -0.5d,
+	text: [
+		"9*9的恐怖合成台，用于制作最终物品"
+	],
+	dependencies: [
+		"d51e4e77"
+	],
+	tasks: [{
+		uid: "89aecff3",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_ultimate"
+		}]
+	}]
+}

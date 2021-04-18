@@ -1,0 +1,17 @@
+{
+	x: -4.5d,
+	y: -4.0d,
+	text: [
+		"安装升级后可以增加磨粉机，感应炉，离心机，锯木机等有固体副产物的机器的固体副产物出产几率"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "7767ef0b",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 129"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: -9.5d,
+	text: [
+		"信素升级套件:强化槽升级为3个"
+	],
+	dependencies: [
+		"5c830dcb"
+	],
+	tasks: [{
+		uid: "3a0e5369",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	text: [
+		"将药水雾化释放到空气中(相当于滞留药水)，每3s消耗50mb(一瓶药500mb)",
+		"加入红石可以延长药水效果时间，加入萤石则可以增强药效"
+	],
+	dependencies: [
+		"4adafbf9"
+	],
+	tasks: [{
+		uid: "91512d3c",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					0b,
+					1b,
+					1b,
+					1b,
+					1b,
+					1b
+				]
+			},
+			Damage: 9s
+		}]
+	}],
+	rewards: [{
+		uid: "d8243b05",
+		type: "item",
+		item: "minecraft:nether_wart",
+		count: 8
+	}]
+}

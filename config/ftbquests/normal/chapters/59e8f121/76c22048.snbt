@@ -1,0 +1,17 @@
+{
+	x: -5.5d,
+	y: 5.0d,
+	text: [
+		"使附近的玩家有抗性提升效果"
+	],
+	dependencies: [
+		"e59c5148"
+	],
+	tasks: [{
+		uid: "11335c16",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_resistance"
+		}]
+	}]
+}

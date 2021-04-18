@@ -1,0 +1,22 @@
+{
+	x: -7.5d,
+	y: -2.0d,
+	text: [
+		"加压反应室可以生产制作塑料使用的基片与HDPE，同时也可以将煤炭转化为硫粉，缺硫的时候可以使用这种方法。同时可以消耗木板生产氢气(电解分离器:喵喵喵???)，消耗生物燃料生产乙烯(燃气发电机yyds!!!)"
+	],
+	dependencies: [
+		"7e898721"
+	],
+	tasks: [{
+		uid: "cbda5974",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				mekData: {}
+			},
+			Damage: 10s
+		}],
+		ignore_nbt: 1b
+	}]
+}

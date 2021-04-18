@@ -1,0 +1,17 @@
+{
+	x: -0.5d,
+	y: 12.5d,
+	text: [
+		"降低蜂箱内温度，以适应在寒冷环境下工作的蜜蜂"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "e659874b",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 7"
+		}]
+	}]
+}

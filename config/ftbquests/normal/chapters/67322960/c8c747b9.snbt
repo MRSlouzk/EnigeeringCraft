@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	text: [
+		"重要合成材料"
+	],
+	dependencies: [
+		"f782d3d0"
+	],
+	tasks: [{
+		uid: "69b76fa3",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 165"
+		}]
+	}]
+}

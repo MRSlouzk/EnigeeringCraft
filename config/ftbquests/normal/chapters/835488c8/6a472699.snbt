@@ -1,0 +1,19 @@
+{
+	x: -9.5d,
+	y: -2.0d,
+	text: [
+		"可以获得1.5倍的木材产出(木板与木棍)还可以得到制作许多实用物品的木屑",
+		"这台机器也可以拆解部分使用木板制作的物品"
+	],
+	dependencies: [
+		"7e898721"
+	],
+	tasks: [{
+		uid: "4f2cbcaf",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 5"
+		}],
+		ignore_nbt: 1b
+	}]
+}

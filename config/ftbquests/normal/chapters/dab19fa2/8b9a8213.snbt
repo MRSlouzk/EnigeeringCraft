@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: 13.0d,
+	dependencies: [
+		"ed3370ee"
+	],
+	tasks: [{
+		uid: "d1559e64",
+		type: "item",
+		items: [{
+			item: "enderio:block_vacuum_chest"
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "随意作品",
+	icon: {
+		id: "randomthings:timeinabottle",
+		tag: {
+			timeData: {}
+		}
+	},
+	always_invisible: false,
+	group: 1471999454,
+	default_quest_shape: ""
+}

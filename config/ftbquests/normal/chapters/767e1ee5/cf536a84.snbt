@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: 9.0d,
+	text: [
+		"使只在平原群系工作的蜜蜂工作(其他群系需求的蜜蜂无法工作!!!)"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "777e3087",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 17"
+		}]
+	}]
+}

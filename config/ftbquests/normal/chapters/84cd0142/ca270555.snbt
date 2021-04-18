@@ -1,0 +1,11 @@
+{
+	x: -24.5d,
+	y: 5.0d,
+	tasks: [{
+		uid: "e9cdd310",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:coal_generator"
+		}]
+	}]
+}

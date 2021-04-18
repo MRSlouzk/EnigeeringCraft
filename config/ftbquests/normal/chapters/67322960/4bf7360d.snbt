@@ -1,0 +1,32 @@
+{
+	x: -1.5d,
+	y: -9.5d,
+	text: [
+		"附魔机可以消耗书，经验与对应物品进行附魔"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "bae5c5b6",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 13s
+		}]
+	}]
+}

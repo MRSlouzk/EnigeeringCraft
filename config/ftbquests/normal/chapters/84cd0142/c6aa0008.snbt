@@ -1,0 +1,14 @@
+{
+	x: -17.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "f359ade3",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_ice"
+			}
+		}]
+	}]
+}

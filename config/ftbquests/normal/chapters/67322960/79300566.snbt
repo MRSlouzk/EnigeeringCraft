@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: -12.0d,
+	text: [
+		"安装此升级后生产各种石头时都不会消耗水了!"
+	],
+	dependencies: [
+		"4d951224"
+	],
+	tasks: [{
+		uid: "dca8120a",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 496"
+		}]
+	}]
+}

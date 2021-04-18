@@ -1,0 +1,28 @@
+{
+	title: "论末影珍珠的正确用法",
+	x: 3.0d,
+	y: -2.0d,
+	text: [
+		"高级传送符咒可以消耗末影珍珠传送到任何一个标记过的地方，潜行右键可以打开界面进行设置，右键可以消耗末影珍珠(前提符咒里已经填了末影珍珠)传送到选好的地方"
+	],
+	dependencies: [
+		"34449f52",
+		"b3f60009"
+	],
+	tasks: [{
+		uid: "55099b0e",
+		type: "item",
+		items: [{
+			id: "draconicevolution:dislocator_advanced",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "23f81dbd",
+		type: "item",
+		item: "minecraft:ender_pearl",
+		count: 16
+	}]
+}

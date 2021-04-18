@@ -1,0 +1,18 @@
+{
+	title: "物流体系",
+	icon: "minecraft:minecart",
+	x: -5.0d,
+	y: 9.5d,
+	text: [
+		"模组间物品，能量等的传输都要有一定的介质，而这就是物流模组所做的事情",
+		"(能量的传输请至\"电网建设\"章节查看)"
+	],
+	dependencies: [
+		"be84fb77",
+		"a49f82e8"
+	],
+	tasks: [{
+		uid: "a3097afe",
+		type: "checkmark"
+	}]
+}

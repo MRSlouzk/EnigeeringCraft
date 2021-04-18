@@ -1,0 +1,30 @@
+{
+	title: "权限管理",
+	icon: {
+		id: "appliedenergistics2:biometric_card",
+		tag: {}
+	},
+	x: 9.0d,
+	y: -0.5d,
+	text: [
+		"ME安全终端可以在多人游戏下限制他人与你的AE系统交互，将安全终端接入网络即可使用",
+		"要让他人有权更改网络只需让那人拿着身份卡潜行使用，将身份卡放入安全终端界面中间选定权限后放入上方格子中即可",
+		"PS:单人游戏不用身份卡也可以访问自己的网络",
+		"除此以外安全终端还可以将无线终端与网络连接起来"
+	],
+	dependencies: [
+		"d98d608f"
+	],
+	tasks: [{
+		uid: "fbddd1e9",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:security_station"
+		}]
+	}],
+	rewards: [{
+		uid: "cc921705",
+		type: "loot",
+		table: 1
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"锂是非常重要的化工材料，主要用来做合金与疏导矩阵的元件"
+	],
+	dependencies: [
+		"9cf7e927"
+	],
+	tasks: [{
+		uid: "d1312bc6",
+		type: "item",
+		items: [{
+			item: "mekanism:otherdust 1 4"
+		}]
+	}]
+}

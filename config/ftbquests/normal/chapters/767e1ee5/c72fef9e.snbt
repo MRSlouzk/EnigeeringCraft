@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 9.0d,
+	text: [
+		"合成材料"
+	],
+	dependencies: [
+		"6b84ee85"
+	],
+	tasks: [{
+		uid: "241a98ac",
+		type: "item",
+		items: [{
+			item: "gendustry:upgrade_frame"
+		}]
+	}]
+}

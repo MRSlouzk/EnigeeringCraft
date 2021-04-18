@@ -1,0 +1,84 @@
+{
+	title: "焦黑冶炼炉搭建",
+	icon: "tconstruct:seared 1 3",
+	x: -2.5d,
+	y: -1.0d,
+	text: [
+		"焦黑冶炼炉搭建",
+		"搭建教程:将焦黑砖摆成3*3平面，绕一圈摆上其它方块，在方块上再放上焦黑砖，焦黑冶炼炉控制器，焦黑储罐，排液口(四个角不用放)，在排液口外侧放上浇筑口，在浇筑口下方放上铸造台与铸造盆，搭建就完成了",
+		"使用:先向焦黑储罐内灌入岩浆，再右键焦黑控制器打开界面，左侧放入需要融化的东西，温度足够时(温度可以在JEI查到)，一段时间后就会融化进入冶炼炉。"
+	],
+	dependencies: [
+		"636a5f87"
+	],
+	tasks: [{
+		uid: "e2bdc3f7",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}],
+		count: 2L
+	},
+	{
+		uid: "899a1b6a",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared 1 3"
+		}],
+		count: 17L
+	},
+	{
+		uid: "e8688ea2",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_tank"
+		}]
+	},
+	{
+		uid: "928e2b23",
+		type: "item",
+		items: [{
+			item: "tconstruct:faucet"
+		}],
+		count: 2L
+	},
+	{
+		uid: "e2a605d7",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	},
+	{
+		uid: "44580f41",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting 1 1"
+		}]
+	},
+	{
+		uid: "7d8c861e",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting"
+		}]
+	}],
+	rewards: [{
+		uid: "726c8e6f",
+		type: "item",
+		item: "tconstruct:seared 1 3",
+		count: 12
+	},
+	{
+		uid: "351f94f3",
+		type: "item",
+		item: {
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "lava"
+			},
+			Damage: 1s
+		},
+		count: 4
+	}]
+}

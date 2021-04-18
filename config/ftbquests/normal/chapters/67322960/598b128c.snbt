@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: -2.5d,
+	text: [
+		"可以查看目标信息以及配置机器",
+		"(然鹅并木有搞懂它怎么用)"
+	],
+	dependencies: [
+		"acbbf027"
+	],
+	tasks: [{
+		uid: "d37c3425",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:meter"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: -7.5d,
+	text: [
+		"增加到了七个槽位"
+	],
+	dependencies: [
+		"9f95dbb4",
+		"f378b48a"
+	],
+	tasks: [{
+		uid: "2e8d83c1",
+		type: "item",
+		items: [{
+			item: "mekanism:tierinstaller 1 2"
+		}],
+		ignore_nbt: 1b
+	}]
+}

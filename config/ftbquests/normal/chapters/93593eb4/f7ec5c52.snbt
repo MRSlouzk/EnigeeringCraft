@@ -1,0 +1,25 @@
+{
+	title: "工具锻造台",
+	icon: {
+		id: "tconstruct:toolforge",
+		tag: {
+			textureBlock: {
+				id: "minecraft:iron_block",
+				Count: 1b,
+				Damage: 0s
+			}
+		}
+	},
+	x: 1.5d,
+	y: -1.0d,
+	text: [
+		"工具锻造台是工具装配台升级版，可以组装更多的武器工具"
+	],
+	dependencies: [
+		"b485a454"
+	],
+	tasks: [{
+		uid: "ce24c427",
+		type: "checkmark"
+	}]
+}

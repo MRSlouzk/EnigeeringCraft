@@ -1,0 +1,9 @@
+{
+	title: "物品收集",
+	x: 7.0d,
+	y: 14.0d,
+	tasks: [{
+		uid: "9d5dad23",
+		type: "checkmark"
+	}]
+}

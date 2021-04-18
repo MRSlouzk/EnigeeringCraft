@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	text: [
+		"诱变剂相当于杂交室，在此杂交的蜜蜂几乎必出其杂交后代(比如草原加森林必出寻常)"
+	],
+	dependencies: [
+		"4375f967"
+	],
+	tasks: [{
+		uid: "435bd116",
+		type: "item",
+		items: [{
+			item: "gendustry:mutatron"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: -7.0d,
+	text: [
+		"安装此升级后有机灌注机可以进行树木种植"
+	],
+	dependencies: [
+		"99db0767"
+	],
+	tasks: [{
+		uid: "c6289e73",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 323"
+		}]
+	}]
+}

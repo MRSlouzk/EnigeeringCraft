@@ -1,0 +1,14 @@
+{
+	x: -10.5d,
+	y: 6.5d,
+	text: [
+		"3333RF"
+	],
+	tasks: [{
+		uid: "184e9f70",
+		type: "item",
+		items: [{
+			item: "extrautils2:grocket 1 6"
+		}]
+	}]
+}

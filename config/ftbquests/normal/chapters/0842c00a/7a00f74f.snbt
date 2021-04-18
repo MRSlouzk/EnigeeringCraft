@@ -1,0 +1,21 @@
+{
+	title: "冰冷的金属",
+	x: -7.0d,
+	y: -1.5d,
+	dependencies: [
+		"a852a07c"
+	],
+	tasks: [{
+		uid: "32b7cc2f",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ore"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "fd164bc7",
+		type: "choice",
+		table: 0
+	}]
+}

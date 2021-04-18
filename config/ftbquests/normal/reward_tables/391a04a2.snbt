@@ -1,0 +1,50 @@
+{
+	title: "S1",
+	icon: {
+		id: "ftbquests:lootcrate",
+		tag: {
+			type: "s1"
+		}
+	},
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:sapling",
+		count: 8,
+		weight: 15
+	},
+	{
+		item: "minecraft:planks",
+		count: 32,
+		weight: 25
+	},
+	{
+		item: "minecraft:cobblestone",
+		count: 16,
+		weight: 25
+	},
+	{
+		item: "minecraft:diamond",
+		random_bonus: 3,
+		weight: 5
+	},
+	{
+		item: "minecraft:gravel",
+		count: 16,
+		weight: 15
+	},
+	{
+		item: "minecraft:sand",
+		count: 16,
+		weight: 15
+	}],
+	loot_crate: {
+		string_id: "s1",
+		item_name: "奖励箱",
+		color: 16777215,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

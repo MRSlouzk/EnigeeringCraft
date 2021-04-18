@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: 1.0d,
+	text: [
+		"用用来保存单个属性的基因"
+	],
+	dependencies: [
+		"039e6479"
+	],
+	tasks: [{
+		uid: "58e45f4a",
+		type: "item",
+		items: [{
+			item: "gendustry:gene_sample_blank"
+		}]
+	}]
+}

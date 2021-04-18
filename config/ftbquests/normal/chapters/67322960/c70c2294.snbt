@@ -1,0 +1,32 @@
+{
+	x: 4.5d,
+	y: -6.0d,
+	text: [
+		"相当于酿造台，使用材料加工药水"
+	],
+	dependencies: [
+		"72a375d3"
+	],
+	tasks: [{
+		uid: "0d1eeb8f",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 12s
+		}]
+	}]
+}

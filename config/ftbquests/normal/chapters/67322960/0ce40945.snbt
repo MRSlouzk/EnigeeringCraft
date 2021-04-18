@@ -1,0 +1,22 @@
+{
+	x: -1.5d,
+	y: -2.0d,
+	text: [
+		"便携式垃圾桶，打开后可销毁放进去的物品"
+	],
+	dependencies: [
+		"4a9b6414"
+	],
+	tasks: [{
+		uid: "741b8f68",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			},
+			Damage: 100s
+		}],
+		ignore_nbt: 1b
+	}]
+}

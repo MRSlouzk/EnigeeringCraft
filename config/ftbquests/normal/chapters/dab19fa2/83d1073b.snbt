@@ -1,0 +1,64 @@
+{
+	title: "AE基础一套",
+	icon: "appliedenergistics2:part 1 16",
+	x: 7.0d,
+	y: 1.5d,
+	text: [
+		"{因为网上的AE教程很多，作者也没有这么多时间去写很详细的教程，本整合包中只会挑选一些重点进行教学}",
+		"构建一个最基础的AE网络，需要线缆，驱动器(看成磁盘柜就行，不过也可以用存储总线代替，之后再谈)，合成或者存储面板(相当于显示屏，鼠标，输入输出端口的综合)与外置能量输入",
+		"首先是能量输入，AE有自己独立的能源\"AE\"，可以单向转换",
+		"AE2可以接受RF,EU,J等很多模组的能源，要想转换，需要制作一个能源转换器或者ME控制器，其中一面接入其它能源，另一面连入AE网络即可供能",
+		"AE中的各个设备之间不必一定使用线缆连接，设备之间贴在一起也相当于连接在一起"
+	],
+	dependencies: [
+		"77098556"
+	],
+	tasks: [{
+		uid: "d70a0c30",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 16"
+		}]
+	},
+	{
+		uid: "55e6d3ae",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 360"
+		}]
+	},
+	{
+		uid: "b6de3837",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:drive"
+		}]
+	},
+	{
+		uid: "b10620f3",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:storage_cell_1k",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "84c640a8",
+		type: "item",
+		item: "appliedenergistics2:part 1 16",
+		count: 8
+	},
+	{
+		uid: "5fee6f8a",
+		type: "item",
+		item: "appliedenergistics2:material 1 35",
+		count: 3
+	},
+	{
+		uid: "39dcc838",
+		type: "loot",
+		table: 1
+	}]
+}

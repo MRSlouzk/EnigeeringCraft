@@ -1,0 +1,19 @@
+{
+	title: "自然之力",
+	icon: "minecraft:clock",
+	x: 1.5d,
+	y: 1.0d,
+	text: [
+		"苍穹变换器可以消耗能量调节时间与天气"
+	],
+	dependencies: [
+		"34449f52"
+	],
+	tasks: [{
+		uid: "89db33ac",
+		type: "item",
+		items: [{
+			item: "draconicevolution:celestial_manipulator"
+		}]
+	}]
+}

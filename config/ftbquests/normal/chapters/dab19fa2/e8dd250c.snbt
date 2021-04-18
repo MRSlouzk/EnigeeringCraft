@@ -1,0 +1,30 @@
+{
+	title: "硅的生产",
+	icon: "appliedenergistics2:material 1 5",
+	x: 3.5d,
+	y: -1.5d,
+	text: [
+		"每合成一个处理器就需要一个硅，而硅可以通过烧制(赛特斯)石英粉获取，也可以通过MEK粉碎机，造石加工机，小制造机制作"
+	],
+	dependencies: [
+		"be84fb77"
+	],
+	tasks: [{
+		uid: "a0035a0f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "itemSilicon",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any itemSilicon"
+				}
+			}
+		}]
+	}]
+}

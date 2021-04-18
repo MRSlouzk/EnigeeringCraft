@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	text: [
+		"幸运强化部件可以增加每次采集的矿物数量(不加的话每一次只能采到一个),同时也增加耗电量"
+	],
+	dependencies: [
+		"56223595"
+	],
+	tasks: [{
+		uid: "c8615ef5",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_luck"
+		}]
+	}]
+}

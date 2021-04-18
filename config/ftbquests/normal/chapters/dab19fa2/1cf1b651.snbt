@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: -2.0d,
+	text: [
+		"将充能赛特斯石英，红石，石英按照1:1:1比例丢入同一格水，等一会后即可。",
+		"充能赛特斯可以将赛特斯石英放入AE2的充能器或者热力的能量灌注机大量制作"
+	],
+	dependencies: [
+		"b65b23d1"
+	],
+	tasks: [{
+		uid: "9f2ccc62",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 7"
+		}],
+		count: 16L
+	}]
+}

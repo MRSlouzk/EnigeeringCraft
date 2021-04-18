@@ -1,0 +1,13 @@
+{
+	title: "流体",
+	icon: "thermalexpansion:florb",
+	x: -1.5d,
+	y: 12.0d,
+	dependencies: [
+		"1c013ce9"
+	],
+	tasks: [{
+		uid: "3ce8f362",
+		type: "checkmark"
+	}]
+}

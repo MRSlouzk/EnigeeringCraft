@@ -1,0 +1,37 @@
+{
+	title: "沐浴阳光",
+	icon: {
+		id: "tconstruct:rack",
+		tag: {
+			textureBlock: {
+				id: "minecraft:wooden_slab",
+				Count: 1b,
+				Damage: 0s
+			}
+		},
+		Damage: 1s
+	},
+	x: -4.5d,
+	y: -1.0d,
+	text: [
+		"晾干架可以将腐肉转化为腐肉干，动物肉转化为皮革，是一个很实用的东西"
+	],
+	dependencies: [
+		"46a3f2ee"
+	],
+	tasks: [{
+		uid: "c24a68e4",
+		type: "item",
+		items: [{
+			id: "tconstruct:rack",
+			tag: {
+				textureBlock: {
+					id: "minecraft:wooden_slab",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}]
+	}]
+}

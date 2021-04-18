@@ -1,0 +1,18 @@
+{
+	title: "龙之研究",
+	icon: "draconicevolution:draconic_core",
+	x: 9.0d,
+	y: 0.0d,
+	dependencies: [
+		"ba74be68",
+		"fdcd3de3"
+	],
+	tasks: [{
+		uid: "1b86f39a",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_ingot"
+		}],
+		count: 32L
+	}]
+}

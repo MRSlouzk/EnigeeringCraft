@@ -1,0 +1,17 @@
+{
+	x: -4.5d,
+	y: 7.0d,
+	text: [
+		"使附近的玩家有生命提升效果"
+	],
+	dependencies: [
+		"e59c5148"
+	],
+	tasks: [{
+		uid: "b3cf4890",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_health_boost"
+		}]
+	}]
+}

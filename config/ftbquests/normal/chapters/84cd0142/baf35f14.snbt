@@ -1,0 +1,11 @@
+{
+	x: -15.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "8697a3da",
+		type: "item",
+		items: [{
+			item: "rftools:powercell"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -3.0d,
+	y: 9.0d,
+	text: [
+		"可以大幅度缩减蜜蜂每次的杂交时长，可以安装多个"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "5cfb3b9b",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 1"
+		}]
+	}]
+}

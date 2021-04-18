@@ -1,0 +1,30 @@
+{
+	title: "通用机械(MEK)",
+	icon: "mekanism:basicblock 1 8",
+	x: -11.5d,
+	y: -5.0d,
+	text: [
+		"通用机械(Mekanism)是一个老牌科技模组，由四个独立模组:MEK基础，MEK工具，MEK矿物与MEK发电组成",
+		"MEK有着超高效的工厂，一次处理更多物品，有可以精准获取矿物的数字采矿机，还有产电量巨大的反应堆和涡轮，以及科技模组中最大化矿物处理:五倍矿",
+		"MEK可以说是一个几近全能的模组，尤其是在矿物生产线方面尤为突出"
+	],
+	dependencies: [
+		"d93a8e3c"
+	],
+	tasks: [{
+		uid: "a1058eac",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "ce71666f",
+		type: "item",
+		item: {
+			id: "mekanism:configurator",
+			tag: {
+				mekData: {
+					energyStored: 60000.0d
+				}
+			}
+		}
+	}]
+}

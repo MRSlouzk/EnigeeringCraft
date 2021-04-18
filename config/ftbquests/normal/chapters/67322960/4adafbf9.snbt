@@ -1,0 +1,18 @@
+{
+	x: -2.0d,
+	y: 1.5d,
+	text: [
+		"热力膨胀基础合成材料",
+		"用此框架制作的机器都不需要供电"
+	],
+	dependencies: [
+		"acbbf027"
+	],
+	tasks: [{
+		uid: "129a686c",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame 1 64"
+		}]
+	}]
+}

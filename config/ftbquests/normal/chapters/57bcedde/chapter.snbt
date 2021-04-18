@@ -1,0 +1,7 @@
+{
+	title: "便捷游戏",
+	icon: "extrautils2:itemcreativebuilderswand",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

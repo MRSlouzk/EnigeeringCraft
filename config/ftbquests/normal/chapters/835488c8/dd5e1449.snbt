@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	text: [
+		"通入能量之后可以发出一束激光，激光可以破坏方块，也可以对实体造成伤害"
+	],
+	dependencies: [
+		"ef64ac74"
+	],
+	tasks: [{
+		uid: "6be6e86a",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 13"
+		}],
+		ignore_nbt: 1b
+	}]
+}

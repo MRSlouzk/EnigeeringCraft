@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: -2.0d,
+	text: [
+		"供电后电动泵可以抽取其下方的液体",
+		"能量从侧边绿口输入，液体从上面输出"
+	],
+	dependencies: [
+		"3896208f",
+		"bebca753"
+	],
+	tasks: [{
+		uid: "092d0d03",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 12"
+		}],
+		ignore_nbt: 1b
+	}]
+}

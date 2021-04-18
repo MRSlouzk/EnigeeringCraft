@@ -1,0 +1,32 @@
+{
+	x: -7.0d,
+	y: -6.0d,
+	text: [
+		"磨粉机可以将物品磨成粉状形式，也可以分解羊毛，工具武器等"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "2c93af04",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					3b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 1s
+		}]
+	}]
+}

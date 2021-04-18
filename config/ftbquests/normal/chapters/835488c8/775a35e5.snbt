@@ -1,0 +1,18 @@
+{
+	x: -8.5d,
+	y: -6.0d,
+	text: [
+		"物流整理机可以根据总和管道颜色与物品过滤器对物品进行分类，处理多线物品分类时比较适合"
+	],
+	dependencies: [
+		"ad843343"
+	],
+	tasks: [{
+		uid: "b7fb089e",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 15"
+		}],
+		ignore_nbt: 1b
+	}]
+}

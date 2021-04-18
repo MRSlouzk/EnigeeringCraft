@@ -1,0 +1,31 @@
+{
+	title: "进军末地！",
+	icon: "minecraft:ender_eye",
+	x: 3.0d,
+	y: -1.5d,
+	text: [
+		"利用末影之眼可以找到要塞，要塞中会生成传送门框架，找到它，将12颗末影之眼放满，即可前往末地！"
+	],
+	dependencies: [
+		"b62540c4"
+	],
+	tasks: [{
+		uid: "b5d347ae",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_eye"
+		}]
+	}],
+	rewards: [{
+		uid: "2795ea1b",
+		type: "item",
+		item: "minecraft:cobblestone",
+		count: 64
+	},
+	{
+		uid: "bc575680",
+		type: "item",
+		item: "minecraft:ender_pearl",
+		count: 16
+	}]
+}

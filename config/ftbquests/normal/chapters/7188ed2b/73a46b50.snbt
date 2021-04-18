@@ -1,0 +1,29 @@
+{
+	title: "混沌碎片",
+	icon: "draconicevolution:chaos_shard",
+	x: -1.5d,
+	y: 0.0d,
+	text: [
+		"打混沌龙是很痛苦的事情，所以..."
+	],
+	can_repeat: true,
+	dependencies: [
+		"308d44ba"
+	],
+	tasks: [{
+		uid: "2cf8656c",
+		type: "checkmark"
+	},
+	{
+		uid: "d53bb8cc",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaos_shard 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "905104bc",
+		type: "item",
+		item: "draconicevolution:chaos_shard"
+	}]
+}

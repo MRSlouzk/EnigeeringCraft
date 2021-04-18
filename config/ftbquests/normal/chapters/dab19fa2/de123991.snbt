@@ -1,0 +1,19 @@
+{
+	title: "增容",
+	icon: "appliedenergistics2:material 1 27",
+	x: 10.0d,
+	y: 4.0d,
+	text: [
+		"容量卡可以扩充存储总线，输入输出总线等的标记物品的种类数量"
+	],
+	dependencies: [
+		"ce5b01ea"
+	],
+	tasks: [{
+		uid: "ecbc7710",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 27"
+		}]
+	}]
+}

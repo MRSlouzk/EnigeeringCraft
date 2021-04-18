@@ -1,0 +1,18 @@
+{
+	x: -9.5d,
+	y: -5.0d,
+	text: [
+		"冶金灌注机是MEK里制作的第一台机器，用来制作mek的基础合成材料富集合金，强化合金，原子合金，还可以制作强化黑曜石"
+	],
+	dependencies: [
+		"5c5d8162"
+	],
+	tasks: [{
+		uid: "74c66be8",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 8"
+		}],
+		ignore_nbt: 1b
+	}]
+}

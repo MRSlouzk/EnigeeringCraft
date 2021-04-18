@@ -1,0 +1,22 @@
+{
+	title: "最终一战(大雾",
+	x: 5.0d,
+	y: -1.5d,
+	text: [
+		"进入末地后，开始与末影龙进行激战，祝你好运！"
+	],
+	dependencies: [
+		"1d63adab"
+	],
+	tasks: [{
+		uid: "4dd4390d",
+		type: "dimension",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "e507ebfa",
+		type: "item",
+		item: "minecraft:diamond_ore",
+		count: 16
+	}]
+}

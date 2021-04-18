@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: 13.0d,
+	text: [
+		"气体导管只有mek有(也只有mek会用气体了)，当然enderio有个附属添加了可以传输气体的导管",
+		"(MEK导管使用方式请参见第二科技时代-通用机械章节的\"用电的螺丝刀/扳手?\")"
+	],
+	dependencies: [
+		"3da26069"
+	],
+	tasks: [{
+		uid: "51fc3622",
+		type: "item",
+		title: "气体导管",
+		items: [{
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 3
+			},
+			Damage: 2s
+		}],
+		count: 8L
+	}]
+}

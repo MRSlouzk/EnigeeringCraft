@@ -1,0 +1,17 @@
+{
+	x: -2.5d,
+	y: 11.0d,
+	text: [
+		"使只在地狱工作的蜜蜂工作(不耐热的无法再工作)"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "30f5ac18",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 13"
+		}]
+	}]
+}

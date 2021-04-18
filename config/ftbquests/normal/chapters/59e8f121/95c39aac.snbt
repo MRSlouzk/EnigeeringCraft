@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: 4.0d,
+	text: [
+		"使附近的玩家有抗火效果"
+	],
+	dependencies: [
+		"e59c5148"
+	],
+	tasks: [{
+		uid: "cb9b908e",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_fire_resistance"
+		}]
+	}]
+}

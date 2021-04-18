@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: 10.0d,
+	text: [
+		"增加蜜蜂的工作范围(寻花范围)"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "885fdf1e",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 3"
+		}]
+	}]
+}

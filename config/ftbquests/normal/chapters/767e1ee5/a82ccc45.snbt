@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 13.0d,
+	text: [
+		"使只在白天工作的蜜蜂工作(黑夜工作的蜜蜂无法工作!!!相当于小永日环境)"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "ed19a716",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 11"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 2.0d,
+	text: [
+		"重要合成材料，可以烧制普通熔炉无法直接烧制的矿物，也可以在合成台直接将矿/粉转化为锭。其液体可以作为匠魂的燃料，熔炼速度比岩浆快，可以熔炼熔点高于岩浆温度的液体"
+	],
+	dependencies: [
+		"8662e806"
+	],
+	tasks: [{
+		uid: "5e5ffdcd",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 1024"
+		}]
+	}]
+}

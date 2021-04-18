@@ -1,0 +1,16 @@
+{
+	title: "官方指导手册",
+	icon: "draconicevolution:info_tablet",
+	x: -1.0d,
+	y: -4.0d,
+	text: [
+		"龙之研究有官方的指导手册，里面有很多模组内装置与各种多方块结构(能量库，神龙反应堆等等)的摆法"
+	],
+	dependencies: [
+		"316acf5a"
+	],
+	tasks: [{
+		uid: "b798e45c",
+		type: "checkmark"
+	}]
+}

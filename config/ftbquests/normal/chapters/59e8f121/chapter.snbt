@@ -1,0 +1,7 @@
+{
+	title: "环境科技",
+	icon: "environmentaltech:litherite_crystal",
+	always_invisible: false,
+	group: 33139582,
+	default_quest_shape: ""
+}

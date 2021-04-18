@@ -1,0 +1,69 @@
+{
+	title: "双足飞龙套装",
+	icon: {
+		id: "draconicevolution:wyvern_chest",
+		tag: {
+			DEUpgrades: {
+				shieldRec: 2b,
+				shieldCap: 2b,
+				rfCap: 2b
+			},
+			Energy: 32000000
+		}
+	},
+	x: 4.5d,
+	y: -0.5d,
+	text: [
+		"双足飞龙套装是龙研里最低级的装备(总共就两级/doge)",
+		"穿上龙研的装备后，界面左下角会出现一些东西。最上面一行很宽的彩条是护盾值，受到伤害时会优先消耗。第二行绿条是护盾恢复系数(咱不知道叫啥，随便起个名字)，受到伤害时也会减少，个人感觉作用相当于护盾的缓冲，对应右下角EN值，EN值满时若护盾掉到0则会受到伤害。第三行蓝条为身上装备的能量总储量"
+	],
+	dependencies: [
+		"34449f52"
+	],
+	tasks: [{
+		uid: "cd55409c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8d18fe4d",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "098e7a2d",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "31565670",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d572538c",
+		type: "item",
+		item: "draconicevolution:tool_upgrade 1 8"
+	},
+	{
+		uid: "daa39195",
+		type: "item",
+		item: "draconicevolution:tool_upgrade 1 9"
+	}]
+}

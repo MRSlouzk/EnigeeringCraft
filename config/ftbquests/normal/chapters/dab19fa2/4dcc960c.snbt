@@ -1,0 +1,16 @@
+{
+	title: "跨空间传输",
+	icon: "minecraft:ender_pearl",
+	x: -4.5d,
+	y: 8.0d,
+	text: [
+		"当物品，能量以及流体需要远距离甚至跨时空传输时，导管就显得捉襟见肘了，这时候就需要使用跨空间的传输工具了"
+	],
+	dependencies: [
+		"c1956894"
+	],
+	tasks: [{
+		uid: "33291b37",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	x: -4.0d,
+	y: 13.0d,
+	tasks: [{
+		uid: "e821e455",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:cell",
+			tag: {
+				Recv: 25000,
+				RSControl: 0b,
+				ench: [{
+					lvl: 4s,
+					id: 36s
+				}],
+				Facing: 4b,
+				Creative: 0b,
+				Level: 4b,
+				SideCache: [B;
+					2b,
+					1b,
+					1b,
+					1b,
+					1b,
+					1b
+				],
+				Send: 25000
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

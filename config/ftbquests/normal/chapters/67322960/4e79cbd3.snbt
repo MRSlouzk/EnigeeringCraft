@@ -1,0 +1,17 @@
+{
+	x: -7.5d,
+	y: -4.5d,
+	text: [
+		"安装升级之后可以用压缩机制造货币"
+	],
+	dependencies: [
+		"60c953aa"
+	],
+	tasks: [{
+		uid: "40f4b5c6",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 336"
+		}]
+	}]
+}

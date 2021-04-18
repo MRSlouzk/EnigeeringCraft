@@ -1,0 +1,17 @@
+{
+	x: -5.5d,
+	y: -7.0d,
+	text: [
+		"安装此升级后可以提高石油，液态煤炭，石脑油的精炼率，可以产出更多产物(能量消耗也增加)"
+	],
+	dependencies: [
+		"72c432ec"
+	],
+	tasks: [{
+		uid: "2af0ed3e",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 368"
+		}]
+	}]
+}

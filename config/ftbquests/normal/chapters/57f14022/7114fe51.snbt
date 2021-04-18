@@ -1,0 +1,17 @@
+{
+	x: -8.5d,
+	y: 1.0d,
+	text: [
+		"量子压缩机在输入同一样物品1w个后可以消耗能量制作\"奇点\"，奇点是后期重要合成材料"
+	],
+	dependencies: [
+		"d51e4e77"
+	],
+	tasks: [{
+		uid: "edc87090",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:compressor"
+		}]
+	}]
+}

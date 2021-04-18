@@ -1,0 +1,18 @@
+{
+	title: "小AE",
+	x: 1.0d,
+	y: 3.5d,
+	text: [
+		"存储检测器可以读取附近存在的容器，然后进行统一管理，还有类似于合成终端的合成功能，是出AE前存储的好帮手"
+	],
+	dependencies: [
+		"6a157a9a"
+	],
+	tasks: [{
+		uid: "f03f171d",
+		type: "item",
+		items: [{
+			item: "rftools:storage_scanner"
+		}]
+	}]
+}

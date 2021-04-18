@@ -1,0 +1,7 @@
+{
+	title: "更多实用设备2",
+	icon: "extrautils2:angelring",
+	always_invisible: false,
+	group: 1471999454,
+	default_quest_shape: ""
+}

@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: 3.0d,
+	text: [
+		"管理器传动方块可以连接两个抽屉系统"
+	],
+	dependencies: [
+		"d21a268e"
+	],
+	tasks: [{
+		uid: "ddc51dee",
+		type: "item",
+		items: [{
+			item: "storagedrawers:controllerslave"
+		}]
+	}]
+}

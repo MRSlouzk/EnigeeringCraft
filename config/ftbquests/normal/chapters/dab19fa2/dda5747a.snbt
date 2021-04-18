@@ -1,0 +1,19 @@
+{
+	title: "模糊卡",
+	icon: "appliedenergistics2:material 1 29",
+	x: 11.0d,
+	y: 2.0d,
+	text: [
+		"模糊卡可以让设备忽略标记物品的NBT，META值等等参数"
+	],
+	dependencies: [
+		"ce5b01ea"
+	],
+	tasks: [{
+		uid: "d95fb7a8",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 29"
+		}]
+	}]
+}

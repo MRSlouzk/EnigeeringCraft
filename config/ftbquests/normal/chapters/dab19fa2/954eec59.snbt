@@ -1,0 +1,37 @@
+{
+	title: "P2P",
+	icon: "appliedenergistics2:part 1 460",
+	x: 7.5d,
+	y: 3.0d,
+	text: [
+		"(本教程只讲述P2P-AE的使用，其他的大家可以举一反三)",
+		"p2p-ME(以下简称p2p)可以进行频道的跨越式传输，它可以让一条玻璃线缆承载最多4*32个频道！大大提高了线缆利用率",
+		"p2p基本工作原理:p2p输出端接入一个设备时，会发送一个需求频道的请求，此时输出端则会调用输入端网络的空余频道供给此设备",
+		""
+	],
+	dependencies: [
+		"d98d608f"
+	],
+	tasks: [{
+		uid: "c7be5941",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 460"
+		}]
+	},
+	{
+		uid: "b3f0fc0c",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:memory_card",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a1617081",
+		type: "loot",
+		table: 1
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	title: "末影锭(假",
+	x: -13.0d,
+	y: 1.0d,
+	dependencies: [
+		"d6550303"
+	],
+	tasks: [{
+		uid: "d549caf7",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material 1 36"
+		}]
+	}]
+}

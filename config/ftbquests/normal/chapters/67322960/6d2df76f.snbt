@@ -1,0 +1,17 @@
+{
+	x: -5.0d,
+	y: -11.0d,
+	text: [
+		"安装此升级后可以离心有生物的生物球并产出对应生物的可能掉落物"
+	],
+	dependencies: [
+		"bd34b2d8"
+	],
+	tasks: [{
+		uid: "4054c547",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 416"
+		}]
+	}]
+}

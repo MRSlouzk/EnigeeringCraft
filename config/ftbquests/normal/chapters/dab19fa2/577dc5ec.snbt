@@ -1,0 +1,33 @@
+{
+	title: "ME设备 #5",
+	icon: "appliedenergistics2:part 1 100",
+	x: 7.0d,
+	y: 7.0d,
+	text: [
+		"触发总线有信号则连通其两侧的线缆，无信号则断开，反向触发总线则相反。",
+		"",
+		"最后的话:五个任务中的这些ME设备看起来并不常用到，其实它们在自动化等方面有着重要的地位，不要小瞧每一个元件!"
+	],
+	dependencies: [
+		"c90da881"
+	],
+	tasks: [{
+		uid: "e70c20d1",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 80"
+		}]
+	},
+	{
+		uid: "cb32c0be",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 100"
+		}]
+	}],
+	rewards: [{
+		uid: "398b6b03",
+		type: "loot",
+		table: 1
+	}]
+}

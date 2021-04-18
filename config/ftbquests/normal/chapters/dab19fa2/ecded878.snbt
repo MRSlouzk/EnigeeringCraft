@@ -1,0 +1,18 @@
+{
+	title: "容量扩大！",
+	x: -3.0d,
+	y: -2.5d,
+	text: [
+		"绿宝石升级可以提升32倍容量"
+	],
+	dependencies: [
+		"1825a8b1"
+	],
+	tasks: [{
+		uid: "40779156",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 4"
+		}]
+	}]
+}

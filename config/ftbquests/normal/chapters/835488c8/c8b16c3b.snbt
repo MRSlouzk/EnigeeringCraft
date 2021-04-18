@@ -1,0 +1,18 @@
+{
+	x: -4.0d,
+	y: -3.5d,
+	text: [
+		"减少机器的能量消耗并增加机器的能量缓存，配合速度升级效果显著"
+	],
+	dependencies: [
+		"ad843343"
+	],
+	tasks: [{
+		uid: "dc180a7a",
+		type: "item",
+		items: [{
+			item: "mekanism:energyupgrade"
+		}],
+		count: 4L
+	}]
+}

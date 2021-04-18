@@ -1,0 +1,34 @@
+{
+	title: "强大的金属",
+	icon: "tconstruct:ingots",
+	x: 3.5d,
+	y: -1.0d,
+	text: [
+		"钴与阿迪特都会在地狱生成，这两个是匠魂原版最强的金属，钴很适合制造工具，他们1比1的合金玛玉灵适合制作武器"
+	],
+	dependencies: [
+		"f7ec5c52"
+	],
+	tasks: [{
+		uid: "f1de59d1",
+		type: "item",
+		items: [{
+			item: "tconstruct:ore"
+		}],
+		count: 8L
+	},
+	{
+		uid: "413606ab",
+		type: "item",
+		items: [{
+			item: "tconstruct:ore 1 1"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "febdadfe",
+		type: "item",
+		item: "tconstruct:ingots 1 2",
+		count: 4
+	}]
+}

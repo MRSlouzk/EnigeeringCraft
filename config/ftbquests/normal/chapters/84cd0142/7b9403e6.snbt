@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: -7.5d,
+	text: [
+		"(JEI可查到其使用方式)",
+		"很强力的发电机，可以产生500GP的能量(根本用不完啊(#`O′))，只需一个龙蛋"
+	],
+	dependencies: [
+		"c06cea3c"
+	],
+	tasks: [{
+		uid: "42fca828",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 8"
+		}]
+	}]
+}

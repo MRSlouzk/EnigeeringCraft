@@ -1,0 +1,17 @@
+{
+	x: -5.0d,
+	y: 6.0d,
+	text: [
+		"使附近的玩家水下呼吸效果"
+	],
+	dependencies: [
+		"e59c5148"
+	],
+	tasks: [{
+		uid: "8c6934e5",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_water_breathing"
+		}]
+	}]
+}

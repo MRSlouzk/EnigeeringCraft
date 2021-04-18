@@ -1,0 +1,17 @@
+{
+	x: -10.0d,
+	y: -0.5d,
+	text: [
+		"5*5的合成台，可以制作更多配方"
+	],
+	dependencies: [
+		"1217196e"
+	],
+	tasks: [{
+		uid: "c2bdb082",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_advanced"
+		}]
+	}]
+}

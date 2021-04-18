@@ -1,0 +1,26 @@
+{
+	title: "三次元挖矿?",
+	x: -1.5d,
+	y: -2.0d,
+	text: [
+		"量子采石场可以消耗电力在一个通过正常途径无法进入的世界中挖矿，具体用法见\"\"章节的\"量子采石场\"任务"
+	],
+	dependencies: [
+		"caeeb700"
+	],
+	tasks: [{
+		uid: "8d7db8b8",
+		type: "item",
+		items: [{
+			item: "extrautils2:quarry"
+		}]
+	},
+	{
+		uid: "0be115ca",
+		type: "item",
+		items: [{
+			item: "extrautils2:quarryproxy"
+		}],
+		count: 6L
+	}]
+}

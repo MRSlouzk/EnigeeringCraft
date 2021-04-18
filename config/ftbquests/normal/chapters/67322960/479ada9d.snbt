@@ -1,0 +1,17 @@
+{
+	x: -8.0d,
+	y: -6.0d,
+	text: [
+		"安装升级后可以消耗板块之层岩对矿物三倍化处理"
+	],
+	dependencies: [
+		"0b4f4be5"
+	],
+	tasks: [{
+		uid: "af0e48f9",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 273"
+		}]
+	}]
+}

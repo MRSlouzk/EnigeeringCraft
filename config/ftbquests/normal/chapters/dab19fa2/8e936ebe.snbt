@@ -1,0 +1,9 @@
+{
+	title: "流体存储",
+	x: 7.0d,
+	y: 10.0d,
+	tasks: [{
+		uid: "e426164b",
+		type: "checkmark"
+	}]
+}

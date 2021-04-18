@@ -1,0 +1,24 @@
+{
+	title: "前期双倍矿物",
+	icon: "tconstruct:materials",
+	x: -1.5d,
+	y: -0.5d,
+	dependencies: [
+		"43d3c1e6",
+		"2c332fde"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "205c1fa1",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials"
+		}]
+	}],
+	rewards: [{
+		uid: "87f06dce",
+		type: "loot",
+		table: 3
+	}]
+}

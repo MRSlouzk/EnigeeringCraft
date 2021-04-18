@@ -1,0 +1,17 @@
+{
+	x: 6.5d,
+	y: 3.0d,
+	text: [
+		"功能跟诱变机相同，但是可以选择杂交出来哪一种类(诱变机是随机的，无法选择)"
+	],
+	dependencies: [
+		"a43ddd2c"
+	],
+	tasks: [{
+		uid: "146a54ef",
+		type: "item",
+		items: [{
+			item: "gendustry:mutatron_advanced"
+		}]
+	}]
+}

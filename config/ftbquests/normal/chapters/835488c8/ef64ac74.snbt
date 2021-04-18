@@ -1,0 +1,38 @@
+{
+	title: "氘氚燃料",
+	icon: {
+		id: "forestry:can",
+		tag: {
+			Fluid: {
+				FluidName: "liquidfusionfuel",
+				Amount: 1000
+			}
+		},
+		Damage: 1s
+	},
+	x: -2.0d,
+	y: 1.0d,
+	text: [
+		"黑体辐射腔是用来点燃反应堆的必备物品，放在反应堆主界面正中心的格子里即可"
+	],
+	dependencies: [
+		"bcf5142b"
+	],
+	tasks: [{
+		uid: "4dd0d736",
+		type: "item",
+		items: [{
+			id: "mekanismgenerators:hohlraum",
+			tag: {
+				mekData: {
+					stored: {
+						amount: 10,
+						gasName: "fusionfuel"
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

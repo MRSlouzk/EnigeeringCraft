@@ -1,0 +1,11 @@
+{
+	x: -27.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "a4b9fa03",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cont_4"
+		}]
+	}]
+}

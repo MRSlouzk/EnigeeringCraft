@@ -1,0 +1,28 @@
+{
+	x: 9.0d,
+	y: 14.0d,
+	dependencies: [
+		"ed3370ee"
+	],
+	tasks: [{
+		uid: "392daca7",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					0b,
+					1b,
+					0b,
+					0b,
+					0b,
+					0b
+				]
+			},
+			Damage: 12s
+		}]
+	}]
+}

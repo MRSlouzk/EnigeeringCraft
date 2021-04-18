@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: -4.0d,
+	text: [
+		"维持机器所在区块的加载(数字采矿机专用)"
+	],
+	dependencies: [
+		"b05a39fb"
+	],
+	tasks: [{
+		uid: "084b403c",
+		type: "item",
+		items: [{
+			item: "mekanism:anchorupgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

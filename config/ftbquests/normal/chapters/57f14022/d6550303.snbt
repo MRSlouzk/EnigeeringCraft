@@ -1,0 +1,18 @@
+{
+	title: "黑色金属",
+	x: -13.0d,
+	y: -0.5d,
+	text: [
+		"黑铁是合成拓展里最基础的合成原料"
+	],
+	dependencies: [
+		"626d75d9"
+	],
+	tasks: [{
+		uid: "abe6f315",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material"
+		}]
+	}]
+}

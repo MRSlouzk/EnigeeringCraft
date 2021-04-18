@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	text: [
+		"功能同生物捕捉球，但可以重复使用"
+	],
+	dependencies: [
+		"d8e81154"
+	],
+	tasks: [{
+		uid: "1a4f5de0",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:morb 1 1"
+		}]
+	}]
+}

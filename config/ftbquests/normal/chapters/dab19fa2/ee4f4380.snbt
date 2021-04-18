@@ -1,0 +1,17 @@
+{
+	x: -2.0d,
+	y: 16.0d,
+	text: [
+		"可以添加对流体的过滤，可以直接在配置界面拖动JEI的流体(桶，和其它JEI里装对应液体的容器)到过滤器中添加过滤，非常的方便快捷"
+	],
+	dependencies: [
+		"0fda10e4"
+	],
+	tasks: [{
+		uid: "9f654666",
+		type: "item",
+		items: [{
+			item: "enderio:item_fluid_filter"
+		}]
+	}]
+}

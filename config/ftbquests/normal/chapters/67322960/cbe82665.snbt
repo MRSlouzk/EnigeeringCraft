@@ -1,0 +1,17 @@
+{
+	x: -7.0d,
+	y: -11.0d,
+	text: [
+		"安装此升级后直接烧制的矿物可以两倍化"
+	],
+	dependencies: [
+		"1f4be967"
+	],
+	tasks: [{
+		uid: "e132eb90",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 257"
+		}]
+	}]
+}

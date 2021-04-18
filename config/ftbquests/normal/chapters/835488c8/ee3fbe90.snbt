@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: -9.0d,
+	text: [
+		"便携传送器可以传送到任意有电并且有区块加载的传送机处"
+	],
+	dependencies: [
+		"fd88e4ea"
+	],
+	tasks: [{
+		uid: "ff6090e9",
+		type: "item",
+		items: [{
+			item: "mekanism:portableteleporter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

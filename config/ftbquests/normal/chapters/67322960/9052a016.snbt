@@ -1,0 +1,32 @@
+{
+	x: -4.0d,
+	y: 3.0d,
+	text: [
+		"可以将输入的物品自动进行3*3有序合成(比如粒-锭-块)，同时兼容其他魔改3*3有序合成",
+		"PS：这个玩意可以独立于合成台的3*3有序配方，就是只是合成台的被删了的话这个也还能用(除非这台机器也被改了)。作者:看到这个玩意突然想起被国外某个有着大量反人类设计的大型整合包支配的恐惧"
+	],
+	dependencies: [
+		"4adafbf9"
+	],
+	tasks: [{
+		uid: "fd4074b3",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					2b,
+					1b,
+					1b,
+					1b,
+					1b,
+					1b
+				]
+			},
+			Damage: 10s
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: -6.0d,
+	text: [
+		"使用炉渣烧制矿物时有概率不消耗炉渣"
+	],
+	dependencies: [
+		"f782d3d0"
+	],
+	tasks: [{
+		uid: "1da78b3c",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 303"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "青铜时代",
+	icon: "thermalfoundation:material 1 163",
+	x: -3.0d,
+	y: -1.5d,
+	text: [
+		"青铜是一种非常重要的过渡金属",
+		"前期获取可使用匠魂冶炼炉或者使用石英磨具/挤压机打粉然后合成青铜粉烧制"
+	],
+	dependencies: [
+		"be84fb77"
+	],
+	tasks: [{
+		uid: "aa42dd08",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 163"
+		}],
+		count: 8L
+	}]
+}

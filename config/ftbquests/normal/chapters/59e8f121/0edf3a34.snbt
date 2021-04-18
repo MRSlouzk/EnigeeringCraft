@@ -1,0 +1,16 @@
+{
+	title: "指导手册",
+	icon: "valkyrielib:guide",
+	x: -2.5d,
+	y: -2.5d,
+	text: [
+		"环境科技有自己的指导书，里面详细记录了各种多方块结构的功能以及消耗材料"
+	],
+	dependencies: [
+		"cf122dc5"
+	],
+	tasks: [{
+		uid: "c416aeef",
+		type: "checkmark"
+	}]
+}

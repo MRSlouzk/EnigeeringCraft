@@ -1,0 +1,27 @@
+{
+	title: "神龙弓",
+	icon: {
+		id: "draconicevolution:draconic_bow",
+		tag: {
+			Energy: 16000000
+		}
+	},
+	x: 6.5d,
+	y: 1.5d,
+	text: [
+		"同飞龙弓，但功能更多，伤害更高"
+	],
+	dependencies: [
+		"8303fd8b",
+		"a4827e93"
+	],
+	tasks: [{
+		uid: "595919ac",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

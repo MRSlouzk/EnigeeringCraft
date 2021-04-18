@@ -1,0 +1,33 @@
+{
+	title: "屠龙勇士",
+	icon: "minecraft:diamond_sword",
+	x: 7.0d,
+	y: -1.5d,
+	text: [
+		"末影龙死亡后会掉落龙心(在天上转的那个)，等待一段时间后龙心自动进入最近的玩家的背包中",
+		"龙心是发展龙研的关键材料，这也意味着末影龙要打好几次才能完全供应需求"
+	],
+	dependencies: [
+		"d72cbc98"
+	],
+	tasks: [{
+		uid: "9575b258",
+		type: "kill",
+		icon: "minecraft:diamond_sword",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	},
+	{
+		uid: "b57e2764",
+		type: "item",
+		items: [{
+			item: "draconicevolution:dragon_heart"
+		}]
+	}],
+	rewards: [{
+		uid: "5988a717",
+		type: "item",
+		item: "draconicevolution:draconium_dust",
+		count: 16
+	}]
+}

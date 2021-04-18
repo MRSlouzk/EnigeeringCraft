@@ -1,0 +1,7 @@
+{
+	title: "第一科技时代",
+	icon: "immersiveengineering:wooden_device1",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

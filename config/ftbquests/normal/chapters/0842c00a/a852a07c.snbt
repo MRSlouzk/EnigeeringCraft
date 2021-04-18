@@ -1,0 +1,22 @@
+{
+	x: -9.0d,
+	y: -1.5d,
+	dependencies: [
+		"cfe3a0a8"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "1dbf407d",
+		type: "item",
+		title: "石器时代！",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "37a5f7d8",
+		type: "choice",
+		table: 0
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "欢迎来到最终章",
+	icon: "avaritia:resource 1 5",
+	x: -5.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "4537fa0a",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "178f5d52",
+		type: "item",
+		item: "draconicevolution:chaotic_core",
+		count: 2
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "RFtools:维度",
+	icon: "rftoolsdim:dimlet_parcel",
+	always_invisible: false,
+	group: -202943150,
+	default_quest_shape: ""
+}

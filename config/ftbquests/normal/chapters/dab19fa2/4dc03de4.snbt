@@ -1,0 +1,35 @@
+{
+	title: "量子缠绕",
+	icon: "appliedenergistics2:material 1 48",
+	x: 8.0d,
+	y: 4.5d,
+	text: [
+		"量子环是一个多方块结构，量子环摆成3*3的一圈，中间放上链接仓即可形成多方块结构(横竖都可以)，右键向其中放入缠绕态奇点(将奇点与末影珍珠粉等比例扔在地上并引爆即可获得)",
+		"在另一处地方(可以跨纬度)放上量子环多方块结构，里面放入另一个缠绕态奇点(一次会炸出两个，这两个相当于处于同一频道，不一对的缠绕态奇点无法使量子环连接！)",
+		"两个量子化都通电之后(量子环不能传输电力)，即可跨空间使用同一个AE网络"
+	],
+	dependencies: [
+		"f118e9c8"
+	],
+	tasks: [{
+		uid: "fc606129",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:quantum_ring"
+		}],
+		count: 8L
+	},
+	{
+		uid: "907a6ade",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:quantum_link"
+		}]
+	}],
+	rewards: [{
+		uid: "f94701b4",
+		type: "item",
+		item: "appliedenergistics2:part 1 16",
+		count: 16
+	}]
+}

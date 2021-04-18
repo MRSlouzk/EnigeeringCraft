@@ -1,0 +1,17 @@
+{
+	x: -3.0d,
+	y: 10.0d,
+	text: [
+		"降低蜂箱内的湿度，适应某些需要干燥环境的蜜蜂"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "3a9bcfd1",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 5"
+		}]
+	}]
+}

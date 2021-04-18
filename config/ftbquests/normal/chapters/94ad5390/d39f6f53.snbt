@@ -1,0 +1,13 @@
+{
+	title: "RF工具:维度",
+	icon: "minecraft:diamond_ore",
+	x: -7.5d,
+	y: -0.5d,
+	dependencies: [
+		"b205699e"
+	],
+	tasks: [{
+		uid: "34dd89d3",
+		type: "checkmark"
+	}]
+}

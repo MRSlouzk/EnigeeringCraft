@@ -1,0 +1,18 @@
+{
+	x: -1.5d,
+	y: 14.5d,
+	text: [
+		"EIO最基础的流体管道",
+		"注:如果一个管道里有残留的液体，在旁边放上管道后两个管道不会相连，需要使用扳手强制连接"
+	],
+	dependencies: [
+		"c64deb81"
+	],
+	tasks: [{
+		uid: "a9a98cfd",
+		type: "item",
+		items: [{
+			item: "enderio:item_liquid_conduit"
+		}]
+	}]
+}

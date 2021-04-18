@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	text: [
+		"可反复充能使用的剪枝器"
+	],
+	dependencies: [
+		"039e6479"
+	],
+	tasks: [{
+		uid: "c51668c5",
+		type: "item",
+		items: [{
+			id: "gendustry:industrial_grafter",
+			tag: {
+				charge: 0
+			},
+			Damage: 100s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

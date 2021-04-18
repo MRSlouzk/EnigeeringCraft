@@ -1,0 +1,21 @@
+{
+	title: "自动化组装",
+	icon: "environmentaltech:tool_multiblock_assembler",
+	x: -0.5d,
+	y: -2.5d,
+	text: [
+		"手持装配杆对着多方块结构的核心方块按住右键不放，若是背包里有对应组装材料，则会自动摆放，完成后左下角的\"组装:false\"会变为\"组装:true\""
+	],
+	dependencies: [
+		"3bd4a424"
+	],
+	tasks: [{
+		uid: "03ca1481",
+		type: "item",
+		items: [{
+			item: "environmentaltech:tool_multiblock_assembler"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

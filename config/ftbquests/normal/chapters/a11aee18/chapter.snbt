@@ -1,0 +1,7 @@
+{
+	title: "工业先锋",
+	icon: "industrialforegoing:plastic",
+	always_invisible: false,
+	group: 1979563317,
+	default_quest_shape: ""
+}

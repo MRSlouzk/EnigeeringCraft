@@ -1,0 +1,17 @@
+{
+	x: -8.0d,
+	y: 11.0d,
+	text: [
+		"廉价，但是传输速度很慢"
+	],
+	dependencies: [
+		"a49f82e8"
+	],
+	tasks: [{
+		uid: "cf57de99",
+		type: "item",
+		items: [{
+			item: "tconstruct:wooden_hopper"
+		}]
+	}]
+}

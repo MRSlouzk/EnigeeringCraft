@@ -1,0 +1,23 @@
+{
+	title: "流体任务的提交",
+	icon: {
+		id: "mekanism:gastank",
+		tag: {
+			tier: 0
+		}
+	},
+	x: -2.0d,
+	y: -1.0d,
+	text: [
+		"流体任务提交首先需要制作一个叫做\"任务显示器\"的东西，右键打开，选定你要提交的任务，然后用管道导入对应流体即可开始提交"
+	],
+	dependencies: [
+		"f5c96531",
+		"97393e90"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "254cf56d",
+		type: "checkmark"
+	}]
+}

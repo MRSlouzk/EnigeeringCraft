@@ -1,0 +1,18 @@
+{
+	x: 16.5d,
+	y: -3.0d,
+	dependencies: [
+		"17b9f3b0"
+	],
+	tasks: [{
+		uid: "8b08cfcf",
+		type: "checkmark",
+		title: "恭喜！原版任务已全部完成",
+		icon: "minecraft:emerald_block"
+	}],
+	rewards: [{
+		uid: "6d6d344a",
+		type: "item",
+		item: "minecraft:nether_star"
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "无底之箱",
+	x: 1.5d,
+	y: 2.5d,
+	text: [
+		"黑洞存储器能存储巨量单种物品(21亿)"
+	],
+	dependencies: [
+		"6a157a9a"
+	],
+	tasks: [{
+		uid: "d64b9836",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:black_hole_unit"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

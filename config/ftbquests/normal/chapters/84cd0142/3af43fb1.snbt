@@ -1,0 +1,11 @@
+{
+	x: -24.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "987cb652",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rtg_uranium"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -0.5d,
+	y: 3.5d,
+	text: [
+		"远程纳米机器人信标可以根据多方块结构里对应强化部件给予范围内所有玩家对应效果"
+	],
+	dependencies: [
+		"3bd4a424"
+	],
+	tasks: [{
+		uid: "0a0c33ce",
+		type: "item",
+		items: [{
+			item: "environmentaltech:nano_cont_ranged_1"
+		}]
+	}]
+}

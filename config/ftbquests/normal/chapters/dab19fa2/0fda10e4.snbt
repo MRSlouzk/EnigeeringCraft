@@ -1,0 +1,17 @@
+{
+	x: -0.5d,
+	y: 16.0d,
+	text: [
+		"最高级的流体管道，增加了多频道与过滤功能"
+	],
+	dependencies: [
+		"d6cbca86"
+	],
+	tasks: [{
+		uid: "7338eccd",
+		type: "item",
+		items: [{
+			item: "enderio:item_liquid_conduit 1 2"
+		}]
+	}]
+}

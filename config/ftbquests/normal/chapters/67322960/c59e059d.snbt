@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: -7.0d,
+	text: [
+		"合成材料"
+	],
+	dependencies: [
+		"72a375d3"
+	],
+	tasks: [{
+		uid: "05d4b822",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_64 1 3"
+		}]
+	}]
+}

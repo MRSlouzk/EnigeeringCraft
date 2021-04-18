@@ -1,0 +1,17 @@
+{
+	x: 2.5d,
+	y: 12.0d,
+	text: [
+		"使在寒冷群系工作的蜜蜂可以工作(不耐寒的无法再工作)"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "4b80d8c0",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 20"
+		}]
+	}]
+}

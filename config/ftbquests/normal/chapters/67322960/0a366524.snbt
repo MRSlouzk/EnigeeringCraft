@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: -6.0d,
+	text: [
+		"安装此升级后水与种子可以循化利用，肥料也有几率不消耗"
+	],
+	dependencies: [
+		"99db0767"
+	],
+	tasks: [{
+		uid: "1a43128f",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 324"
+		}]
+	}]
+}

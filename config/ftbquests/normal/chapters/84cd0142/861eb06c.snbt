@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: -4.5d,
+	text: [
+		"终极发电机，可产生1wGP能量!(想知道作者为什么没有设置成无限)"
+	],
+	dependencies: [
+		"7b9403e6",
+		"0316a34c",
+		"60d6a2cd",
+		"2def2563",
+		"0a276872"
+	],
+	tasks: [{
+		uid: "3d03416b",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 6"
+		}]
+	}]
+}

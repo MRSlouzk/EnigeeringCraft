@@ -1,0 +1,14 @@
+{
+	x: -21.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "619a99be",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_enchant"
+			}
+		}]
+	}]
+}

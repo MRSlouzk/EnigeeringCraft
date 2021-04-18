@@ -1,0 +1,22 @@
+{
+	x: -0.5d,
+	y: -2.0d,
+	text: [
+		"存东西用的随身背包(喂，这也太小了点，就一排???)",
+		""
+	],
+	dependencies: [
+		"acbbf027"
+	],
+	tasks: [{
+		uid: "8f87d1d8",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

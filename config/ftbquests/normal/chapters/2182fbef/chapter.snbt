@@ -1,0 +1,12 @@
+{
+	title: "效率提升",
+	icon: {
+		id: "randomthings:timeinabottle",
+		tag: {
+			timeData: {}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

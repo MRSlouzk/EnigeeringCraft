@@ -1,0 +1,32 @@
+{
+	x: -2.5d,
+	y: -10.5d,
+	text: [
+		"可以为物品充能(速度一般)，并且也可以将赛特斯石英转化为充能赛特斯石英(真正用途)"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "d6e16d8e",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 9s
+		}]
+	}]
+}

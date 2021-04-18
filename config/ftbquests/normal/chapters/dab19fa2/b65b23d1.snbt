@@ -1,0 +1,20 @@
+{
+	title: "材料够吗",
+	icon: "appliedenergistics2:material",
+	x: 5.0d,
+	y: -4.0d,
+	text: [
+		"发展AE2需要大量的赛特斯石英"
+	],
+	dependencies: [
+		"be84fb77"
+	],
+	tasks: [{
+		uid: "63dffff1",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material"
+		}],
+		count: 32L
+	}]
+}

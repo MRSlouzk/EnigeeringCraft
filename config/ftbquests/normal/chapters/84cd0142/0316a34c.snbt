@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: -6.0d,
+	text: [
+		"(使用方法见JEI)",
+		"可以使用熔岩产电，效率为4GP"
+	],
+	dependencies: [
+		"c06cea3c"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "676d5819",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 2"
+		}]
+	}]
+}

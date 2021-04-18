@@ -1,0 +1,18 @@
+{
+	title: "原版物流",
+	x: -7.0d,
+	y: 9.5d,
+	text: [
+		"原版的漏斗可以进行简单的物品传输"
+	],
+	dependencies: [
+		"7a00f74f"
+	],
+	tasks: [{
+		uid: "d8e77950",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper"
+		}]
+	}]
+}

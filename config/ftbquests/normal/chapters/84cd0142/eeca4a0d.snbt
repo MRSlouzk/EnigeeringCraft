@@ -1,0 +1,11 @@
+{
+	x: -8.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "92f8fe93",
+		type: "item",
+		items: [{
+			item: "randomthings:spectrecoil_normal"
+		}]
+	}]
+}

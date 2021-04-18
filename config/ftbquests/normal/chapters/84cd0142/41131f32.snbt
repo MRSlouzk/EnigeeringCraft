@@ -1,0 +1,11 @@
+{
+	x: -21.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "3199afb6",
+		type: "item",
+		items: [{
+			item: "environmentaltech:lightning_cont_4"
+		}]
+	}]
+}

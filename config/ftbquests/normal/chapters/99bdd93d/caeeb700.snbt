@@ -1,0 +1,32 @@
+{
+	title: "镭射采集",
+	x: -1.5d,
+	y: -3.5d,
+	text: [
+		"镭射钻可以从基岩中获取矿物，具体使用方法见\"\"章节\"镭射钻\"任务",
+		"(作者并不怎么推荐大家在本包中使用,因为本包有从电量消耗到采矿速度都吊打镭射钻的采矿设施)"
+	],
+	dependencies: [
+		"25ce2b84"
+	],
+	tasks: [{
+		uid: "a4ee5c5e",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_drill"
+		}],
+		count: 4L
+	},
+	{
+		uid: "c388e717",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_base"
+		}]
+	}],
+	rewards: [{
+		uid: "6721bf62",
+		type: "loot",
+		table: 3
+	}]
+}

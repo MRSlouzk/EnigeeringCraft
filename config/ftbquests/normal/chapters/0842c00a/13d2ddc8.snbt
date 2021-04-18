@@ -1,0 +1,25 @@
+{
+	title: "击杀凋零",
+	icon: "minecraft:nether_star",
+	x: -1.0d,
+	y: 2.5d,
+	text: [
+		"(完成此任务解锁凋零农场任务)",
+		"凋零是原版两大BOSS之一，会掉落下界之星，而下界之星是中后期的重要合成原料(要没人权了/滑稽)"
+	],
+	dependencies: [
+		"2f97f110"
+	],
+	tasks: [{
+		uid: "bcce8e77",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_star"
+		}]
+	}],
+	rewards: [{
+		uid: "772834f9",
+		type: "item",
+		item: "minecraft:nether_star"
+	}]
+}

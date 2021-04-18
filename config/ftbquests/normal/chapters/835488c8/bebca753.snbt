@@ -1,0 +1,34 @@
+{
+	x: -5.0d,
+	y: -2.5d,
+	text: [
+		"热力蒸馏塔是MEK中的重要多方块结构，用来生产盐水以及液态锂(震惊！盐水蒸发居然会得到液态锂，发现新的获取锂的方式/doge。本包中有核电工艺，锂其实也可以挖到，两个模组的锂是通用的)"
+	],
+	dependencies: [
+		"03dd3505",
+		"23c70312"
+	],
+	tasks: [{
+		uid: "d69b3fce",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 14"
+		}]
+	},
+	{
+		uid: "93ceb030",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 15"
+		}],
+		count: 3L
+	},
+	{
+		uid: "7f6d7dc1",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock2"
+		}],
+		count: 36L
+	}]
+}

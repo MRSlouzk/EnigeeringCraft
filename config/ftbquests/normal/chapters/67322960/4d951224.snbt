@@ -1,0 +1,32 @@
+{
+	x: -3.5d,
+	y: -10.5d,
+	text: [
+		"消耗水与岩浆生产各种石头"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "c5b77dff",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 15s
+		}]
+	}]
+}

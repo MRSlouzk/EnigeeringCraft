@@ -1,0 +1,67 @@
+{
+	title: "收集史莱姆",
+	icon: "tconstruct:edible 1 1",
+	x: 1.5d,
+	y: 0.5d,
+	text: [
+		"匠魂中有四种史莱姆，每种史莱姆都有特定的属性",
+		"四种史莱姆都会在主世界的天上的史莱姆空岛或者地狱的岩浆湖处的史莱姆岛生成",
+		"也可以通过种植史莱姆树获取"
+	],
+	dependencies: [
+		"f7ec5c52"
+	],
+	tasks: [{
+		uid: "8c00166e",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_congealed 1 1"
+		}],
+		count: 4L
+	},
+	{
+		uid: "fcf1502a",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_congealed"
+		}],
+		count: 4L
+	},
+	{
+		uid: "4e5595e6",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_congealed 1 2"
+		}],
+		count: 4L
+	},
+	{
+		uid: "86f94e9f",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_congealed 1 4"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "679e5b24",
+		type: "item",
+		item: "tconstruct:ingots 1 3",
+		count: 8
+	},
+	{
+		uid: "446f333b",
+		type: "item",
+		item: "tconstruct:materials 1 9"
+	},
+	{
+		uid: "b3f17b72",
+		type: "item",
+		item: "tconstruct:materials 1 10"
+	},
+	{
+		uid: "11e4fc9f",
+		type: "item",
+		item: "tconstruct:materials 1 11"
+	}]
+}

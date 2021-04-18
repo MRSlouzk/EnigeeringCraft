@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: -11.5d,
+	text: [
+		"安装此升级后可以将煤炭转化为焦煤与杂酚油(与沉浸通用)，焦煤可以比煤炭烧制更多物品，还可以炼钢"
+	],
+	dependencies: [
+		"1f4be967"
+	],
+	tasks: [{
+		uid: "effb3928",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 258"
+		}]
+	}]
+}

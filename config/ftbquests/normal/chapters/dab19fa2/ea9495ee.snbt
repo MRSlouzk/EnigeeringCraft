@@ -1,0 +1,19 @@
+{
+	title: "多频道储罐",
+	x: -2.5d,
+	y: 6.5d,
+	text: [
+		"功能同末影箱子，但是是传输液体",
+		"右键其前方的转盘可以转换输入输出模式，红色在上可以主动输出"
+	],
+	dependencies: [
+		"28335ad0"
+	],
+	tasks: [{
+		uid: "293ccd65",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -7.0d,
+	y: -10.0d,
+	text: [
+		"安装此升级后烧制的食物都可以产出两倍"
+	],
+	dependencies: [
+		"1f4be967"
+	],
+	tasks: [{
+		uid: "99ddea7b",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 256"
+		}]
+	}]
+}

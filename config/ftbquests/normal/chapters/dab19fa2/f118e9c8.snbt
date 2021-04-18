@@ -1,0 +1,37 @@
+{
+	title: "物质压缩",
+	icon: "appliedenergistics2:material 1 47",
+	x: 9.0d,
+	y: 3.0d,
+	text: [
+		"物质聚合器可以输入物品或者流体，将其转化为奇点/物质球或直接销毁",
+		"奇点是一个重要的物品，制造奇点的方法:先在聚合器放存储元件的位置放上64k存储元件，模式调为聚合成奇点，输入物品，物品到达一定量之后即可产出奇点"
+	],
+	dependencies: [
+		"d98d608f"
+	],
+	tasks: [{
+		uid: "aa1a8efd",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:condenser"
+		}]
+	},
+	{
+		uid: "130281da",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 47"
+		}]
+	}],
+	rewards: [{
+		uid: "198f38b0",
+		type: "item",
+		item: "appliedenergistics2:material 1 47"
+	},
+	{
+		uid: "dda22809",
+		type: "item",
+		item: "appliedenergistics2:tiny_tnt"
+	}]
+}

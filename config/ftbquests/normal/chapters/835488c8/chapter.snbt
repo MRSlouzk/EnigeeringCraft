@@ -1,0 +1,14 @@
+{
+	title: "通用机械",
+	icon: {
+		id: "mekanism:atomicdisassembler",
+		tag: {
+			mekData: {
+				energyStored: 1000000.0d
+			}
+		}
+	},
+	always_invisible: false,
+	group: -2025200011,
+	default_quest_shape: ""
+}

@@ -1,0 +1,18 @@
+{
+	title: "强大的过滤功能",
+	x: 3.5d,
+	y: 7.0d,
+	text: [
+		"EIO的导管具有非常强大的过滤功能，"
+	],
+	dependencies: [
+		"28178e23"
+	],
+	tasks: [{
+		uid: "6d56ee74",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_item_filter"
+		}]
+	}]
+}

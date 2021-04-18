@@ -1,0 +1,32 @@
+{
+	x: 1.0d,
+	y: -7.0d,
+	text: [
+		"有机灌注机消耗堆肥，水与能量种植作物"
+	],
+	dependencies: [
+		"fdd2346b"
+	],
+	tasks: [{
+		uid: "0b98d777",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					3b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 4s
+		}]
+	}]
+}

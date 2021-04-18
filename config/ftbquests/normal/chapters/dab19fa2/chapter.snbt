@@ -1,0 +1,7 @@
+{
+	title: "物流与存储",
+	icon: "appliedenergistics2:chest",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

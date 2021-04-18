@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	text: [
+		"用于合成重要化工原料硫酸，氯化氢，以及聚变必备的氘氚燃料"
+	],
+	dependencies: [
+		"f5c96531",
+		"97393e90"
+	],
+	tasks: [{
+		uid: "ac4b1b15",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 2"
+		}],
+		ignore_nbt: 1b
+	}]
+}

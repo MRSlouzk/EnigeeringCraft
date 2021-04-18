@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -9.5d,
+	text: [
+		"强化升级套件:强化槽升级为2个"
+	],
+	dependencies: [
+		"8198a943"
+	],
+	tasks: [{
+		uid: "d1ac094d",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 1"
+		}]
+	}]
+}

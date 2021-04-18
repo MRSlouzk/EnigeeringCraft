@@ -1,0 +1,44 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	text: [
+		"可以增加紧贴其六个面的机器工作速度(其实就是缩减能量消耗)",
+		"林业的(旺旺)碎冰(需要养蜂)，水，极寒之凛冰都可以使用，极寒凛冰效果最佳",
+		"PS：加速时不是一起加速，而是六个面的机器轮流加速"
+	],
+	dependencies: [
+		"4adafbf9"
+	],
+	tasks: [{
+		uid: "52cd0a9b",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					0b,
+					1b,
+					1b,
+					1b,
+					1b,
+					1b
+				]
+			},
+			Damage: 2s
+		}]
+	}],
+	rewards: [{
+		uid: "5835f39f",
+		type: "item",
+		item: {
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "cryotheum"
+			}
+		},
+		count: 4
+	}]
+}

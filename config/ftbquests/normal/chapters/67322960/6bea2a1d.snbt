@@ -1,0 +1,32 @@
+{
+	x: 3.0d,
+	y: -7.0d,
+	text: [
+		"可以熔化可熔化的材料(金属等)"
+	],
+	dependencies: [
+		"72a375d3"
+	],
+	tasks: [{
+		uid: "b23f20d8",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 6s
+		}]
+	}]
+}

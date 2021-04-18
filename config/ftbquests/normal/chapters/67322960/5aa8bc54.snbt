@@ -1,0 +1,32 @@
+{
+	x: 1.0d,
+	y: -8.5d,
+	text: [
+		"流体转置机可以将流体装罐，也可以用液体对物品进行灌注"
+	],
+	dependencies: [
+		"b44ac0d2"
+	],
+	tasks: [{
+		uid: "89a89875",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					3b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 8s
+		}]
+	}]
+}

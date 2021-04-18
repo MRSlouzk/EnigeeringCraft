@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: 7.5d,
+	text: [
+		"使附近的玩家的飞行速度加快(前提是你能飞)"
+	],
+	dependencies: [
+		"e59c5148"
+	],
+	tasks: [{
+		uid: "19af08c6",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_flight_speed"
+		}]
+	}]
+}

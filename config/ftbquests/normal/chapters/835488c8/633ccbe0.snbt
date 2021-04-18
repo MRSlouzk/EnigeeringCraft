@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"中子活化仪在有阳光的情况下可以把气态锂转换为氚",
+		"PS：该机器在末地可不受黑夜影响，持续工作"
+	],
+	dependencies: [
+		"9cf7e927"
+	],
+	tasks: [{
+		uid: "c61d44e2",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock3 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

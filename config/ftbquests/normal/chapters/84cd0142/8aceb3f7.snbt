@@ -1,0 +1,14 @@
+{
+	x: -30.5d,
+	y: 5.0d,
+	text: [
+		"2800RF/IJ(物品热值，等量与烧一个物品消耗的燃料量)"
+	],
+	tasks: [{
+		uid: "9be829d4",
+		type: "item",
+		items: [{
+			item: "draconicevolution:generator"
+		}]
+	}]
+}

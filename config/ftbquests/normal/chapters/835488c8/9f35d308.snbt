@@ -1,0 +1,18 @@
+{
+	x: -10.0d,
+	y: -4.0d,
+	text: [
+		"纸箱可以移动带有nbt的方块并保留nbt(刷怪笼，箱子等)",
+		"警告:使用纸箱移动抽屉可能会导致崩端"
+	],
+	dependencies: [
+		"626d75d9"
+	],
+	tasks: [{
+		uid: "18f1391b",
+		type: "item",
+		items: [{
+			item: "mekanism:cardboardbox"
+		}]
+	}]
+}

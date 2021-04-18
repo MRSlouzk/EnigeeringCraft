@@ -1,0 +1,43 @@
+{
+	title: "无线访问",
+	icon: "appliedenergistics2:material 1 42",
+	x: 9.0d,
+	y: -2.5d,
+	text: [
+		"无线(合成)终端可以在信号范围内随意访问AE网络，不用找到面板才能访问AE",
+		"将无线访问节点接入网络，里面可以放入增幅卡增加有效距离(会增加耗电)，然后将有存电的无线终端放入安全终端右上角处与网络连接，之后就可以使用了！"
+	],
+	dependencies: [
+		"0829ea36"
+	],
+	tasks: [{
+		uid: "6421ce30",
+		type: "item",
+		items: [{
+			id: "wct:wct",
+			tag: {
+				InfinityEnergy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0ba78c19",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:wireless_access_point"
+		}]
+	}],
+	rewards: [{
+		uid: "3f75e873",
+		type: "item",
+		item: "appliedenergistics2:material 1 42",
+		count: 8
+	},
+	{
+		uid: "95c30f16",
+		type: "loot",
+		table: 1
+	}]
+}

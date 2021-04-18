@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 13.5d,
+	text: [
+		"可以传输液体(主动输出需要伺服器)"
+	],
+	dependencies: [
+		"c64deb81"
+	],
+	tasks: [{
+		uid: "7dfcf9f2",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_16 1 2"
+		}]
+	}]
+}

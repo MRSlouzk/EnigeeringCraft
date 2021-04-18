@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: -9.5d,
+	text: [
+		"谐振升级套件:强化槽升级为4个"
+	],
+	dependencies: [
+		"a77aaf65"
+	],
+	tasks: [{
+		uid: "e938b6ce",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 3"
+		}]
+	}]
+}

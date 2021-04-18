@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: 1.5d,
+	dependencies: [
+		"b40b2d53"
+	],
+	hide: true,
+	tasks: [{
+		uid: "97e566ab",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:mechanical_squeezer"
+		}]
+	}]
+}

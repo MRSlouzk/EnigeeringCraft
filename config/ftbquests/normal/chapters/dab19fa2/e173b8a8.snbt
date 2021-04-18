@@ -1,0 +1,15 @@
+{
+	title: "闪亮亮",
+	x: 1.0d,
+	y: 5.5d,
+	dependencies: [
+		"14631ac2"
+	],
+	tasks: [{
+		uid: "18918a0a",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 2"
+		}]
+	}]
+}

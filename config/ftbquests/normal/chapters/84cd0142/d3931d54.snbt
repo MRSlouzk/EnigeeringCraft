@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "e59df989",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_storage_core"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 14.0d,
+	text: [
+		"液体传输速度大幅度加快"
+	],
+	dependencies: [
+		"00a89ce9"
+	],
+	tasks: [{
+		uid: "24fc6299",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_16 1 6"
+		}]
+	}]
+}

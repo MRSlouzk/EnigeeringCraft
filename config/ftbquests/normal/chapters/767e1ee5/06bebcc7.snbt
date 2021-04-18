@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: 8.0d,
+	text: [
+		"可以让蜜蜂一轮交配结束后产出的公主蜂与产出的雄蜂自动继续交配"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "8397fd41",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 14"
+		}]
+	}]
+}

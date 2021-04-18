@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"工业蜂箱比原版蜂箱更为强大，它可以安装各种升级插件，大幅度降低养蜂难度"
+	],
+	dependencies: [
+		"039e6479"
+	],
+	tasks: [{
+		uid: "fd1976d9",
+		type: "item",
+		items: [{
+			item: "gendustry:industrial_apiary"
+		}]
+	}]
+}

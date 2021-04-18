@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: 5.5d,
+	text: [
+		"使需要海洋群系才能工作的蜜蜂工作(需要其他群系的无法工作)"
+	],
+	dependencies: [
+		"c72fef9e"
+	],
+	tasks: [{
+		uid: "8149a426",
+		type: "item",
+		items: [{
+			item: "gendustry:apiary.upgrade 1 21"
+		}]
+	}]
+}

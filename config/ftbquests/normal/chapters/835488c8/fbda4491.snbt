@@ -1,0 +1,20 @@
+{
+	x: -8.5d,
+	y: -1.5d,
+	text: [
+		"填充好合成表之后输入物品即可开始自动合成",
+		"可以把\"合成配方\"放在左侧并进行编码，能记录合成表(AE样板???)",
+		"适合于制作大批量单一物品的合成(压缩原石之类的，不过压缩抽屉真香)"
+	],
+	dependencies: [
+		"7e898721"
+	],
+	tasks: [{
+		uid: "fb9f23fa",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock3 1 5"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "要致富，先？",
+	x: -11.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "e9c97453",
+		type: "item",
+		icon: "minecraft:log",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}],
+		count: 8L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1d99f09d",
+		type: "loot",
+		table: 0
+	}]
+}

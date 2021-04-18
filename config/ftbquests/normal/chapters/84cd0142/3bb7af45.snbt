@@ -1,0 +1,16 @@
+{
+	x: -2.5d,
+	y: 11.5d,
+	tasks: [{
+		uid: "c71f6827",
+		type: "item",
+		items: [{
+			id: "nuclearcraft:voltaic_pile_elite",
+			tag: {
+				maxTransfer: 5120000,
+				capacity: 102400000,
+				energy: 0
+			}
+		}]
+	}]
+}
