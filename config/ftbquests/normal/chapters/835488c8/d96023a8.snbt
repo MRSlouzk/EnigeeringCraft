@@ -11,5 +11,10 @@
 			item: "mekanism:atomicalloy"
 		}],
 		count: 8L
+	}],
+	rewards: [{
+		uid: "77f20a64",
+		type: "loot",
+		table: 4
 	}]
 }

@@ -13,5 +13,10 @@
 		items: [{
 			item: "thermalfoundation:material 1 167"
 		}]
+	}],
+	rewards: [{
+		uid: "cf9cf65a",
+		type: "loot",
+		table: 5
 	}]
 }

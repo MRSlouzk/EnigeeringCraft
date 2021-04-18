@@ -13,5 +13,10 @@
 		items: [{
 			item: "thermalfoundation:upgrade 1 3"
 		}]
+	}],
+	rewards: [{
+		uid: "480d7f6a",
+		type: "loot",
+		table: 5
 	}]
 }

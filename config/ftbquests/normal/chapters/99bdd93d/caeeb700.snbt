@@ -28,5 +28,16 @@
 		uid: "6721bf62",
 		type: "loot",
 		table: 3
+	},
+	{
+		uid: "140e7933",
+		type: "item",
+		item: "teslacorelib:speed_tier1",
+		count: 4
+	},
+	{
+		uid: "d5835524",
+		type: "item",
+		item: "industrialforegoing:fortune_addon"
 	}]
 }

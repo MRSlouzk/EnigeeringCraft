@@ -30,5 +30,10 @@
 			item: "mekanism:basicblock2"
 		}],
 		count: 36L
+	}],
+	rewards: [{
+		uid: "d7a630ec",
+		type: "loot",
+		table: 4
 	}]
 }

@@ -28,5 +28,10 @@
 			},
 			Damage: 4s
 		}]
+	}],
+	rewards: [{
+		uid: "3b337abe",
+		type: "loot",
+		table: 5
 	}]
 }

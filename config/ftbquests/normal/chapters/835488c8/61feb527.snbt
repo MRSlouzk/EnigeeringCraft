@@ -19,5 +19,10 @@
 			item: "mekanism:machineblock 1 4"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "603ed57c",
+		type: "loot",
+		table: 4
 	}]
 }

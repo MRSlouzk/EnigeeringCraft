@@ -13,5 +13,10 @@
 		items: [{
 			item: "thermalfoundation:coin 1 103"
 		}]
+	}],
+	rewards: [{
+		uid: "75fbf17b",
+		type: "loot",
+		table: 5
 	}]
 }

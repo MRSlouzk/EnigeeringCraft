@@ -11,5 +11,10 @@
 			item: "mekanism:enrichedalloy"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "aecdc877",
+		type: "loot",
+		table: 4
 	}]
 }

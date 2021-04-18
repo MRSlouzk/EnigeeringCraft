@@ -1,5 +1,5 @@
 {
-	title: "氚",
+	title: "氘",
 	icon: {
 		id: "forestry:can",
 		tag: {
@@ -12,12 +12,20 @@
 	},
 	x: -1.5d,
 	y: -2.0d,
+	text: [
+		"(流体任务请先用任务显示器选择任务，然后向显示器内导入对应流体进行提交)"
+	],
 	dependencies: [
-		"69ad29ea"
+		"3896208f"
 	],
 	tasks: [{
 		uid: "fbebb248",
 		type: "fluid",
 		fluid: "liquiddeuterium"
+	}],
+	rewards: [{
+		uid: "160737a6",
+		type: "loot",
+		table: 4
 	}]
 }

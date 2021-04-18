@@ -14,5 +14,10 @@
 		items: [{
 			item: "thermaldynamics:duct_64 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "b08c70dd",
+		type: "loot",
+		table: 5
 	}]
 }

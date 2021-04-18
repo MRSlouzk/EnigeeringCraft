@@ -17,5 +17,10 @@
 			item: "mekanism:speedupgrade"
 		}],
 		count: 4L
+	}],
+	rewards: [{
+		uid: "e954ef45",
+		type: "loot",
+		table: 4
 	}]
 }

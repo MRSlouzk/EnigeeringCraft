@@ -14,5 +14,10 @@
 		items: [{
 			item: "thermalexpansion:frame 1 64"
 		}]
+	}],
+	rewards: [{
+		uid: "39be3dcc",
+		type: "loot",
+		table: 5
 	}]
 }

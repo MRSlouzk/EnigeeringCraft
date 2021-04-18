@@ -13,5 +13,10 @@
 			Damage: 4s
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bf7cec76",
+		type: "loot",
+		table: 5
 	}]
 }

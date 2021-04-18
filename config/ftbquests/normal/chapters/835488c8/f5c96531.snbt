@@ -12,6 +12,9 @@
 	},
 	x: -1.5d,
 	y: 0.0d,
+	text: [
+		"(流体任务请先用任务显示器选择任务，然后向显示器内导入对应流体进行提交)"
+	],
 	dependencies: [
 		"633ccbe0"
 	],
@@ -19,5 +22,10 @@
 		uid: "7a4af4bb",
 		type: "fluid",
 		fluid: "liquidtritium"
+	}],
+	rewards: [{
+		uid: "4a3eeac9",
+		type: "loot",
+		table: 4
 	}]
 }

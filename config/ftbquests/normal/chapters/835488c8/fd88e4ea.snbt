@@ -29,5 +29,10 @@
 			item: "mekanism:basicblock 1 7"
 		}],
 		count: 9L
+	}],
+	rewards: [{
+		uid: "ca761403",
+		type: "loot",
+		table: 4
 	}]
 }

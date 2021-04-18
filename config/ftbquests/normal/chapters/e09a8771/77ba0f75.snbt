@@ -1,0 +1,14 @@
+{
+	x: -4.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "c2c1bebd",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
