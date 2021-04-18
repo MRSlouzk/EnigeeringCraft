@@ -67,3 +67,7 @@ mods.avaritia.ExtremeCrafting.remove(<avaritia:neutronium_compressor>);
 //终极合成台
 recipes.remove(<avaritia:extreme_crafting_table>);
 mods.thermalexpansion.InductionSmelter.addRecipe(<avaritia:extreme_crafting_table>,<avaritia:double_compressed_crafting_table>,<avaritia:block_resource:2>,1000000);
+
+//寰宇肉丸
+mods.avaritia.ExtremeCrafting.remove(<avaritia:cosmic_meatballs>);
+mods.avaritia.ExtremeCrafting.addShaped("NAMEPLACEHOLDER", <avaritia:cosmic_meatballs> * 1, [[<avaritia:resource:2>, <minecraft:beef>, <minecraft:chicken>, <minecraft:rabbit>, <minecraft:rotten_flesh>, <minecraft:mutton>, <tconstruct:ingots:4>, null, null], [null, null, null, null, null, null, null, null, null],[null, null, null, null, null, null, null, null, null],[null, null, null, null, null, null, null, null, null],[null, null, null, null, null, null, null, null, null],[null, null, null, null, null, null, null, null, null],[null, null, null, null, null, null, null, null, null],[null, null, null, null, null, null, null, null, null],[null, null, null, null, null, null, null, null, null]]);

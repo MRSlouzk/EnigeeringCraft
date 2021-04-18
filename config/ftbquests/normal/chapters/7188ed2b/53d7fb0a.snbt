@@ -1,0 +1,22 @@
+{
+	title: "栗子",
+	icon: "forestry:fruits 1 2",
+	x: 4.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "9566525f",
+		type: "checkmark"
+	},
+	{
+		uid: "f78e084a",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "0d7917b4",
+		type: "item",
+		item: "forestry:fruits 1 2"
+	}]
+}

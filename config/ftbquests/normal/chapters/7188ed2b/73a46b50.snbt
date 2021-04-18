@@ -20,6 +20,12 @@
 		items: [{
 			item: "draconicevolution:chaos_shard 1 1"
 		}]
+	},
+	{
+		uid: "d3ffddb2",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 1L
 	}],
 	rewards: [{
 		uid: "905104bc",

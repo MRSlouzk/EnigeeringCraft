@@ -1,0 +1,23 @@
+{
+	title: "核桃",
+	icon: "forestry:fruits 1 1",
+	x: 3.0d,
+	y: 0.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "cb49d50d",
+		type: "checkmark"
+	},
+	{
+		uid: "b7d2036f",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "ec8203bf",
+		type: "item",
+		item: "forestry:fruits 1 1"
+	}]
+}

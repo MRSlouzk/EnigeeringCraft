@@ -1,0 +1,23 @@
+{
+	title: "柠檬",
+	icon: "forestry:fruits 1 3",
+	x: 1.5d,
+	y: 0.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "661a4865",
+		type: "checkmark"
+	},
+	{
+		uid: "4ceb58a3",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "52e270fa",
+		type: "item",
+		item: "forestry:fruits 1 3"
+	}]
+}

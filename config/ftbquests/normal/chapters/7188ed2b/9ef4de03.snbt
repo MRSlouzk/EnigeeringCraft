@@ -1,0 +1,23 @@
+{
+	title: "木瓜",
+	icon: "forestry:fruits 1 6",
+	x: 0.0d,
+	y: 0.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "c1337773",
+		type: "checkmark"
+	},
+	{
+		uid: "519ba669",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "1d469b80",
+		type: "item",
+		item: "forestry:fruits 1 6"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "李子",
+	icon: "forestry:fruits 1 4",
+	x: 3.0d,
+	y: 1.5d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "993e48f2",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "52db3c3c",
+		type: "item",
+		item: "forestry:fruits 1 4"
+	}]
+}
