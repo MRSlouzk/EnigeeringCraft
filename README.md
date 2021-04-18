@@ -4,7 +4,8 @@ Engineering Craft
 Introduction
 ------------
 这是一个由MRSlouzk创建的minecraft整合包  
-<u>本整合包尚未发布!正在努力更新中</n>
+<u>本整合包尚未发布!正在努力更新中</n>  
+
 Changelog
 ------------
 2021/3/22  
