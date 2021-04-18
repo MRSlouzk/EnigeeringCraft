@@ -1,0 +1,18 @@
+{
+	x: 7.0d,
+	y: 11.5d,
+	text: [
+		"MEK的多方块结构动态储罐也是存储液体的好东西，其容量也十分巨大，造价中等，适合中期使用",
+		"(其实作者并不是很推荐用这个东西，这玩意总是会有各种神奇的bug)"
+	],
+	dependencies: [
+		"8e936ebe"
+	],
+	tasks: [{
+		uid: "1ef940d1",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 9"
+		}]
+	}]
+}

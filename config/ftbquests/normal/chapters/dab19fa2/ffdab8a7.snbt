@@ -1,0 +1,23 @@
+{
+	title: "MEK 液体储罐",
+	x: 7.0d,
+	y: 8.5d,
+	text: [
+		"MEK的液体储罐有四个等级，其造价也非常便宜，适合前期的液体存储"
+	],
+	dependencies: [
+		"8e936ebe"
+	],
+	tasks: [{
+		uid: "c2806250",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				tier: 0
+			},
+			Damage: 11s
+		}],
+		ignore_nbt: 1b
+	}]
+}

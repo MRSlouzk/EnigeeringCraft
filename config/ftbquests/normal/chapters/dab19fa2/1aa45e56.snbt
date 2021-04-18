@@ -1,0 +1,18 @@
+{
+	title: "工匠储罐",
+	x: 8.0d,
+	y: 9.0d,
+	text: [
+		"匠魂的工匠储罐是一个多方块结构，搭建方法见匠魂宝典。其造价便宜，并且储量非常大还可以同时存储多种液体(不会进行合金)，除了占地可能有点大之外，也是前期储存液体的推荐选项"
+	],
+	dependencies: [
+		"8e936ebe"
+	],
+	tasks: [{
+		uid: "07b5263b",
+		type: "item",
+		items: [{
+			item: "tconstruct:tinker_tank_controller"
+		}]
+	}]
+}

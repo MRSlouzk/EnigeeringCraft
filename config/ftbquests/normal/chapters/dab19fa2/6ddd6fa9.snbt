@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: 10.0d,
+	text: [
+		"两倍于普通液体储罐的容量(32000mb)",
+		"(说实话有点不是很值)"
+	],
+	dependencies: [
+		"db1403c1"
+	],
+	tasks: [{
+		uid: "7cedf329",
+		type: "item",
+		items: [{
+			item: "enderio:block_tank 1 1"
+		}]
+	}]
+}

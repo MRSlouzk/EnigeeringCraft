@@ -1,6 +1,9 @@
 {
 	x: 10.5d,
 	y: 15.5d,
+	text: [
+		"相较于普通的收集器添加了过滤与范围调节功能"
+	],
 	dependencies: [
 		"46e1b687"
 	],
@@ -10,5 +13,10 @@
 		items: [{
 			item: "randomthings:advanceditemcollector"
 		}]
+	}],
+	rewards: [{
+		uid: "a2ba63a6",
+		type: "item",
+		item: "randomthings:itemfilter"
 	}]
 }

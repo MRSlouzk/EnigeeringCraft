@@ -1,0 +1,23 @@
+{
+	title: "热力 便携储罐",
+	x: 6.0d,
+	y: 9.0d,
+	text: [
+		"热力膨胀的便携储液罐造价非常便宜，并且可以使用热力的升级套件进行升级，附魔\"扩容\"亦可以增加其容量"
+	],
+	dependencies: [
+		"8e936ebe"
+	],
+	tasks: [{
+		uid: "1600a409",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:tank",
+			tag: {
+				RSControl: 0b,
+				Level: 0b
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

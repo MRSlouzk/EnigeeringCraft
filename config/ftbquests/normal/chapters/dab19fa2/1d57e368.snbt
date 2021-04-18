@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: 11.0d,
+	text: [
+		"工业先锋的黑洞储液罐有着几近无限的液体存储量，只能存储单一液体，破坏后仍可以保留其中的液体"
+	],
+	dependencies: [
+		"8e936ebe"
+	],
+	tasks: [{
+		uid: "0c4ad1a4",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:black_hole_tank"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
