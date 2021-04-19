@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	text: [
+		"压缩空间模组的基础合成材料"
+	],
+	dependencies: [
+		"8e36bbd1"
+	],
+	tasks: [{
+		uid: "eab55c00",
+		type: "item",
+		items: [{
+			item: "compactmachines3:wallbreakable"
+		}]
+	}]
+}

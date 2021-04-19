@@ -1,12 +1,14 @@
 {
 	x: 0.5d,
 	y: 2.0d,
+	shape: "square",
 	text: [
 		"工业蜂箱比原版蜂箱更为强大，它可以安装各种升级插件，大幅度降低养蜂难度"
 	],
 	dependencies: [
 		"039e6479"
 	],
+	size: 1.3d,
 	tasks: [{
 		uid: "fd1976d9",
 		type: "item",

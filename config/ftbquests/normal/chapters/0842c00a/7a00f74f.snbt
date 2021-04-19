@@ -2,9 +2,11 @@
 	title: "冰冷的金属",
 	x: -7.0d,
 	y: -1.5d,
+	shape: "pentagon",
 	dependencies: [
 		"a852a07c"
 	],
+	size: 1.3d,
 	tasks: [{
 		uid: "32b7cc2f",
 		type: "item",

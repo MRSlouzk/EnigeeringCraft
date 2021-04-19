@@ -3,12 +3,14 @@
 	icon: "environmentaltech:litherite_crystal",
 	x: -0.5d,
 	y: -0.5d,
+	shape: "gear",
 	text: [
 		"莱泽尔水晶是环境科技的基础合成材料，可通过过虚空采矿机以及合成获得，不过一开始只能合成"
 	],
 	dependencies: [
 		"cf122dc5"
 	],
+	size: 1.2d,
 	tasks: [{
 		uid: "d69bd950",
 		type: "item",

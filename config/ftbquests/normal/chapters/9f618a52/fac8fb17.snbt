@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: -0.5d,
+	text: [
+		"传送器兼具模组指导手册与传送功能，拿着它右键空间机械即可进入空间机械"
+	],
+	dependencies: [
+		"2f130b7e"
+	],
+	tasks: [{
+		uid: "198e6f51",
+		type: "item",
+		items: [{
+			item: "compactmachines3:psd"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

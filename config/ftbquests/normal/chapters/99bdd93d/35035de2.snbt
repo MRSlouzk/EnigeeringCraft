@@ -3,10 +3,12 @@
 	icon: "mekanism:crystal",
 	x: 9.0d,
 	y: -0.5d,
+	shape: "gear",
 	dependencies: [
 		"54cfb375"
 	],
 	hide: true,
+	size: 1.3d,
 	tasks: [{
 		uid: "dba1c953",
 		type: "item",
@@ -67,7 +69,7 @@
 	{
 		uid: "b47779e8",
 		type: "xp",
-		xp: 1000000
+		xp: 500000
 	},
 	{
 		uid: "9f5b928b",

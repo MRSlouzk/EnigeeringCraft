@@ -3,6 +3,7 @@
 	icon: "appliedenergistics2:part 1 460",
 	x: 7.5d,
 	y: 3.0d,
+	shape: "square",
 	text: [
 		"(本教程只讲述P2P-AE的使用，其他的大家可以举一反三)",
 		"p2p-ME(以下简称p2p)可以进行频道的跨越式传输，它可以让一条玻璃线缆承载最多4*32个频道！大大提高了线缆利用率",

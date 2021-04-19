@@ -2,6 +2,7 @@
 	title: "强化部件的使用",
 	x: -2.5d,
 	y: 1.5d,
+	shape: "octagon",
 	text: [
 		"强化部件相当于机器的升级，可以提高本模组多方块机械的对应属性性能",
 		"一般只有二级及以上的多方块机器可以安装强化升级",
@@ -10,6 +11,7 @@
 	dependencies: [
 		"cf122dc5"
 	],
+	size: 1.2d,
 	tasks: [{
 		uid: "bbb8cb18",
 		type: "item",

@@ -1,12 +1,14 @@
 {
 	x: -5.5d,
 	y: 2.0d,
+	shape: "square",
 	text: [
 		"使附近的玩家有饱和效果"
 	],
 	dependencies: [
 		"e59c5148"
 	],
+	size: 1.1d,
 	tasks: [{
 		uid: "0f7f2e31",
 		type: "item",

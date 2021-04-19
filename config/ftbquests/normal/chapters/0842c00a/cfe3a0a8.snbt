@@ -2,6 +2,7 @@
 	title: "要致富，先？",
 	x: -11.0d,
 	y: -1.5d,
+	shape: "pentagon",
 	tasks: [{
 		uid: "e9c97453",
 		type: "item",

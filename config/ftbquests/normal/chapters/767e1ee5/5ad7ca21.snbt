@@ -1,12 +1,14 @@
 {
 	x: 6.5d,
 	y: 3.0d,
+	shape: "square",
 	text: [
 		"功能跟诱变机相同，但是可以选择杂交出来哪一种类(诱变机是随机的，无法选择)"
 	],
 	dependencies: [
 		"a43ddd2c"
 	],
+	size: 1.2d,
 	tasks: [{
 		uid: "146a54ef",
 		type: "item",

@@ -144,6 +144,7 @@
 	},
 	x: -3.0d,
 	y: -3.5d,
+	shape: "pentagon",
 	text: [
 		"(此任务开启林业任务线)",
 		"林业(Forestry)是一个以农业科技为主线的模组，其中有农场，养蜂，养蝶，种树等多个模块可以畅玩"
@@ -151,6 +152,7 @@
 	dependencies: [
 		"31d2fd31"
 	],
+	size: 1.8d,
 	tasks: [{
 		uid: "ee672842",
 		type: "item",

@@ -3,12 +3,14 @@
 	icon: "draconicevolution:draconic_core",
 	x: 1.0d,
 	y: -2.0d,
+	shape: "gear",
 	text: [
 		"龙芯是模组内非常重要的合成材料"
 	],
 	dependencies: [
 		"316acf5a"
 	],
+	size: 1.1d,
 	tasks: [{
 		uid: "5a5d809d",
 		type: "item",

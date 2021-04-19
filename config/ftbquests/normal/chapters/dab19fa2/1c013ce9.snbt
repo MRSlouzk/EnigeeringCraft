@@ -17,6 +17,7 @@
 	dependencies: [
 		"c1956894"
 	],
+	size: 1.3d,
 	tasks: [{
 		uid: "de5ffce4",
 		type: "checkmark"

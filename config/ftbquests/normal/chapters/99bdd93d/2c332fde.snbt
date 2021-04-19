@@ -3,6 +3,7 @@
 	icon: "integrateddynamics:squeezer",
 	x: -3.5d,
 	y: 1.0d,
+	shape: "square",
 	dependencies: [
 		"4eb68cbe"
 	],

@@ -3,6 +3,7 @@
 	icon: "appliedenergistics2:part 1 100",
 	x: 7.0d,
 	y: 7.0d,
+	shape: "square",
 	text: [
 		"触发总线有信号则连通其两侧的线缆，无信号则断开，反向触发总线则相反。",
 		"",

@@ -1,12 +1,14 @@
 {
 	x: -1.5d,
 	y: 1.0d,
+	shape: "square",
 	text: [
 		"可反复充能进行使用的捕蜂网"
 	],
 	dependencies: [
 		"039e6479"
 	],
+	size: 1.2d,
 	tasks: [{
 		uid: "64414636",
 		type: "item",

@@ -3,9 +3,11 @@
 	icon: "minecraft:netherrack",
 	x: -1.0d,
 	y: -1.5d,
+	shape: "gear",
 	dependencies: [
 		"31d2fd31"
 	],
+	size: 1.3d,
 	tasks: [{
 		uid: "a0dcc0d3",
 		type: "dimension",

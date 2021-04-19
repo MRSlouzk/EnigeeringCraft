@@ -3,10 +3,16 @@
 	icon: "draconicevolution:draconic_core",
 	x: 9.0d,
 	y: 0.0d,
+	shape: "pentagon",
+	text: [
+		"(此任务可以解锁科技时代三-龙之研究章节任务)",
+		"龙之研究中重要的合成材料"
+	],
 	dependencies: [
 		"ba74be68",
 		"fdcd3de3"
 	],
+	size: 2.0d,
 	tasks: [{
 		uid: "1b86f39a",
 		type: "item",

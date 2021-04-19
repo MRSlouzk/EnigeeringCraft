@@ -3,6 +3,7 @@
 	icon: "appliedenergistics2:part 1 280",
 	x: 9.0d,
 	y: 7.0d,
+	shape: "square",
 	text: [
 		"发信器可以检测网络中执行物品的数量并根据其数量与给定的数字之间的大小关系来发出红石信号，右键打开GUI即可设置"
 	],

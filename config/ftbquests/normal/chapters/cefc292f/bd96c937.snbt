@@ -2,12 +2,14 @@
 	title: "进化:混沌龙",
 	x: 11.5d,
 	y: -2.0d,
+	shape: "gear",
 	text: [
 		"混沌等级没有对应装备(不过有个龙研的附属模组有，本包没加)，只有升级"
 	],
 	dependencies: [
 		"308d44ba"
 	],
+	size: 2.0d,
 	tasks: [{
 		uid: "03186a16",
 		type: "item",

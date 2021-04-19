@@ -1,20 +1,16 @@
 {
 	x: 1.5d,
 	y: -11.0d,
+	shape: "square",
 	dependencies: [
 		"ac73134a",
 		"a77aaf65"
 	],
 	tasks: [{
-		uid: "08038830",
+		uid: "a513b614",
 		type: "item",
 		items: [{
 			item: "thermalfoundation:upgrade 1 34"
 		}]
-	}],
-	rewards: [{
-		uid: "fabe37ec",
-		type: "loot",
-		table: 5
 	}]
 }

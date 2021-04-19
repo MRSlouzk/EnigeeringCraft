@@ -3,6 +3,7 @@
 	icon: "minecraft:nether_star",
 	x: -1.0d,
 	y: 2.5d,
+	shape: "gear",
 	text: [
 		"(完成此任务解锁凋零农场任务)",
 		"凋零是原版两大BOSS之一，会掉落下界之星，而下界之星是中后期的重要合成原料(要没人权了/滑稽)"
@@ -10,6 +11,7 @@
 	dependencies: [
 		"2f97f110"
 	],
+	size: 1.2d,
 	tasks: [{
 		uid: "bcce8e77",
 		type: "item",

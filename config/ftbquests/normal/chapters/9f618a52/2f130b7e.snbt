@@ -1,0 +1,12 @@
+{
+	title: "压缩空间",
+	x: -2.5d,
+	y: 1.0d,
+	text: [
+		"压缩空间(Compact machines)是一个辅助类模组，可以创造单独的世界，里面可以放上各种机器，能有效地减少卡顿"
+	],
+	tasks: [{
+		uid: "87a85865",
+		type: "checkmark"
+	}]
+}

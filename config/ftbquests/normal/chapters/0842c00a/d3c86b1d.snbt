@@ -2,6 +2,7 @@
 	title: "沉浸工业",
 	x: -6.5d,
 	y: 2.5d,
+	shape: "pentagon",
 	text: [
 		"(完成此任务后开启沉浸工业任务线)",
 		"沉浸工业(Immersiveengineering)是一个复古风科技mod,里面的许多机械都有独特的多方块结构，需要玩家手动搭建。模组的电力传输也并不像其它模组一样直来直去，而是像现实中的电网：电线架在电线杆上，在机器间穿梭"
@@ -9,6 +10,7 @@
 	dependencies: [
 		"4125a991"
 	],
+	size: 1.8d,
 	tasks: [{
 		uid: "6d81deb3",
 		type: "item",

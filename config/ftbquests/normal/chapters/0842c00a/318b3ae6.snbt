@@ -3,6 +3,7 @@
 	icon: "thermalfoundation:material 1 64",
 	x: -5.0d,
 	y: 0.5d,
+	shape: "pentagon",
 	text: [
 		"(此任务开启矿物处理章节)",
 		"矿物处理是科技包中非常重要的一个环节，可以对矿物进行增产"
@@ -11,6 +12,7 @@
 		"be84fb77"
 	],
 	hide: true,
+	size: 1.4d,
 	tasks: [{
 		uid: "12e502c1",
 		type: "checkmark"

@@ -3,6 +3,7 @@
 	icon: "tconstruct:materials",
 	x: -1.5d,
 	y: -0.5d,
+	shape: "square",
 	dependencies: [
 		"43d3c1e6",
 		"2c332fde"

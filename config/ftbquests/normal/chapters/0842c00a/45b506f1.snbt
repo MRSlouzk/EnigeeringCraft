@@ -1,12 +1,14 @@
 {
 	x: 1.0d,
 	y: 2.5d,
+	shape: "gear",
 	text: [
 		"后期重要合成材料，造价不菲"
 	],
 	dependencies: [
 		"13d2ddc8"
 	],
+	size: 1.5d,
 	tasks: [{
 		uid: "f9d0afd7",
 		type: "item",

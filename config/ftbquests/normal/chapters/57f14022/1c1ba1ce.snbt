@@ -1,12 +1,14 @@
 {
 	x: -7.0d,
 	y: -3.5d,
+	shape: "gear",
 	text: [
 		"重要合成材料"
 	],
 	dependencies: [
 		"0e4e5f99"
 	],
+	size: 1.2d,
 	tasks: [{
 		uid: "66099b0f",
 		type: "item",

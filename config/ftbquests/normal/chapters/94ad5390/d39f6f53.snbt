@@ -1,6 +1,6 @@
 {
 	title: "RF工具:维度",
-	icon: "minecraft:diamond_ore",
+	icon: "rftools:dimensional_shard",
 	x: -7.5d,
 	y: -0.5d,
 	dependencies: [

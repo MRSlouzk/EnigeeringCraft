@@ -1,12 +1,14 @@
 {
 	x: -3.0d,
 	y: 9.0d,
+	shape: "square",
 	text: [
 		"可以大幅度缩减蜜蜂每次的杂交时长，可以安装多个"
 	],
 	dependencies: [
 		"c72fef9e"
 	],
+	size: 1.1d,
 	tasks: [{
 		uid: "5cfb3b9b",
 		type: "item",

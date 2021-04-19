@@ -2,12 +2,14 @@
 	title: "进化:双足飞龙",
 	x: 3.0d,
 	y: -0.5d,
+	shape: "gear",
 	text: [
 		"双足飞龙核心是龙芯的进化版，是一种强力的材料，既可以作匠魂材料，也可以用来合成龙研的双足飞龙一套"
 	],
 	dependencies: [
 		"55a6758a"
 	],
+	size: 1.2d,
 	tasks: [{
 		uid: "44d18ae7",
 		type: "item",

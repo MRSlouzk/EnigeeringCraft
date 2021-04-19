@@ -2,6 +2,7 @@
 	title: "神龙充电宝",
 	x: 6.0d,
 	y: 0.5d,
+	shape: "square",
 	text: [
 		"使用同飞龙电容，不过容量更大"
 	],
@@ -9,6 +10,7 @@
 		"8303fd8b",
 		"45dfa625"
 	],
+	size: 1.1d,
 	tasks: [{
 		uid: "8ad04555",
 		type: "item",

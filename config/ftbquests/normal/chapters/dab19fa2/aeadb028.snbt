@@ -3,6 +3,7 @@
 	icon: "extrautils2:largishchest",
 	x: 1.0d,
 	y: 1.5d,
+	shape: "square",
 	text: [
 		"不同于普通箱子，它是占用一整格方块"
 	],

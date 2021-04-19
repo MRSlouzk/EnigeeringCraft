@@ -3,6 +3,9 @@
 	icon: "avaritia:resource 1 5",
 	x: -5.0d,
 	y: -1.0d,
+	dependencies: [
+		"d976907b"
+	],
 	tasks: [{
 		uid: "4537fa0a",
 		type: "checkmark"

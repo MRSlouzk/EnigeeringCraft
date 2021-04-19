@@ -1,14 +1,16 @@
 {
 	title: "Speed Up!",
 	icon: "appliedenergistics2:material 1 30",
-	x: 13.0d,
-	y: 3.5d,
+	x: 13.2d,
+	y: 3.5999999999999996d,
+	shape: "square",
 	text: [
 		"加速卡可以显著提升ME接口型设备(输入输出总线等等)的传输速度与其它设备的处理速度"
 	],
 	dependencies: [
 		"19c29725"
 	],
+	size: 1.2d,
 	tasks: [{
 		uid: "e08796ab",
 		type: "item",

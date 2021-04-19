@@ -11,6 +11,7 @@
 	dependencies: [
 		"83d1073b"
 	],
+	size: 1.4d,
 	tasks: [{
 		uid: "1ff47973",
 		type: "item",
