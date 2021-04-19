@@ -104,6 +104,7 @@ star_of_blue.itemRightClick = function(stack, world, player, hand){
         Commands.call("title @a title [{\"text\":\"恭喜完结!!!\",\"color\":\"gold\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]",player,world,false,true);
         Commands.call("title @a subtitle [{\"text\":\"感谢您持续不懈的游玩!\",\"color\":\"dark_red\",\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]",player,world,false,true);
         Commands.call("playsound minecraft:ui.toast.challenge_complete ambient "+ player.name + " "+ player.x +" "+ player.y + " " + player.z +" 10 1 1",player,world,false,true);
+        Commands.call("summon minecraft:fireworks_rocket "+ player.x + " " + player.y + " " + player.z,player,world,false,true);
         Commands.call("gamemode 1 "+ player.name,player,world,false,true);
         stack.shrink(1);
         return "Success";

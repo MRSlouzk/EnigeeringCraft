@@ -10,4 +10,4 @@ static Three as Stage = ZenStager.initStage("three");
 static Final as Stage = ZenStager.initStage("final");
 static End as Stage = ZenStager.initStage("end");
 static Creative as Stage = ZenStager.initStage("creative");
-
+static Start as Stage = ZenStager.initStage("start");
