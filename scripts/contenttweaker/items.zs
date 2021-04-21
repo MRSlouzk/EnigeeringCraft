@@ -114,3 +114,26 @@ star_of_blue.itemRightClick = function(stack, world, player, hand){
     }
 };
 star_of_blue.register();
+
+//调试物品
+var debug_item = VanillaFactory.createItem("debug_item");
+debug_item.maxStackSize = 1;
+debug_item.rarity = "COMMON";
+debug_item.glowing = true;
+debug_item.itemRightClick = function(stack, world, player, hand){
+    if(true){
+        Commands.call("gamestage add "+ player.name + " Start",player,world,false,true);
+        Commands.call("gamestage add "+ player.name + " One",player,world,false,true);
+        Commands.call("gamestage add "+ player.name + " Two",player,world,false,true);
+        Commands.call("gamestage add "+ player.name + " Three",player,world,false,true);
+        Commands.call("gamestage add "+ player.name + " Final",player,world,false,true);
+        Commands.call("gamestage add "+ player.name + " End",player,world,false,true);
+        Commands.call("gamestage add "+ player.name + " Creative",player,world,false,true);
+        Commands.call("gamestage add "+ player.name + " Disabled",player,world,false,true);
+        return "Success";
+    }
+    else{
+        return "Pass";
+    }
+};
+debug_item.register();

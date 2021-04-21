@@ -3,6 +3,7 @@
 	icon: "rftools:oredict_module",
 	x: -8.0d,
 	y: -4.0d,
+	shape: "square",
 	text: [
 		"各个模组之间总会有相同的物品(铜，锡等等)，如果它们不能通用，会对合成造成很大麻烦",
 		"所以就有了矿辞这一个东西，它将各个模组的同一样东西进行了统一，比如铜锭是ingotCopper",

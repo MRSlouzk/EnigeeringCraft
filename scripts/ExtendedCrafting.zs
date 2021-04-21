@@ -64,7 +64,7 @@ mods.extendedcrafting.TableCrafting.addShaped(4,<appliedenergistics2:creative_st
 
 //创造取出升级
 mods.extendedcrafting.TableCrafting.addShaped(4, <storagedrawers:upgrade_creative:1>, [
-	[<ore:dustCalciumSulfate>, <ore:dustCalciumSulfate>, <ore:skullZombieFrankenstein>, <ore:blockEndSteel>, <projectex:matter:11>, <ore:blockEnderium>, <ore:skullZombieFrankenstein>, <ore:dustCalciumSulfate>, <ore:dustCalciumSulfate>], 
+	[<extendedcrafting:material:32>, <ore:dustCalciumSulfate>, <ore:skullZombieFrankenstein>, <ore:blockEndSteel>, <projectex:matter:11>, <ore:blockEnderium>, <ore:skullZombieFrankenstein>, <ore:dustCalciumSulfate>, <extendedcrafting:material:32>], 
 	[<ore:dustCalciumSulfate>, <appliedenergistics2:material:47>, <ore:blockAethium>, <ore:blockManyullyn>, <ore:blockManyullyn>, <ore:blockManyullyn>, <ore:blockAethium>, <appliedenergistics2:material:47>, <ore:dustCalciumSulfate>], 
 	[<ore:gemBoronNitride>, <ore:blockAethium>, <draconicevolution:awakened_core>, <draconicevolution:draconium_block:1>, <draconicevolution:draconium_block:1>, <draconicevolution:draconium_block:1>, <draconicevolution:awakened_core>, <ore:blockAethium>, <ore:gemBoronNitride>], 
 	[<ore:crystalGold>, <ore:blockManyullyn>, <draconicevolution:draconium_block:1>, <ore:ingotInfinity>, <ore:blockCosmicNeutronium>, <ore:ingotInfinity>, <draconicevolution:draconium_block:1>, <ore:blockManyullyn>, <ore:crystalGold>], 
@@ -72,12 +72,12 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <storagedrawers:upgrade_creativ
 	[<ore:crystalGold>, <ore:blockManyullyn>, <draconicevolution:draconium_block:1>, <ore:ingotInfinity>, <ore:blockCosmicNeutronium>, <ore:ingotInfinity>, <draconicevolution:draconium_block:1>, <ore:blockManyullyn>, <ore:crystalGold>], 
 	[<ore:gemBoronNitride>, <ore:blockAethium>, <draconicevolution:awakened_core>, <draconicevolution:draconium_block:1>, <draconicevolution:draconium_block:1>, <draconicevolution:draconium_block:1>, <draconicevolution:awakened_core>, <ore:blockAethium>, <ore:gemBoronNitride>], 
 	[<ore:dustCalciumSulfate>, <appliedenergistics2:material:47>, <ore:blockAethium>, <ore:blockManyullyn>, <ore:blockManyullyn>, <ore:blockManyullyn>, <ore:blockAethium>, <appliedenergistics2:material:47>, <ore:dustCalciumSulfate>], 
-	[<ore:dustCalciumSulfate>, <ore:dustCalciumSulfate>, <ore:skullZombieFrankenstein>, <ore:blockEndSteel>, <projectex:matter:11>, <ore:blockEnderium>, <ore:skullZombieFrankenstein>, <ore:dustCalciumSulfate>, <ore:dustCalciumSulfate>]
+	[<extendedcrafting:material:32>, <ore:dustCalciumSulfate>, <ore:skullZombieFrankenstein>, <ore:blockEndSteel>, <projectex:matter:11>, <ore:blockEnderium>, <ore:skullZombieFrankenstein>, <ore:dustCalciumSulfate>, <extendedcrafting:material:32>]
 ]);
 
 //转化桌
-mods.extendedcrafting.TableCrafting.addShaped(4,<projecte:transmutation_table>, [
-	[<extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>], 
+mods.extendedcrafting.TableCrafting.addShaped(4,<projecte:transmutation_table>*2, [
+	[<extendedcrafting:material:32>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extendedcrafting:material:32>], 
 	[<extrautils2:decorativesolid:3>, <extrautils2:opinium:6>, <ore:blockCosmicNeutronium>, <ore:ingotInfinity>, <extrautils2:decorativesolid:8>, <ore:ingotInfinity>, <ore:blockCosmicNeutronium>, <extrautils2:opinium:6>, <extrautils2:decorativesolid:3>], 
 	[<extrautils2:decorativesolid:3>, <ore:blockCosmicNeutronium>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <projectex:matter:11>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <ore:blockCosmicNeutronium>, <extrautils2:decorativesolid:3>], 
 	[<extrautils2:decorativesolid:3>, <ore:ingotInfinity>, <appliedenergistics2:material:37>, <draconicevolution:draconium_block:1>, <draconicevolution:draconium_block:1>, <draconicevolution:draconium_block:1>, <appliedenergistics2:material:37>, <ore:ingotInfinity>, <extrautils2:decorativesolid:3>], 
@@ -85,7 +85,7 @@ mods.extendedcrafting.TableCrafting.addShaped(4,<projecte:transmutation_table>, 
 	[<extrautils2:decorativesolid:3>, <ore:ingotInfinity>, <appliedenergistics2:material:37>, <draconicevolution:draconium_block:1>, <draconicevolution:draconium_block:1>, <draconicevolution:draconium_block:1>, <appliedenergistics2:material:37>, <ore:ingotInfinity>, <extrautils2:decorativesolid:3>], 
 	[<extrautils2:decorativesolid:3>, <ore:blockCosmicNeutronium>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <projectex:matter:11>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <ore:blockCosmicNeutronium>, <extrautils2:decorativesolid:3>], 
 	[<extrautils2:decorativesolid:3>, <extrautils2:opinium:6>, <ore:blockCosmicNeutronium>, <ore:ingotInfinity>, <extrautils2:decorativesolid:8>, <ore:ingotInfinity>, <ore:blockCosmicNeutronium>, <extrautils2:opinium:6>, <extrautils2:decorativesolid:3>], 
-	[<extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>]
+	[<extendedcrafting:material:32>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extrautils2:decorativesolid:3>, <extendedcrafting:material:32>]
 ]);
 
 //能量凝聚器MK1

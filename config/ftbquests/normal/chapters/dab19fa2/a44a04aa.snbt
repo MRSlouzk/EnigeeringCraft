@@ -1,0 +1,13 @@
+{
+	title: "集成动力",
+	icon: "integrateddynamics:crystalized_menril_chunk",
+	x: 5.5d,
+	y: 17.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "5f8991c7",
+		type: "checkmark"
+	}]
+}

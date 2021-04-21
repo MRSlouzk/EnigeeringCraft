@@ -1,0 +1,20 @@
+{
+	title: "聚万物于一锭",
+	icon: "avaritia:resource 1 4",
+	x: -2.5d,
+	y: -1.0d,
+	text: [
+		"中子素锭是一个极难获取的金属，需要使用中子素锭收集器日夜不停地进行收集，当然，本包中加入了用中子流体合成中子素锭的配方",
+		"中子素锭是后期重要合成材料"
+	],
+	dependencies: [
+		"f325357e"
+	],
+	tasks: [{
+		uid: "86421e10",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 4"
+		}]
+	}]
+}
