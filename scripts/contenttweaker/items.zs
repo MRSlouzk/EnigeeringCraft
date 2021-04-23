@@ -129,7 +129,6 @@ debug_item.itemRightClick = function(stack, world, player, hand){
         Commands.call("gamestage add "+ player.name + " Final",player,world,false,true);
         Commands.call("gamestage add "+ player.name + " End",player,world,false,true);
         Commands.call("gamestage add "+ player.name + " Creative",player,world,false,true);
-        Commands.call("gamestage add "+ player.name + " Disabled",player,world,false,true);
         return "Success";
     }
     else{

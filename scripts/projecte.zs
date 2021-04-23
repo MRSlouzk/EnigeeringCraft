@@ -49,7 +49,7 @@ recipes.remove(<projectex:knowledge_sharing_book>);
 
 //石制转化桌
 recipes.remove(<projectex:stone_table>);
-addDescription(<projecte:collector_mk1>,"已移除");
+addDescription(<projectex:stone_table>,"已移除");
 
 //收集器MK2-MK10
 val removed as IItemStack[] = [

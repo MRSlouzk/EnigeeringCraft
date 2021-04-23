@@ -18,3 +18,6 @@ recipes.remove(<extrautils2:quarryproxy>);
 recipes.remove(<extrautils2:quarry>);
 recipes.addShaped(<extrautils2:quarryproxy>, [[<compactmachines3:wallbreakable>, <enderio:item_material:44>, <compactmachines3:wallbreakable>],[<appliedenergistics2:material:34>, <appliedenergistics2:spatial_pylon>, <appliedenergistics2:material:34>], [<compactmachines3:wallbreakable>, <enderio:block_alloy:6>, <compactmachines3:wallbreakable>]]);
 recipes.addShaped(<extrautils2:quarry>, [[<enderio:block_transceiver>, <industrialforegoing:laser_drill>, <enderio:block_transceiver>],[<extrautils2:decorativesolid:8>, <extrautils2:teleporter:1>, <extrautils2:decorativesolid:8>], [<environmentaltech:kyronite>, <environmentaltech:kyronite>, <environmentaltech:kyronite>]]);
+
+//创造建筑之杖
+recipea.addShaped(<extrautils2:itemcreativebuilderswand>,[[<extrautils2:itembuilderswand>,<extrautils2:itembuilderswand>,<extrautils2:itembuilderswand>],[<extrautils2:itembuilderswand>,<avaritia:resource:4>,<extrautils2:itembuilderswand>],[<extrautils2:itembuilderswand>,<extrautils2:itembuilderswand>,<extrautils2:itembuilderswand>]])

@@ -49,7 +49,7 @@ mods.extendedcrafting.TableCrafting.addShaped(2, <contenttweaker:glowing_stick>,
 
 //完结物品
 mods.extendedcrafting.CombinationCrafting.addRecipe
-(<contenttweaker:star_of_blue>,400000000000,50000000,<storagedrawers:upgrade_creative:1>, [<mekanism:gastank>.withTag({tier: 4}),<mekanism:machineblock2:11>.withTag({tier: 4}),<mekanism:energycube>.withTag({tier: 4, mekData: {energyStored: 1.7976931348623157E308}}),<thermalexpansion:capacitor:32000>.withTag({Energy: 25000000}),<draconicevolution:chaotic_core>]);
+(<contenttweaker:star_of_blue>,400000000000,50000000,<storagedrawers:upgrade_creative:1>, [<mekanism:gastank>.withTag({tier: 4}),<mekanism:machineblock2:11>.withTag({tier: 4}),<mekanism:energycube>.withTag({tier: 4, mekData: {energyStored: 1.7976931348623157E308}}),<thermalexpansion:capacitor:32000>.withTag({Energy: 25000000}),<draconicevolution:chaotic_core>,<extrautils2:snowglobe:1>]);
 
 //调试物品
-<contenttweaker:debug_item>.addTooltip(format.red("创造模式专用\n"+"手持右键解锁所有阶段(包括Disabled)"));
+<contenttweaker:debug_item>.addTooltip(format.red("创造模式专用,\n"+"手持右键解锁所有阶段"));

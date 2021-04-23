@@ -3,8 +3,15 @@
 	icon: "contenttweaker:star_of_blue",
 	x: 7.0d,
 	y: -1.0d,
+	text: [
+		"加油!!!马上就完了!"
+	],
 	dependencies: [
-		"9974faa1"
+		"532b3971",
+		"9974faa1",
+		"7b4be9e5",
+		"abfdcc5b",
+		"bb3d4b32"
 	],
 	tasks: [{
 		uid: "c7a97d81",

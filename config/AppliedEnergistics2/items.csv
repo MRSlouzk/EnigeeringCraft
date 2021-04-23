@@ -1456,35 +1456,13 @@ forestry:resource_storage:2, 锡块
 forestry:resource_storage:3, 青铜块
 forestry:ash_brick:0, 灰砖
 forestry:ash_stairs:0, 灰砖楼梯
-forestry:stamps:0, 邮票(1n)
-forestry:stamps:1, 邮票(2n)
-forestry:stamps:2, 邮票(5n)
-forestry:stamps:3, 邮票(10n)
-forestry:stamps:4, 邮票(20n)
-forestry:stamps:5, 邮票(50n)
-forestry:stamps:6, 邮票(100n)
-forestry:letters, 信件
-forestry:catalogue, 贸易目录
-forestry:mailbox:0, 信箱
-forestry:trade_station:0, 贸易站
-forestry:stamp_collector:0, 集邮箱
-forestry:greenhouse:0, Greenhouse Block
-forestry:greenhouse:3, 温室能量分配器
-forestry:greenhouse:4, 温室控制器
-forestry:greenhouse:5, 温室屏幕
-forestry:climatiser:0, 温室湿度控制器
-forestry:climatiser:1, 温室加热器
-forestry:climatiser:2, 温室风扇
-forestry:climatiser:3, 温室加湿器
-forestry:climatiser:4, 温室除湿器
-forestry:greenhouse.window:0, 温室窗户
-forestry:greenhouse.window_up:0, 温室天窗
-forestry:crate, 板条箱
-forestry:habitat_former:0, Habitat Former
-forestry:habitat_screen, Habitat Screen
 forestry:honeyed_slice, 蜂蜜面包
 forestry:ambrosia, 仙馔密酒
 forestry:honey_pot, 蜜罐
+forestry:database:0, 数据库
+forestry:habitat_former:0, Habitat Former
+forestry:habitat_screen, Habitat Screen
+forestry:genetic_filter:0, 基因过滤器
 forestry:habitat_locator, 栖息地定位仪
 forestry:imprinter, 染色体变换仪
 forestry:cart.beehouse:0, 蜂房车
@@ -1544,8 +1522,6 @@ forestry:alveary.heater:0, 蜂箱组加热器
 forestry:alveary.hygro:0, 蜂箱组保湿器
 forestry:alveary.stabiliser:0, 蜂箱组稳定器
 forestry:alveary.sieve:0, 蜂箱组滤网
-forestry:database:0, 数据库
-forestry:worktable:0, 工作台
 forestry:mushroom:0, tile.for.mushroom.name
 forestry:mushroom:1, tile.for.mushroom.name
 forestry:ffarm:0, 农场方块
@@ -1603,6 +1579,51 @@ forestry:ffarm:5, 农场控制盒
 forestry:ffarm:5, 农场控制盒
 forestry:ffarm:5, 农场控制盒
 forestry:ffarm:5, 农场控制盒
+forestry:arboretum:0, 自动伐木机
+forestry:arboretum:1, 手动伐木机
+forestry:farm_crops:0, 自动收割机
+forestry:farm_crops:1, 手动收割机
+forestry:farm_mushroom:0, 自动蘑菇收割机
+forestry:farm_mushroom:1, 手动蘑菇收割机
+forestry:farm_gourd:0, 自动瓜类收割机
+forestry:farm_gourd:1, 手动瓜类收割机
+forestry:farm_nether:0, 自动地狱收割机
+forestry:farm_nether:1, 手动地狱收割机
+forestry:farm_ender:0, 自动末影收割机
+forestry:farm_ender:1, 手动末影收割机
+forestry:peat_bog:0, 自动泥炭沼泽
+forestry:peat_bog:1, 手动泥炭沼泽
+forestry:engine_peat:0, 泥炭引擎
+forestry:engine_biogas:0, 沼气引擎
+forestry:engine_clockwork:0, 发条引擎
+forestry:crate, 板条箱
+forestry:apiarist_bag, 养蜂员背包
+forestry:lepidopterist_bag, 鳞翅目昆虫学家背包
+forestry:miner_bag, 采矿者背包
+forestry:miner_bag_t2, 采矿者编织背包
+forestry:digger_bag, 挖掘者背包
+forestry:digger_bag_t2, 挖掘者编织背包
+forestry:forester_bag, 林业员背包
+forestry:forester_bag_t2, 林业员编织背包
+forestry:hunter_bag, 狩猎者背包
+forestry:hunter_bag_t2, 狩猎者编织背包
+forestry:adventurer_bag, 冒险家背包
+forestry:adventurer_bag_t2, 冒险家编织背包
+forestry:builder_bag, 建筑师背包
+forestry:builder_bag_t2, 建筑师编织背包
+forestry:worktable:0, 工作台
+forestry:stamps:0, 邮票(1n)
+forestry:stamps:1, 邮票(2n)
+forestry:stamps:2, 邮票(5n)
+forestry:stamps:3, 邮票(10n)
+forestry:stamps:4, 邮票(20n)
+forestry:stamps:5, 邮票(50n)
+forestry:stamps:6, 邮票(100n)
+forestry:letters, 信件
+forestry:catalogue, 贸易目录
+forestry:mailbox:0, 信箱
+forestry:trade_station:0, 贸易站
+forestry:stamp_collector:0, 集邮箱
 forestry:fluid.bio.ethanol, 种子油
 forestry:fluid.biomass, 生物质
 forestry:fluid.glass, 液态玻璃
@@ -1615,6 +1636,17 @@ forestry:fluid.short.mead, 蜂蜜酒
 forestry:can, item.for.can.name
 forestry:capsule, item.for.capsule.name
 forestry:refractory, item.for.refractory.name
+forestry:book_forester, 林务员手册
+forestry:bottler:0, 装瓶机
+forestry:carpenter:0, 木工机
+forestry:centrifuge:0, 离心机
+forestry:fermenter:0, 发酵机
+forestry:moistener:0, 加湿器
+forestry:squeezer:0, 榨汁机
+forestry:still:0, 蒸馏器
+forestry:rainmaker:0, 造雨机
+forestry:fabricator:0, 热电子加工台
+forestry:raintank:0, 集雨蓄水槽
 forestry:grafter, 剪枝器
 forestry:grafter_proven, 标定剪枝器
 forestry:logs.0:0, 落叶树原木
@@ -2070,22 +2102,17 @@ forestry:tree_chest:0, 林业员箱子
 forestry:butterfly_chest:0, 鳞翅目昆虫学家箱子
 forestry:cocoon:0, tile.for.cocoon.name
 forestry:cocoon.solid:0, tile.for.cocoon.solid.name
-forestry:genetic_filter:0, 基因过滤器
-forestry:book_forester, 林务员手册
-forestry:arboretum:0, 自动伐木机
-forestry:arboretum:1, 手动伐木机
-forestry:farm_crops:0, 自动收割机
-forestry:farm_crops:1, 手动收割机
-forestry:farm_mushroom:0, 自动蘑菇收割机
-forestry:farm_mushroom:1, 手动蘑菇收割机
-forestry:farm_gourd:0, 自动瓜类收割机
-forestry:farm_gourd:1, 手动瓜类收割机
-forestry:farm_nether:0, 自动地狱收割机
-forestry:farm_nether:1, 手动地狱收割机
-forestry:farm_ender:0, 自动末影收割机
-forestry:farm_ender:1, 手动末影收割机
-forestry:peat_bog:0, 自动泥炭沼泽
-forestry:peat_bog:1, 手动泥炭沼泽
+forestry:greenhouse:0, Greenhouse Block
+forestry:greenhouse:3, 温室能量分配器
+forestry:greenhouse:4, 温室控制器
+forestry:greenhouse:5, 温室屏幕
+forestry:climatiser:0, 温室湿度控制器
+forestry:climatiser:1, 温室加热器
+forestry:climatiser:2, 温室风扇
+forestry:climatiser:3, 温室加湿器
+forestry:climatiser:4, 温室除湿器
+forestry:greenhouse.window:0, 温室窗户
+forestry:greenhouse.window_up:0, 温室天窗
 forestry:charcoal:0, 木炭块
 forestry:wood_pile:0, 原木堆
 forestry:wood_pile_decorative:0, 装饰用原木堆
@@ -2094,33 +2121,6 @@ forestry:ash_block_1:0, Ash Block
 forestry:ash_block_2:0, Ash Block
 forestry:ash_block_3:0, Ash Block
 forestry:loam:0, 壤土
-forestry:bottler:0, 装瓶机
-forestry:carpenter:0, 木工机
-forestry:centrifuge:0, 离心机
-forestry:fermenter:0, 发酵机
-forestry:moistener:0, 加湿器
-forestry:squeezer:0, 榨汁机
-forestry:still:0, 蒸馏器
-forestry:rainmaker:0, 造雨机
-forestry:fabricator:0, 热电子加工台
-forestry:raintank:0, 集雨蓄水槽
-forestry:engine_peat:0, 泥炭引擎
-forestry:engine_biogas:0, 沼气引擎
-forestry:engine_clockwork:0, 发条引擎
-forestry:apiarist_bag, 养蜂员背包
-forestry:lepidopterist_bag, 鳞翅目昆虫学家背包
-forestry:miner_bag, 采矿者背包
-forestry:miner_bag_t2, 采矿者编织背包
-forestry:digger_bag, 挖掘者背包
-forestry:digger_bag_t2, 挖掘者编织背包
-forestry:forester_bag, 林业员背包
-forestry:forester_bag_t2, 林业员编织背包
-forestry:hunter_bag, 狩猎者背包
-forestry:hunter_bag_t2, 狩猎者编织背包
-forestry:adventurer_bag, 冒险家背包
-forestry:adventurer_bag_t2, 冒险家编织背包
-forestry:builder_bag, 建筑师背包
-forestry:builder_bag_t2, 建筑师编织背包
 avaritia:resource:0, 钻石晶格
 avaritia:resource:1, 水晶矩阵锭
 avaritia:resource:2, 中子素尘埃
@@ -7194,15 +7194,6 @@ appliedenergistics2:facade:0, 线缆伪装板 - 铜块
 appliedenergistics2:facade:0, 线缆伪装板 - 锡块
 appliedenergistics2:facade:0, 线缆伪装板 - 青铜块
 appliedenergistics2:facade:0, 线缆伪装板 - 灰砖
-appliedenergistics2:facade:0, 线缆伪装板 - Greenhouse Block
-appliedenergistics2:facade:0, 线缆伪装板 - 温室能量分配器
-appliedenergistics2:facade:0, 线缆伪装板 - 温室控制器
-appliedenergistics2:facade:0, 线缆伪装板 - 温室屏幕
-appliedenergistics2:facade:0, 线缆伪装板 - 温室湿度控制器
-appliedenergistics2:facade:0, 线缆伪装板 - 温室加热器
-appliedenergistics2:facade:0, 线缆伪装板 - 温室风扇
-appliedenergistics2:facade:0, 线缆伪装板 - 温室加湿器
-appliedenergistics2:facade:0, 线缆伪装板 - 温室除湿器
 appliedenergistics2:facade:0, 线缆伪装板 - 蜜蜂蜂窝块
 appliedenergistics2:facade:0, 线缆伪装板 - 激化蜂窝块
 appliedenergistics2:facade:0, 线缆伪装板 - 纤维蜂窝块
@@ -7375,6 +7366,15 @@ appliedenergistics2:facade:0, 线缆伪装板 - 绿心樟树叶
 appliedenergistics2:facade:0, 线缆伪装板 - 木瓜树叶
 appliedenergistics2:facade:0, 线缆伪装板 - 椰枣树叶
 appliedenergistics2:facade:0, 线缆伪装板 - 白杨树叶
+appliedenergistics2:facade:0, 线缆伪装板 - Greenhouse Block
+appliedenergistics2:facade:0, 线缆伪装板 - 温室能量分配器
+appliedenergistics2:facade:0, 线缆伪装板 - 温室控制器
+appliedenergistics2:facade:0, 线缆伪装板 - 温室屏幕
+appliedenergistics2:facade:0, 线缆伪装板 - 温室湿度控制器
+appliedenergistics2:facade:0, 线缆伪装板 - 温室加热器
+appliedenergistics2:facade:0, 线缆伪装板 - 温室风扇
+appliedenergistics2:facade:0, 线缆伪装板 - 温室加湿器
+appliedenergistics2:facade:0, 线缆伪装板 - 温室除湿器
 appliedenergistics2:facade:0, 线缆伪装板 - 木炭块
 appliedenergistics2:facade:0, 线缆伪装板 - 原木堆
 appliedenergistics2:facade:0, 线缆伪装板 - 装饰用原木堆
@@ -11544,37 +11544,37 @@ tconstruct:slime_vine_purple_end:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple_mid:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple:0, 紫色史莱姆藤蔓
 tconstruct:pattern:0, 空白模具
-tconstruct:pattern:0, 蓄电池模具
-tconstruct:pattern:0, 锤头模具
-tconstruct:pattern:0, 枪管模具
-tconstruct:pattern:0, 磨制工具模具
-tconstruct:pattern:0, 大板模具
-tconstruct:pattern:0, 牌板模具
-tconstruct:pattern:0, 斧刃模具
-tconstruct:pattern:0, 坚韧手柄模具
-tconstruct:pattern:0, 碎片模具
-tconstruct:pattern:0, 宽护手模具
-tconstruct:pattern:0, 弓臂模具
-tconstruct:pattern:0, 开掘铲头模具
-tconstruct:pattern:0, 激光传导器模具
-tconstruct:pattern:0, 园艺镰头模具
-tconstruct:pattern:0, 刀刃模具
-tconstruct:pattern:0, 十字柄模具
-tconstruct:pattern:0, 盘模具
+tconstruct:pattern:0, 铲头模具
 tconstruct:pattern:0, 剑刃模具
+tconstruct:pattern:0, 枪管模具
 tconstruct:pattern:0, 手柄模具
-tconstruct:pattern:0, 镰刀头模具
+tconstruct:pattern:0, 宽斧刃模具
+tconstruct:pattern:0, 刀刃模具
+tconstruct:pattern:0, 箭杆模具
+tconstruct:pattern:0, 蓄电池模具
+tconstruct:pattern:0, 坚韧绑定结模具
+tconstruct:pattern:0, 牌板模具
+tconstruct:pattern:0, 坚韧手柄模具
+tconstruct:pattern:0, 锤头模具
 tconstruct:pattern:0, 箭头模具
 tconstruct:pattern:0, 宽剑刃模具
-tconstruct:pattern:0, 宽斧刃模具
+tconstruct:pattern:0, 激光传导器模具
+tconstruct:pattern:0, 盘模具
 tconstruct:pattern:0, 箭羽模具
-tconstruct:pattern:0, 坚韧绑定结模具
-tconstruct:pattern:0, 弓弦模具
-tconstruct:pattern:0, 箭杆模具
-tconstruct:pattern:0, 铲头模具
+tconstruct:pattern:0, 十字柄模具
+tconstruct:pattern:0, 弓臂模具
+tconstruct:pattern:0, 磨制工具模具
 tconstruct:pattern:0, 绑定结模具
+tconstruct:pattern:0, 镰刀头模具
+tconstruct:pattern:0, 园艺镰头模具
+tconstruct:pattern:0, 弓弦模具
 tconstruct:pattern:0, 镐头模具
+tconstruct:pattern:0, 大板模具
+tconstruct:pattern:0, 斧刃模具
+tconstruct:pattern:0, 宽护手模具
 tconstruct:pattern:0, 护手模具
+tconstruct:pattern:0, 开掘铲头模具
+tconstruct:pattern:0, 碎片模具
 tconstruct:shard:0, 磁钢 碎片
 tconstruct:shard:0, 充能合金 碎片
 tconstruct:shard:0, 脉冲合金 碎片
@@ -11649,13 +11649,13 @@ tconstruct:shard:0, 镁 碎片
 tconstruct:shard:0, 巧克力 碎片
 tconstruct:shard:0, 防腐木 碎片
 tconstruct:shard:0, 康铜 碎片
+tconstruct:shard:0, 史莱姆碎片
+tconstruct:shard:0, 暗物质 碎片
+tconstruct:shard:0, 红物质 碎片
+tconstruct:shard:0, 绿宝石 碎片
 tconstruct:shard:0, 双足飞龙核心 碎片
 tconstruct:shard:0, 觉醒核心 碎片
 tconstruct:shard:0, 混沌核心 碎片
-tconstruct:shard:0, 暗物质 碎片
-tconstruct:shard:0, 红物质 碎片
-tconstruct:shard:0, 史莱姆碎片
-tconstruct:shard:0, 绿宝石 碎片
 tconstruct:sharpening_kit:0, 磁钢 磨制工具
 tconstruct:sharpening_kit:0, 充能合金 磨制工具
 tconstruct:sharpening_kit:0, 脉冲合金 磨制工具
@@ -11730,13 +11730,13 @@ tconstruct:sharpening_kit:0, 镁 磨制工具
 tconstruct:sharpening_kit:0, 巧克力 磨制工具
 tconstruct:sharpening_kit:0, 防腐木 磨制工具
 tconstruct:sharpening_kit:0, 康铜 磨制工具
+tconstruct:sharpening_kit:0, 史莱姆磨制工具
+tconstruct:sharpening_kit:0, 暗物质 磨制工具
+tconstruct:sharpening_kit:0, 红物质 磨制工具
+tconstruct:sharpening_kit:0, 绿宝石 磨制工具
 tconstruct:sharpening_kit:0, 双足飞龙核心 磨制工具
 tconstruct:sharpening_kit:0, 觉醒核心 磨制工具
 tconstruct:sharpening_kit:0, 混沌核心 磨制工具
-tconstruct:sharpening_kit:0, 暗物质 磨制工具
-tconstruct:sharpening_kit:0, 红物质 磨制工具
-tconstruct:sharpening_kit:0, 史莱姆磨制工具
-tconstruct:sharpening_kit:0, 绿宝石 磨制工具
 tconstruct:pick_head:0, 磁钢 镐头
 tconstruct:pick_head:0, 充能合金 镐头
 tconstruct:pick_head:0, 脉冲合金 镐头
@@ -11811,13 +11811,13 @@ tconstruct:pick_head:0, 镁 镐头
 tconstruct:pick_head:0, 巧克力 镐头
 tconstruct:pick_head:0, 防腐木 镐头
 tconstruct:pick_head:0, 康铜 镐头
+tconstruct:pick_head:0, 史莱姆镐头
+tconstruct:pick_head:0, 暗物质 镐头
+tconstruct:pick_head:0, 红物质 镐头
+tconstruct:pick_head:0, 绿宝石 镐头
 tconstruct:pick_head:0, 双足飞龙核心 镐头
 tconstruct:pick_head:0, 觉醒核心 镐头
 tconstruct:pick_head:0, 混沌核心 镐头
-tconstruct:pick_head:0, 暗物质 镐头
-tconstruct:pick_head:0, 红物质 镐头
-tconstruct:pick_head:0, 史莱姆镐头
-tconstruct:pick_head:0, 绿宝石 镐头
 tconstruct:shovel_head:0, 磁钢 铲头
 tconstruct:shovel_head:0, 充能合金 铲头
 tconstruct:shovel_head:0, 脉冲合金 铲头
@@ -11892,13 +11892,13 @@ tconstruct:shovel_head:0, 镁 铲头
 tconstruct:shovel_head:0, 巧克力 铲头
 tconstruct:shovel_head:0, 防腐木 铲头
 tconstruct:shovel_head:0, 康铜 铲头
+tconstruct:shovel_head:0, 史莱姆铲头
+tconstruct:shovel_head:0, 暗物质 铲头
+tconstruct:shovel_head:0, 红物质 铲头
+tconstruct:shovel_head:0, 绿宝石 铲头
 tconstruct:shovel_head:0, 双足飞龙核心 铲头
 tconstruct:shovel_head:0, 觉醒核心 铲头
 tconstruct:shovel_head:0, 混沌核心 铲头
-tconstruct:shovel_head:0, 暗物质 铲头
-tconstruct:shovel_head:0, 红物质 铲头
-tconstruct:shovel_head:0, 史莱姆铲头
-tconstruct:shovel_head:0, 绿宝石 铲头
 tconstruct:axe_head:0, 磁钢 斧刃
 tconstruct:axe_head:0, 充能合金 斧刃
 tconstruct:axe_head:0, 脉冲合金 斧刃
@@ -11973,13 +11973,13 @@ tconstruct:axe_head:0, 镁 斧刃
 tconstruct:axe_head:0, 巧克力 斧刃
 tconstruct:axe_head:0, 防腐木 斧刃
 tconstruct:axe_head:0, 康铜 斧刃
+tconstruct:axe_head:0, 史莱姆斧刃
+tconstruct:axe_head:0, 暗物质 斧刃
+tconstruct:axe_head:0, 红物质 斧刃
+tconstruct:axe_head:0, 绿宝石 斧刃
 tconstruct:axe_head:0, 双足飞龙核心 斧刃
 tconstruct:axe_head:0, 觉醒核心 斧刃
 tconstruct:axe_head:0, 混沌核心 斧刃
-tconstruct:axe_head:0, 暗物质 斧刃
-tconstruct:axe_head:0, 红物质 斧刃
-tconstruct:axe_head:0, 史莱姆斧刃
-tconstruct:axe_head:0, 绿宝石 斧刃
 tconstruct:broad_axe_head:0, 磁钢 宽斧刃
 tconstruct:broad_axe_head:0, 充能合金 宽斧刃
 tconstruct:broad_axe_head:0, 脉冲合金 宽斧刃
@@ -12054,13 +12054,13 @@ tconstruct:broad_axe_head:0, 镁 宽斧刃
 tconstruct:broad_axe_head:0, 巧克力 宽斧刃
 tconstruct:broad_axe_head:0, 防腐木 宽斧刃
 tconstruct:broad_axe_head:0, 康铜 宽斧刃
+tconstruct:broad_axe_head:0, 史莱姆宽斧刃
+tconstruct:broad_axe_head:0, 暗物质 宽斧刃
+tconstruct:broad_axe_head:0, 红物质 宽斧刃
+tconstruct:broad_axe_head:0, 绿宝石 宽斧刃
 tconstruct:broad_axe_head:0, 双足飞龙核心 宽斧刃
 tconstruct:broad_axe_head:0, 觉醒核心 宽斧刃
 tconstruct:broad_axe_head:0, 混沌核心 宽斧刃
-tconstruct:broad_axe_head:0, 暗物质 宽斧刃
-tconstruct:broad_axe_head:0, 红物质 宽斧刃
-tconstruct:broad_axe_head:0, 史莱姆宽斧刃
-tconstruct:broad_axe_head:0, 绿宝石 宽斧刃
 tconstruct:sword_blade:0, 磁钢 剑刃
 tconstruct:sword_blade:0, 充能合金 剑刃
 tconstruct:sword_blade:0, 脉冲合金 剑刃
@@ -12135,13 +12135,13 @@ tconstruct:sword_blade:0, 镁 剑刃
 tconstruct:sword_blade:0, 巧克力 剑刃
 tconstruct:sword_blade:0, 防腐木 剑刃
 tconstruct:sword_blade:0, 康铜 剑刃
+tconstruct:sword_blade:0, 史莱姆剑刃
+tconstruct:sword_blade:0, 暗物质 剑刃
+tconstruct:sword_blade:0, 红物质 剑刃
+tconstruct:sword_blade:0, 绿宝石 剑刃
 tconstruct:sword_blade:0, 双足飞龙核心 剑刃
 tconstruct:sword_blade:0, 觉醒核心 剑刃
 tconstruct:sword_blade:0, 混沌核心 剑刃
-tconstruct:sword_blade:0, 暗物质 剑刃
-tconstruct:sword_blade:0, 红物质 剑刃
-tconstruct:sword_blade:0, 史莱姆剑刃
-tconstruct:sword_blade:0, 绿宝石 剑刃
 tconstruct:large_sword_blade:0, 磁钢 宽剑刃
 tconstruct:large_sword_blade:0, 充能合金 宽剑刃
 tconstruct:large_sword_blade:0, 脉冲合金 宽剑刃
@@ -12216,13 +12216,13 @@ tconstruct:large_sword_blade:0, 镁 宽剑刃
 tconstruct:large_sword_blade:0, 巧克力 宽剑刃
 tconstruct:large_sword_blade:0, 防腐木 宽剑刃
 tconstruct:large_sword_blade:0, 康铜 宽剑刃
+tconstruct:large_sword_blade:0, 史莱姆宽剑刃
+tconstruct:large_sword_blade:0, 暗物质 宽剑刃
+tconstruct:large_sword_blade:0, 红物质 宽剑刃
+tconstruct:large_sword_blade:0, 绿宝石 宽剑刃
 tconstruct:large_sword_blade:0, 双足飞龙核心 宽剑刃
 tconstruct:large_sword_blade:0, 觉醒核心 宽剑刃
 tconstruct:large_sword_blade:0, 混沌核心 宽剑刃
-tconstruct:large_sword_blade:0, 暗物质 宽剑刃
-tconstruct:large_sword_blade:0, 红物质 宽剑刃
-tconstruct:large_sword_blade:0, 史莱姆宽剑刃
-tconstruct:large_sword_blade:0, 绿宝石 宽剑刃
 tconstruct:hammer_head:0, 磁钢 锤头
 tconstruct:hammer_head:0, 充能合金 锤头
 tconstruct:hammer_head:0, 脉冲合金 锤头
@@ -12297,13 +12297,13 @@ tconstruct:hammer_head:0, 镁 锤头
 tconstruct:hammer_head:0, 巧克力 锤头
 tconstruct:hammer_head:0, 防腐木 锤头
 tconstruct:hammer_head:0, 康铜 锤头
+tconstruct:hammer_head:0, 史莱姆锤头
+tconstruct:hammer_head:0, 暗物质 锤头
+tconstruct:hammer_head:0, 红物质 锤头
+tconstruct:hammer_head:0, 绿宝石 锤头
 tconstruct:hammer_head:0, 双足飞龙核心 锤头
 tconstruct:hammer_head:0, 觉醒核心 锤头
 tconstruct:hammer_head:0, 混沌核心 锤头
-tconstruct:hammer_head:0, 暗物质 锤头
-tconstruct:hammer_head:0, 红物质 锤头
-tconstruct:hammer_head:0, 史莱姆锤头
-tconstruct:hammer_head:0, 绿宝石 锤头
 tconstruct:excavator_head:0, 磁钢 开掘铲头
 tconstruct:excavator_head:0, 充能合金 开掘铲头
 tconstruct:excavator_head:0, 脉冲合金 开掘铲头
@@ -12378,13 +12378,13 @@ tconstruct:excavator_head:0, 镁 开掘铲头
 tconstruct:excavator_head:0, 巧克力 开掘铲头
 tconstruct:excavator_head:0, 防腐木 开掘铲头
 tconstruct:excavator_head:0, 康铜 开掘铲头
+tconstruct:excavator_head:0, 史莱姆开掘铲头
+tconstruct:excavator_head:0, 暗物质 开掘铲头
+tconstruct:excavator_head:0, 红物质 开掘铲头
+tconstruct:excavator_head:0, 绿宝石 开掘铲头
 tconstruct:excavator_head:0, 双足飞龙核心 开掘铲头
 tconstruct:excavator_head:0, 觉醒核心 开掘铲头
 tconstruct:excavator_head:0, 混沌核心 开掘铲头
-tconstruct:excavator_head:0, 暗物质 开掘铲头
-tconstruct:excavator_head:0, 红物质 开掘铲头
-tconstruct:excavator_head:0, 史莱姆开掘铲头
-tconstruct:excavator_head:0, 绿宝石 开掘铲头
 tconstruct:kama_head:0, 磁钢 园艺镰头
 tconstruct:kama_head:0, 充能合金 园艺镰头
 tconstruct:kama_head:0, 脉冲合金 园艺镰头
@@ -12459,13 +12459,13 @@ tconstruct:kama_head:0, 镁 园艺镰头
 tconstruct:kama_head:0, 巧克力 园艺镰头
 tconstruct:kama_head:0, 防腐木 园艺镰头
 tconstruct:kama_head:0, 康铜 园艺镰头
+tconstruct:kama_head:0, 史莱姆园艺镰头
+tconstruct:kama_head:0, 暗物质 园艺镰头
+tconstruct:kama_head:0, 红物质 园艺镰头
+tconstruct:kama_head:0, 绿宝石 园艺镰头
 tconstruct:kama_head:0, 双足飞龙核心 园艺镰头
 tconstruct:kama_head:0, 觉醒核心 园艺镰头
 tconstruct:kama_head:0, 混沌核心 园艺镰头
-tconstruct:kama_head:0, 暗物质 园艺镰头
-tconstruct:kama_head:0, 红物质 园艺镰头
-tconstruct:kama_head:0, 史莱姆园艺镰头
-tconstruct:kama_head:0, 绿宝石 园艺镰头
 tconstruct:scythe_head:0, 磁钢 镰刀头
 tconstruct:scythe_head:0, 充能合金 镰刀头
 tconstruct:scythe_head:0, 脉冲合金 镰刀头
@@ -12540,13 +12540,13 @@ tconstruct:scythe_head:0, 镁 镰刀头
 tconstruct:scythe_head:0, 巧克力 镰刀头
 tconstruct:scythe_head:0, 防腐木 镰刀头
 tconstruct:scythe_head:0, 康铜 镰刀头
+tconstruct:scythe_head:0, 史莱姆镰刀头
+tconstruct:scythe_head:0, 暗物质 镰刀头
+tconstruct:scythe_head:0, 红物质 镰刀头
+tconstruct:scythe_head:0, 绿宝石 镰刀头
 tconstruct:scythe_head:0, 双足飞龙核心 镰刀头
 tconstruct:scythe_head:0, 觉醒核心 镰刀头
 tconstruct:scythe_head:0, 混沌核心 镰刀头
-tconstruct:scythe_head:0, 暗物质 镰刀头
-tconstruct:scythe_head:0, 红物质 镰刀头
-tconstruct:scythe_head:0, 史莱姆镰刀头
-tconstruct:scythe_head:0, 绿宝石 镰刀头
 tconstruct:pan_head:0, 磁钢 盘
 tconstruct:pan_head:0, 充能合金 盘
 tconstruct:pan_head:0, 脉冲合金 盘
@@ -12621,13 +12621,13 @@ tconstruct:pan_head:0, 镁 盘
 tconstruct:pan_head:0, 巧克力 盘
 tconstruct:pan_head:0, 防腐木 盘
 tconstruct:pan_head:0, 康铜 盘
+tconstruct:pan_head:0, 史莱姆盘
+tconstruct:pan_head:0, 暗物质 盘
+tconstruct:pan_head:0, 红物质 盘
+tconstruct:pan_head:0, 绿宝石 盘
 tconstruct:pan_head:0, 双足飞龙核心 盘
 tconstruct:pan_head:0, 觉醒核心 盘
 tconstruct:pan_head:0, 混沌核心 盘
-tconstruct:pan_head:0, 暗物质 盘
-tconstruct:pan_head:0, 红物质 盘
-tconstruct:pan_head:0, 史莱姆盘
-tconstruct:pan_head:0, 绿宝石 盘
 tconstruct:sign_head:0, 磁钢 牌板
 tconstruct:sign_head:0, 充能合金 牌板
 tconstruct:sign_head:0, 脉冲合金 牌板
@@ -12702,13 +12702,13 @@ tconstruct:sign_head:0, 镁 牌板
 tconstruct:sign_head:0, 巧克力 牌板
 tconstruct:sign_head:0, 防腐木 牌板
 tconstruct:sign_head:0, 康铜 牌板
+tconstruct:sign_head:0, 史莱姆牌板
+tconstruct:sign_head:0, 暗物质 牌板
+tconstruct:sign_head:0, 红物质 牌板
+tconstruct:sign_head:0, 绿宝石 牌板
 tconstruct:sign_head:0, 双足飞龙核心 牌板
 tconstruct:sign_head:0, 觉醒核心 牌板
 tconstruct:sign_head:0, 混沌核心 牌板
-tconstruct:sign_head:0, 暗物质 牌板
-tconstruct:sign_head:0, 红物质 牌板
-tconstruct:sign_head:0, 史莱姆牌板
-tconstruct:sign_head:0, 绿宝石 牌板
 tconstruct:tool_rod:0, 磁钢 手柄
 tconstruct:tool_rod:0, 充能合金 手柄
 tconstruct:tool_rod:0, 脉冲合金 手柄
@@ -12783,13 +12783,13 @@ tconstruct:tool_rod:0, 镁 手柄
 tconstruct:tool_rod:0, 巧克力 手柄
 tconstruct:tool_rod:0, 防腐木 手柄
 tconstruct:tool_rod:0, 康铜 手柄
+tconstruct:tool_rod:0, 史莱姆手柄
+tconstruct:tool_rod:0, 暗物质 手柄
+tconstruct:tool_rod:0, 红物质 手柄
+tconstruct:tool_rod:0, 绿宝石 手柄
 tconstruct:tool_rod:0, 双足飞龙核心 手柄
 tconstruct:tool_rod:0, 觉醒核心 手柄
 tconstruct:tool_rod:0, 混沌核心 手柄
-tconstruct:tool_rod:0, 暗物质 手柄
-tconstruct:tool_rod:0, 红物质 手柄
-tconstruct:tool_rod:0, 史莱姆手柄
-tconstruct:tool_rod:0, 绿宝石 手柄
 tconstruct:tough_tool_rod:0, 磁钢 坚韧手柄
 tconstruct:tough_tool_rod:0, 充能合金 坚韧手柄
 tconstruct:tough_tool_rod:0, 脉冲合金 坚韧手柄
@@ -12864,13 +12864,13 @@ tconstruct:tough_tool_rod:0, 镁 坚韧手柄
 tconstruct:tough_tool_rod:0, 巧克力 坚韧手柄
 tconstruct:tough_tool_rod:0, 防腐木 坚韧手柄
 tconstruct:tough_tool_rod:0, 康铜 坚韧手柄
+tconstruct:tough_tool_rod:0, 史莱姆坚韧手柄
+tconstruct:tough_tool_rod:0, 暗物质 坚韧手柄
+tconstruct:tough_tool_rod:0, 红物质 坚韧手柄
+tconstruct:tough_tool_rod:0, 绿宝石 坚韧手柄
 tconstruct:tough_tool_rod:0, 双足飞龙核心 坚韧手柄
 tconstruct:tough_tool_rod:0, 觉醒核心 坚韧手柄
 tconstruct:tough_tool_rod:0, 混沌核心 坚韧手柄
-tconstruct:tough_tool_rod:0, 暗物质 坚韧手柄
-tconstruct:tough_tool_rod:0, 红物质 坚韧手柄
-tconstruct:tough_tool_rod:0, 史莱姆坚韧手柄
-tconstruct:tough_tool_rod:0, 绿宝石 坚韧手柄
 tconstruct:binding:0, 磁钢 绑定结
 tconstruct:binding:0, 充能合金 绑定结
 tconstruct:binding:0, 脉冲合金 绑定结
@@ -12945,13 +12945,13 @@ tconstruct:binding:0, 镁 绑定结
 tconstruct:binding:0, 巧克力 绑定结
 tconstruct:binding:0, 防腐木 绑定结
 tconstruct:binding:0, 康铜 绑定结
+tconstruct:binding:0, 史莱姆绑定结
+tconstruct:binding:0, 暗物质 绑定结
+tconstruct:binding:0, 红物质 绑定结
+tconstruct:binding:0, 绿宝石 绑定结
 tconstruct:binding:0, 双足飞龙核心 绑定结
 tconstruct:binding:0, 觉醒核心 绑定结
 tconstruct:binding:0, 混沌核心 绑定结
-tconstruct:binding:0, 暗物质 绑定结
-tconstruct:binding:0, 红物质 绑定结
-tconstruct:binding:0, 史莱姆绑定结
-tconstruct:binding:0, 绿宝石 绑定结
 tconstruct:tough_binding:0, 磁钢 坚韧绑定结
 tconstruct:tough_binding:0, 充能合金 坚韧绑定结
 tconstruct:tough_binding:0, 脉冲合金 坚韧绑定结
@@ -13026,13 +13026,13 @@ tconstruct:tough_binding:0, 镁 坚韧绑定结
 tconstruct:tough_binding:0, 巧克力 坚韧绑定结
 tconstruct:tough_binding:0, 防腐木 坚韧绑定结
 tconstruct:tough_binding:0, 康铜 坚韧绑定结
+tconstruct:tough_binding:0, 史莱姆坚韧绑定结
+tconstruct:tough_binding:0, 暗物质 坚韧绑定结
+tconstruct:tough_binding:0, 红物质 坚韧绑定结
+tconstruct:tough_binding:0, 绿宝石 坚韧绑定结
 tconstruct:tough_binding:0, 双足飞龙核心 坚韧绑定结
 tconstruct:tough_binding:0, 觉醒核心 坚韧绑定结
 tconstruct:tough_binding:0, 混沌核心 坚韧绑定结
-tconstruct:tough_binding:0, 暗物质 坚韧绑定结
-tconstruct:tough_binding:0, 红物质 坚韧绑定结
-tconstruct:tough_binding:0, 史莱姆坚韧绑定结
-tconstruct:tough_binding:0, 绿宝石 坚韧绑定结
 tconstruct:wide_guard:0, 磁钢 宽护手
 tconstruct:wide_guard:0, 充能合金 宽护手
 tconstruct:wide_guard:0, 脉冲合金 宽护手
@@ -13107,13 +13107,13 @@ tconstruct:wide_guard:0, 镁 宽护手
 tconstruct:wide_guard:0, 巧克力 宽护手
 tconstruct:wide_guard:0, 防腐木 宽护手
 tconstruct:wide_guard:0, 康铜 宽护手
+tconstruct:wide_guard:0, 史莱姆宽护手
+tconstruct:wide_guard:0, 暗物质 宽护手
+tconstruct:wide_guard:0, 红物质 宽护手
+tconstruct:wide_guard:0, 绿宝石 宽护手
 tconstruct:wide_guard:0, 双足飞龙核心 宽护手
 tconstruct:wide_guard:0, 觉醒核心 宽护手
 tconstruct:wide_guard:0, 混沌核心 宽护手
-tconstruct:wide_guard:0, 暗物质 宽护手
-tconstruct:wide_guard:0, 红物质 宽护手
-tconstruct:wide_guard:0, 史莱姆宽护手
-tconstruct:wide_guard:0, 绿宝石 宽护手
 tconstruct:hand_guard:0, 磁钢 护手
 tconstruct:hand_guard:0, 充能合金 护手
 tconstruct:hand_guard:0, 脉冲合金 护手
@@ -13188,13 +13188,13 @@ tconstruct:hand_guard:0, 镁 护手
 tconstruct:hand_guard:0, 巧克力 护手
 tconstruct:hand_guard:0, 防腐木 护手
 tconstruct:hand_guard:0, 康铜 护手
+tconstruct:hand_guard:0, 史莱姆护手
+tconstruct:hand_guard:0, 暗物质 护手
+tconstruct:hand_guard:0, 红物质 护手
+tconstruct:hand_guard:0, 绿宝石 护手
 tconstruct:hand_guard:0, 双足飞龙核心 护手
 tconstruct:hand_guard:0, 觉醒核心 护手
 tconstruct:hand_guard:0, 混沌核心 护手
-tconstruct:hand_guard:0, 暗物质 护手
-tconstruct:hand_guard:0, 红物质 护手
-tconstruct:hand_guard:0, 史莱姆护手
-tconstruct:hand_guard:0, 绿宝石 护手
 tconstruct:cross_guard:0, 磁钢 十字柄
 tconstruct:cross_guard:0, 充能合金 十字柄
 tconstruct:cross_guard:0, 脉冲合金 十字柄
@@ -13269,13 +13269,13 @@ tconstruct:cross_guard:0, 镁 十字柄
 tconstruct:cross_guard:0, 巧克力 十字柄
 tconstruct:cross_guard:0, 防腐木 十字柄
 tconstruct:cross_guard:0, 康铜 十字柄
+tconstruct:cross_guard:0, 史莱姆十字柄
+tconstruct:cross_guard:0, 暗物质 十字柄
+tconstruct:cross_guard:0, 红物质 十字柄
+tconstruct:cross_guard:0, 绿宝石 十字柄
 tconstruct:cross_guard:0, 双足飞龙核心 十字柄
 tconstruct:cross_guard:0, 觉醒核心 十字柄
 tconstruct:cross_guard:0, 混沌核心 十字柄
-tconstruct:cross_guard:0, 暗物质 十字柄
-tconstruct:cross_guard:0, 红物质 十字柄
-tconstruct:cross_guard:0, 史莱姆十字柄
-tconstruct:cross_guard:0, 绿宝石 十字柄
 tconstruct:large_plate:0, 磁钢 大板
 tconstruct:large_plate:0, 充能合金 大板
 tconstruct:large_plate:0, 脉冲合金 大板
@@ -13350,13 +13350,13 @@ tconstruct:large_plate:0, 镁 大板
 tconstruct:large_plate:0, 巧克力 大板
 tconstruct:large_plate:0, 防腐木 大板
 tconstruct:large_plate:0, 康铜 大板
+tconstruct:large_plate:0, 史莱姆大板
+tconstruct:large_plate:0, 暗物质 大板
+tconstruct:large_plate:0, 红物质 大板
+tconstruct:large_plate:0, 绿宝石 大板
 tconstruct:large_plate:0, 双足飞龙核心 大板
 tconstruct:large_plate:0, 觉醒核心 大板
 tconstruct:large_plate:0, 混沌核心 大板
-tconstruct:large_plate:0, 暗物质 大板
-tconstruct:large_plate:0, 红物质 大板
-tconstruct:large_plate:0, 史莱姆大板
-tconstruct:large_plate:0, 绿宝石 大板
 tconstruct:knife_blade:0, 磁钢 刀刃
 tconstruct:knife_blade:0, 充能合金 刀刃
 tconstruct:knife_blade:0, 脉冲合金 刀刃
@@ -13431,13 +13431,13 @@ tconstruct:knife_blade:0, 镁 刀刃
 tconstruct:knife_blade:0, 巧克力 刀刃
 tconstruct:knife_blade:0, 防腐木 刀刃
 tconstruct:knife_blade:0, 康铜 刀刃
+tconstruct:knife_blade:0, 史莱姆刀刃
+tconstruct:knife_blade:0, 暗物质 刀刃
+tconstruct:knife_blade:0, 红物质 刀刃
+tconstruct:knife_blade:0, 绿宝石 刀刃
 tconstruct:knife_blade:0, 双足飞龙核心 刀刃
 tconstruct:knife_blade:0, 觉醒核心 刀刃
 tconstruct:knife_blade:0, 混沌核心 刀刃
-tconstruct:knife_blade:0, 暗物质 刀刃
-tconstruct:knife_blade:0, 红物质 刀刃
-tconstruct:knife_blade:0, 史莱姆刀刃
-tconstruct:knife_blade:0, 绿宝石 刀刃
 tconstruct:bow_limb:0, 磁钢 弓臂
 tconstruct:bow_limb:0, 充能合金 弓臂
 tconstruct:bow_limb:0, 脉冲合金 弓臂
@@ -13510,13 +13510,13 @@ tconstruct:bow_limb:0, 镁 弓臂
 tconstruct:bow_limb:0, 巧克力 弓臂
 tconstruct:bow_limb:0, 防腐木 弓臂
 tconstruct:bow_limb:0, 康铜 弓臂
+tconstruct:bow_limb:0, 史莱姆弓臂
+tconstruct:bow_limb:0, 暗物质 弓臂
+tconstruct:bow_limb:0, 红物质 弓臂
+tconstruct:bow_limb:0, 绿宝石 弓臂
 tconstruct:bow_limb:0, 双足飞龙核心 弓臂
 tconstruct:bow_limb:0, 觉醒核心 弓臂
 tconstruct:bow_limb:0, 混沌核心 弓臂
-tconstruct:bow_limb:0, 暗物质 弓臂
-tconstruct:bow_limb:0, 红物质 弓臂
-tconstruct:bow_limb:0, 史莱姆弓臂
-tconstruct:bow_limb:0, 绿宝石 弓臂
 tconstruct:bow_string:0, 魂金 弓弦
 tconstruct:bow_string:0, 线 弓弦
 tconstruct:bow_string:0, 史莱姆藤蔓 弓弦
@@ -13597,13 +13597,13 @@ tconstruct:arrow_head:0, 镁 箭头
 tconstruct:arrow_head:0, 巧克力 箭头
 tconstruct:arrow_head:0, 防腐木 箭头
 tconstruct:arrow_head:0, 康铜 箭头
+tconstruct:arrow_head:0, 史莱姆箭头
+tconstruct:arrow_head:0, 暗物质 箭头
+tconstruct:arrow_head:0, 红物质 箭头
+tconstruct:arrow_head:0, 绿宝石 箭头
 tconstruct:arrow_head:0, 双足飞龙核心 箭头
 tconstruct:arrow_head:0, 觉醒核心 箭头
 tconstruct:arrow_head:0, 混沌核心 箭头
-tconstruct:arrow_head:0, 暗物质 箭头
-tconstruct:arrow_head:0, 红物质 箭头
-tconstruct:arrow_head:0, 史莱姆箭头
-tconstruct:arrow_head:0, 绿宝石 箭头
 tconstruct:arrow_shaft:0, 木 箭杆
 tconstruct:arrow_shaft:0, 骨头 箭杆
 tconstruct:arrow_shaft:0, 烈焰棒 箭杆
@@ -13998,74 +13998,74 @@ tconstruct:seared_stairs_road:0, 焦黑铺路石楼梯
 tconstruct:seared_stairs_tile:0, 焦黑瓷砖楼梯
 tconstruct:seared_stairs_creeper:0, 焦黑雕琢楼梯
 tconstruct:cast:0, 空白铸模
-tconstruct:cast:0, 蓄电池铸模
-tconstruct:cast:0, 锤头铸模
-tconstruct:cast:0, 枪管铸模
-tconstruct:cast:0, 磨制工具铸模
-tconstruct:cast:0, 大板铸模
-tconstruct:cast:0, 牌板铸模
-tconstruct:cast:0, 斧刃铸模
-tconstruct:cast:0, 坚韧手柄铸模
-tconstruct:cast:0, 碎片铸模
-tconstruct:cast:0, 宽护手铸模
-tconstruct:cast:0, 弓臂铸模
-tconstruct:cast:0, 开掘铲头铸模
-tconstruct:cast:0, 激光传导器铸模
-tconstruct:cast:0, 园艺镰头铸模
-tconstruct:cast:0, 刀刃铸模
-tconstruct:cast:0, 十字柄铸模
-tconstruct:cast:0, 盘铸模
+tconstruct:cast:0, 铲头铸模
 tconstruct:cast:0, 剑刃铸模
+tconstruct:cast:0, 枪管铸模
 tconstruct:cast:0, 手柄铸模
-tconstruct:cast:0, 镰刀头铸模
+tconstruct:cast:0, 宽斧刃铸模
+tconstruct:cast:0, 刀刃铸模
+tconstruct:cast:0, 箭杆铸模
+tconstruct:cast:0, 蓄电池铸模
+tconstruct:cast:0, 坚韧绑定结铸模
+tconstruct:cast:0, 牌板铸模
+tconstruct:cast:0, 坚韧手柄铸模
+tconstruct:cast:0, 锤头铸模
 tconstruct:cast:0, 箭头铸模
 tconstruct:cast:0, 宽剑刃铸模
-tconstruct:cast:0, 宽斧刃铸模
+tconstruct:cast:0, 激光传导器铸模
+tconstruct:cast:0, 盘铸模
 tconstruct:cast:0, 箭羽铸模
-tconstruct:cast:0, 坚韧绑定结铸模
-tconstruct:cast:0, 弓弦铸模
-tconstruct:cast:0, 箭杆铸模
-tconstruct:cast:0, 铲头铸模
+tconstruct:cast:0, 十字柄铸模
+tconstruct:cast:0, 弓臂铸模
+tconstruct:cast:0, 磨制工具铸模
 tconstruct:cast:0, 绑定结铸模
+tconstruct:cast:0, 镰刀头铸模
+tconstruct:cast:0, 园艺镰头铸模
+tconstruct:cast:0, 弓弦铸模
 tconstruct:cast:0, 镐头铸模
+tconstruct:cast:0, 大板铸模
+tconstruct:cast:0, 斧刃铸模
+tconstruct:cast:0, 宽护手铸模
 tconstruct:cast:0, 护手铸模
+tconstruct:cast:0, 开掘铲头铸模
+tconstruct:cast:0, 碎片铸模
 tconstruct:cast_custom:0, 锭铸模
 tconstruct:cast_custom:1, 粒铸模
 tconstruct:cast_custom:2, 宝石铸模
 tconstruct:cast_custom:3, 板铸模
 tconstruct:cast_custom:4, 齿轮铸模
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, 蓄电池粘土铸模
-tconstruct:clay_cast:0, 锤头粘土铸模
-tconstruct:clay_cast:0, 枪管粘土铸模
-tconstruct:clay_cast:0, 磨制工具粘土铸模
-tconstruct:clay_cast:0, 大板粘土铸模
-tconstruct:clay_cast:0, 牌板粘土铸模
-tconstruct:clay_cast:0, 斧刃粘土铸模
-tconstruct:clay_cast:0, 坚韧手柄粘土铸模
-tconstruct:clay_cast:0, 碎片粘土铸模
-tconstruct:clay_cast:0, 宽护手粘土铸模
-tconstruct:clay_cast:0, 弓臂粘土铸模
-tconstruct:clay_cast:0, 开掘铲头粘土铸模
-tconstruct:clay_cast:0, 激光传导器粘土铸模
-tconstruct:clay_cast:0, 园艺镰头粘土铸模
-tconstruct:clay_cast:0, 刀刃粘土铸模
-tconstruct:clay_cast:0, 十字柄粘土铸模
-tconstruct:clay_cast:0, 盘粘土铸模
+tconstruct:clay_cast:0, 铲头粘土铸模
 tconstruct:clay_cast:0, 剑刃粘土铸模
+tconstruct:clay_cast:0, 枪管粘土铸模
 tconstruct:clay_cast:0, 手柄粘土铸模
-tconstruct:clay_cast:0, 镰刀头粘土铸模
+tconstruct:clay_cast:0, 宽斧刃粘土铸模
+tconstruct:clay_cast:0, 刀刃粘土铸模
+tconstruct:clay_cast:0, 箭杆粘土铸模
+tconstruct:clay_cast:0, 蓄电池粘土铸模
+tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
+tconstruct:clay_cast:0, 牌板粘土铸模
+tconstruct:clay_cast:0, 坚韧手柄粘土铸模
+tconstruct:clay_cast:0, 锤头粘土铸模
 tconstruct:clay_cast:0, 箭头粘土铸模
 tconstruct:clay_cast:0, 宽剑刃粘土铸模
-tconstruct:clay_cast:0, 宽斧刃粘土铸模
+tconstruct:clay_cast:0, 激光传导器粘土铸模
+tconstruct:clay_cast:0, 盘粘土铸模
 tconstruct:clay_cast:0, 箭羽粘土铸模
-tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
-tconstruct:clay_cast:0, 弓弦粘土铸模
-tconstruct:clay_cast:0, 箭杆粘土铸模
-tconstruct:clay_cast:0, 铲头粘土铸模
+tconstruct:clay_cast:0, 十字柄粘土铸模
+tconstruct:clay_cast:0, 弓臂粘土铸模
+tconstruct:clay_cast:0, 磨制工具粘土铸模
 tconstruct:clay_cast:0, 绑定结粘土铸模
+tconstruct:clay_cast:0, 镰刀头粘土铸模
+tconstruct:clay_cast:0, 园艺镰头粘土铸模
+tconstruct:clay_cast:0, 弓弦粘土铸模
 tconstruct:clay_cast:0, 镐头粘土铸模
+tconstruct:clay_cast:0, 大板粘土铸模
+tconstruct:clay_cast:0, 斧刃粘土铸模
+tconstruct:clay_cast:0, 宽护手粘土铸模
 tconstruct:clay_cast:0, 护手粘土铸模
+tconstruct:clay_cast:0, 开掘铲头粘土铸模
+tconstruct:clay_cast:0, 碎片粘土铸模
 tconstruct:stone_torch:0, 石柄火把
 tconstruct:stone_ladder:0, 石梯
 tconstruct:punji:0, 尖竹钉
@@ -14528,31 +14528,31 @@ rftoolsdim:structure_essence:8, 沼泽小屋结构要素
 rftoolsdim:structure_essence:9, 沙漠神殿结构要素
 rftoolsdim:structure_essence:10, 丛林神殿结构要素
 rftoolsdim:structure_essence:11, 雪屋结构要素
-rftoolsdim:known_dimlet:7, 特征信息卡 (None)
+rftoolsdim:known_dimlet:13, 天气信息卡 (Default)
+rftoolsdim:known_dimlet:6, 地形信息卡 (Void)
+rftoolsdim:known_dimlet:9, 数位信息卡 (7)
+rftoolsdim:known_dimlet:9, 数位信息卡 (6)
+rftoolsdim:known_dimlet:6, 地形信息卡 (Flat)
+rftoolsdim:known_dimlet:9, 数位信息卡 (5)
+rftoolsdim:known_dimlet:9, 数位信息卡 (4)
+rftoolsdim:known_dimlet:9, 数位信息卡 (9)
+rftoolsdim:known_dimlet:9, 数位信息卡 (8)
 rftoolsdim:known_dimlet:4, 天空信息卡 (Normal)
 rftoolsdim:known_dimlet:12, 控制器信息卡 (Single)
-rftoolsdim:known_dimlet:12, 控制器信息卡 (Default)
-rftoolsdim:known_dimlet:6, 地形信息卡 (Void)
 rftoolsdim:known_dimlet:1, 流体信息卡 (水)
 rftoolsdim:known_dimlet:4, 天空信息卡 (Normal day)
-rftoolsdim:known_dimlet:6, 地形信息卡 (Flat)
-rftoolsdim:known_dimlet:8, 时间信息卡 (Normal)
-rftoolsdim:known_dimlet:4, 天空信息卡 (Normal night)
-rftoolsdim:known_dimlet:3, 生物信息卡 (Default)
-rftoolsdim:known_dimlet:9, 数位信息卡 (8)
-rftoolsdim:known_dimlet:9, 数位信息卡 (9)
 rftoolsdim:known_dimlet:10, 效果信息卡 (None)
-rftoolsdim:known_dimlet:5, 结构信息卡 (None)
+rftoolsdim:known_dimlet:7, 特征信息卡 (None)
+rftoolsdim:known_dimlet:9, 数位信息卡 (3)
+rftoolsdim:known_dimlet:9, 数位信息卡 (2)
+rftoolsdim:known_dimlet:9, 数位信息卡 (1)
 rftoolsdim:known_dimlet:9, 数位信息卡 (0)
 rftoolsdim:known_dimlet:2, 材料信息卡 (石头)
-rftoolsdim:known_dimlet:9, 数位信息卡 (1)
-rftoolsdim:known_dimlet:9, 数位信息卡 (2)
-rftoolsdim:known_dimlet:9, 数位信息卡 (3)
-rftoolsdim:known_dimlet:13, 天气信息卡 (Default)
-rftoolsdim:known_dimlet:9, 数位信息卡 (4)
-rftoolsdim:known_dimlet:9, 数位信息卡 (5)
-rftoolsdim:known_dimlet:9, 数位信息卡 (6)
-rftoolsdim:known_dimlet:9, 数位信息卡 (7)
+rftoolsdim:known_dimlet:4, 天空信息卡 (Normal night)
+rftoolsdim:known_dimlet:5, 结构信息卡 (None)
+rftoolsdim:known_dimlet:3, 生物信息卡 (Default)
+rftoolsdim:known_dimlet:12, 控制器信息卡 (Default)
+rftoolsdim:known_dimlet:8, 时间信息卡 (Normal)
 rftoolsdim:efficiency_essence, 效率要素
 rftoolsdim:mediocre_efficiency_essence, 平庸的效率要素
 rftoolsdim:empty_dimension_tab, 空白世界构建模板
@@ -15158,13 +15158,13 @@ plustic:pipe_piece:0, 镁 枪管
 plustic:pipe_piece:0, 巧克力 枪管
 plustic:pipe_piece:0, 防腐木 枪管
 plustic:pipe_piece:0, 康铜 枪管
+plustic:pipe_piece:0, 史莱姆枪管
+plustic:pipe_piece:0, 暗物质 枪管
+plustic:pipe_piece:0, 红物质 枪管
+plustic:pipe_piece:0, 绿宝石 枪管
 plustic:pipe_piece:0, 双足飞龙核心 枪管
 plustic:pipe_piece:0, 觉醒核心 枪管
 plustic:pipe_piece:0, 混沌核心 枪管
-plustic:pipe_piece:0, 暗物质 枪管
-plustic:pipe_piece:0, 红物质 枪管
-plustic:pipe_piece:0, 史莱姆枪管
-plustic:pipe_piece:0, 绿宝石 枪管
 plustic:laser_medium:0, 圆石 激光传导器
 plustic:laser_medium:0, 海晶石 激光传导器
 plustic:laser_medium:0, 烈焰棒 激光传导器
@@ -15174,8 +15174,8 @@ plustic:laser_medium:0, 强化荧石 激光传导器
 plustic:laser_medium:0, 无尽 激光传导器
 plustic:laser_medium:0, 赛特斯石英 激光传导器
 plustic:laser_medium:0, 福鲁伊克斯水晶 激光传导器
-plustic:laser_medium:0, 混沌核心 激光传导器
 plustic:laser_medium:0, 暗物质 激光传导器
+plustic:laser_medium:0, 混沌核心 激光传导器
 plustic:battery_cell:0, 圆石 蓄电池
 plustic:battery_cell:0, 玛玉灵 蓄电池
 plustic:battery_cell:0, 铜 蓄电池
@@ -16822,6 +16822,13 @@ mekores:mekanismore:376, 镥碎片
 mekores:mekanismore:377, 镥碎块
 mekores:mekanismore:378, 污浊的镥粉
 mekores:mekanismore:379, 镥粉
+contenttweaker:book_of_gem, 宝石之书
+contenttweaker:super_processor, 超级处理器
+contenttweaker:star_of_blue, 湛蓝之星
+contenttweaker:glowing_stick, 荧光棒
+contenttweaker:debug_item, 调试物品
+contenttweaker:slimesteel, 史莱姆钢
+contenttweaker:tear_of_enderman, 末影人之泪
 forestry:crated.forestry.peat.0, item.crated.forestry.peat.0.name
 forestry:crated.forestry.apatite.0, item.crated.forestry.apatite.0.name
 forestry:crated.forestry.fertilizer_compound.0, item.crated.forestry.fertilizer_compound.0.name
