@@ -1,6 +1,13 @@
 {
-	x: -28.5d,
-	y: 10.0d,
+	x: -34.0d,
+	y: -1.5d,
+	text: [
+		"消耗生物燃油产生160RF/t的电力",
+		"建议配合自动化农场使用"
+	],
+	dependencies: [
+		"be53a4f7"
+	],
 	tasks: [{
 		uid: "ca5f9245",
 		type: "item",

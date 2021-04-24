@@ -1,0 +1,16 @@
+{
+	title: "E=mc2",
+	icon: "nuclearcraft:fuel_uranium 1 7",
+	x: -25.5d,
+	y: 4.0d,
+	text: [
+		"核裂变"
+	],
+	dependencies: [
+		"7a3b28f7"
+	],
+	tasks: [{
+		uid: "cee16887",
+		type: "checkmark"
+	}]
+}

@@ -1,6 +1,12 @@
 {
-	x: -17.5d,
-	y: 8.0d,
+	x: -24.5d,
+	y: 11.0d,
+	text: [
+		"使用雪/冰进行发电"
+	],
+	dependencies: [
+		"6ae02688"
+	],
 	tasks: [{
 		uid: "f359ade3",
 		type: "item",

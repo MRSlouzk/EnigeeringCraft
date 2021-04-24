@@ -1,0 +1,18 @@
+{
+	title: "气体燃料",
+	icon: {
+		id: "mekanism:gastank",
+		tag: {
+			tier: 0
+		}
+	},
+	x: -30.0d,
+	y: 3.5d,
+	dependencies: [
+		"54569ebb"
+	],
+	tasks: [{
+		uid: "d272e291",
+		type: "checkmark"
+	}]
+}

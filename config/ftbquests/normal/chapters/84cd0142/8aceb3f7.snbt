@@ -1,9 +1,13 @@
 {
-	x: -30.5d,
-	y: 5.0d,
+	x: -31.5d,
+	y: -2.5d,
 	text: [
 		"2800RF/IJ(物品热值，等量与烧一个物品消耗的燃料量)"
 	],
+	dependencies: [
+		"c6a37512"
+	],
+	dependency_requirement: "one_started",
 	tasks: [{
 		uid: "9be829d4",
 		type: "item",

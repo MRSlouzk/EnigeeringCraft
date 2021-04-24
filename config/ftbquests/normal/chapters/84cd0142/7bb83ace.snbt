@@ -1,6 +1,12 @@
 {
-	x: -27.5d,
-	y: 8.0d,
+	x: -35.5d,
+	y: 8.5d,
+	text: [
+		"消耗粘液球与牛奶进行发电"
+	],
+	dependencies: [
+		"6ae02688"
+	],
 	tasks: [{
 		uid: "c89e7fa6",
 		type: "item",

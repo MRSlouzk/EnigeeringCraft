@@ -1,0 +1,18 @@
+{
+	title: "更多实用设备2",
+	icon: "extrautils2:decorativesolid 1 8",
+	x: -27.5d,
+	y: 7.5d,
+	text: [
+		"更多实用设备一共有17种发电机，每个发电机都有独特的方式进行发电",
+		"具体使用方法可以在JEI查询",
+		"PS:所有发电机都可以用速度升级进行加速(若GP不够会停止工作)。可以使用红石对发电机进行控制"
+	],
+	dependencies: [
+		"1ca6a242"
+	],
+	tasks: [{
+		uid: "1101e5f0",
+		type: "checkmark"
+	}]
+}

@@ -1,11 +1,111 @@
 {
-	x: -30.5d,
-	y: 9.0d,
+	title: "柴油发电机",
+	x: -32.5d,
+	y: 2.0d,
+	text: [
+		"沉浸科技的柴油发电机有4096RF/t的产电量，通过燃烧生物柴油进行发电",
+		"需要配合自动化农场，工业挤压机，工业发酵剂，炼油厂使用"
+	],
+	dependencies: [
+		"be53a4f7"
+	],
 	tasks: [{
 		uid: "071e4396",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:metal_decoration0 1 6"
+		}],
+		count: 4L
+	},
+	{
+		uid: "3580deb7",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 6L
+	},
+	{
+		uid: "656b36ae",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 5L
+	},
+	{
+		uid: "24c64aa4",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
 		}]
+	},
+	{
+		uid: "5b3405f1",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 13L
+	},
+	{
+		uid: "fb7a1d48",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 7"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "ced2ad77",
+		type: "item",
+		item: {
+			id: "mekanism:machineblock2",
+			tag: {
+				tier: 1,
+				BlockEntityTag: {
+					ownerUUID: "8c2d7e2a-a575-357c-aa94-13721d1cafb6",
+					tier: 1,
+					fluidTank: {
+						FluidName: "biodiesel",
+						Amount: 28000
+					},
+					editMode: 0,
+					facing: 2,
+					ForgeCaps: {
+						"nuclearcraft:capability_default_radiation_resistance": {
+							radiationResistance: 0.0d
+						}
+					},
+					securityMode: 0,
+					Items: [],
+					id: "mekanism:fluid_tank",
+					isActive: 0b,
+					redstone: 0b,
+					securityFreq: {
+						ownerUUID: "8c2d7e2a-a575-357c-aa94-13721d1cafb6",
+						name: "Security",
+						securityMode: 0,
+						override: 0b,
+						publicFreq: 1b
+					}
+				},
+				display: {
+					Lore: [
+						"(+NBT)"
+					]
+				},
+				mekData: {
+					security: 0,
+					ownerUUID: "8c2d7e2a-a575-357c-aa94-13721d1cafb6",
+					fluidTank: {
+						FluidName: "biodiesel",
+						Amount: 28000
+					},
+					Items: []
+				}
+			},
+			Damage: 11s
+		}
 	}]
 }

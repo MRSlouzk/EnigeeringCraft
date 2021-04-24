@@ -1,6 +1,12 @@
 {
-	x: -24.5d,
-	y: 5.0d,
+	x: -30.0d,
+	y: -5.0d,
+	text: [
+		"燃烧效益高，最推荐的燃烧发电机"
+	],
+	dependencies: [
+		"c6a37512"
+	],
 	tasks: [{
 		uid: "e9cdd310",
 		type: "item",

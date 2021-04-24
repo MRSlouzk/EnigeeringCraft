@@ -1,0 +1,13 @@
+{
+	title: "液体燃料",
+	icon: "minecraft:lava_bucket",
+	x: -32.5d,
+	y: 0.5d,
+	dependencies: [
+		"54569ebb"
+	],
+	tasks: [{
+		uid: "8dc9fe82",
+		type: "checkmark"
+	}]
+}

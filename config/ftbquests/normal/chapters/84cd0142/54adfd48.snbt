@@ -1,6 +1,12 @@
 {
-	x: -16.5d,
-	y: 8.0d,
+	x: -32.5d,
+	y: 10.0d,
+	text: [
+		"消耗岩浆与红石进行发电"
+	],
+	dependencies: [
+		"6ae02688"
+	],
 	tasks: [{
 		uid: "54efcf8b",
 		type: "item",

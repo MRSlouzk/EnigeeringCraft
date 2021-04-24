@@ -1,5 +1,6 @@
 {
 	title: "沉浸工业",
+	icon: "immersiveengineering:wooden_device1",
 	always_invisible: false,
 	group: 987920466,
 	default_quest_shape: ""

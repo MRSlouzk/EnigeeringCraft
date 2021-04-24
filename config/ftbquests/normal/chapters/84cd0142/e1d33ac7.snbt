@@ -1,6 +1,12 @@
 {
-	x: -29.5d,
-	y: 8.0d,
+	x: -28.5d,
+	y: 12.0d,
+	text: [
+		"消耗下界之星产生巨量电力，工作时靠近会中凋零效果"
+	],
+	dependencies: [
+		"6ae02688"
+	],
 	tasks: [{
 		uid: "85d32fbe",
 		type: "item",

@@ -1,6 +1,12 @@
 {
-	x: -28.5d,
-	y: 8.0d,
+	x: -20.5d,
+	y: 9.0d,
+	text: [
+		"使用食物进行发电，食物会的饱食度越高，发电越多"
+	],
+	dependencies: [
+		"6ae02688"
+	],
 	tasks: [{
 		uid: "a124e4cd",
 		type: "item",

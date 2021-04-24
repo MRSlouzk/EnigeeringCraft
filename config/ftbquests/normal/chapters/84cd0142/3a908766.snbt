@@ -1,0 +1,22 @@
+{
+	title: "恒星之核",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "tritium",
+			Amount: 1000
+		}
+	},
+	x: -24.5d,
+	y: 3.0d,
+	text: [
+		"核聚变"
+	],
+	dependencies: [
+		"7a3b28f7"
+	],
+	tasks: [{
+		uid: "2297e286",
+		type: "checkmark"
+	}]
+}

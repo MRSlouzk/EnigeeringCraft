@@ -1,6 +1,12 @@
 {
-	x: -20.5d,
-	y: 8.0d,
+	x: -29.5d,
+	y: 11.5d,
+	text: [
+		"用粉红色的东西(爱/doge)发电"
+	],
+	dependencies: [
+		"6ae02688"
+	],
 	tasks: [{
 		uid: "21bcce51",
 		type: "item",

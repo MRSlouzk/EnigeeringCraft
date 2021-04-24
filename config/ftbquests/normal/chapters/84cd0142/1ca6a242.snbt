@@ -1,8 +1,11 @@
 {
 	title: "产电",
-	icon: "extrautils2:rainbowgenerator",
-	x: -27.0d,
+	icon: "nuclearcraft:upgrade 1 1",
+	x: -27.5d,
 	y: 0.5d,
+	dependencies: [
+		"3b352780"
+	],
 	tasks: [{
 		uid: "b1dc9fde",
 		type: "checkmark"

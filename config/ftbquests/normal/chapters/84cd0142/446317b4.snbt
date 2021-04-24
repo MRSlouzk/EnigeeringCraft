@@ -1,6 +1,12 @@
 {
-	x: -15.5d,
-	y: 8.0d,
+	x: -21.5d,
+	y: 9.5d,
+	text: [
+		"使用龙息进行发电"
+	],
+	dependencies: [
+		"6ae02688"
+	],
 	tasks: [{
 		uid: "19485898",
 		type: "item",

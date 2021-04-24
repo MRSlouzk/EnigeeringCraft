@@ -1,11 +1,54 @@
 {
-	x: -26.5d,
-	y: 6.0d,
+	title: "蒸汽涡轮",
+	x: -30.0d,
+	y: 5.0d,
+	text: [
+		"MEK的蒸汽涡轮可以通过消耗蒸汽(其它模组的也行，比如热力的)产生大量能量并且还可以产生冷凝回流水。可以配合产热设备(聚变反应堆/激光等)和工业锅炉产电",
+		"蒸汽涡轮有着恐怖的发电量(可以上亿)，其发电量与蒸汽输入量，涡轮机大小，电磁线圈数目等都有关系，具体参数可以上网查找或者自行研究"
+	],
+	dependencies: [
+		"d0fd0833"
+	],
 	tasks: [{
 		uid: "ded908a9",
 		type: "item",
 		items: [{
 			item: "mekanismgenerators:generator 1 9"
+		}]
+	},
+	{
+		uid: "d76644d6",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:generator 1 10"
+		}]
+	},
+	{
+		uid: "afe378dc",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:generator 1 7"
+		}]
+	},
+	{
+		uid: "d358048d",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:turbineblade"
+		}]
+	},
+	{
+		uid: "32f0adb0",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:generator 1 11"
+		}]
+	},
+	{
+		uid: "0f9b0f71",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:generator 1 12"
 		}]
 	}]
 }

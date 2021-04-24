@@ -1,6 +1,12 @@
 {
-	x: -21.5d,
-	y: 5.0d,
+	x: -34.5d,
+	y: -0.5d,
+	text: [
+		"使用岩浆，烈焰之炽焱(地主家的傻儿子)或者其他高温液体进行产电"
+	],
+	dependencies: [
+		"be53a4f7"
+	],
 	tasks: [{
 		uid: "df3bc95d",
 		type: "item",

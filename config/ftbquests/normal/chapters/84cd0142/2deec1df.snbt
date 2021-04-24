@@ -1,6 +1,12 @@
 {
-	x: -29.5d,
-	y: 10.0d,
+	x: -33.0d,
+	y: -1.5d,
+	text: [
+		"消耗工业先锋的蛋白质产生大量电力"
+	],
+	dependencies: [
+		"be53a4f7"
+	],
 	tasks: [{
 		uid: "b02415d0",
 		type: "item",

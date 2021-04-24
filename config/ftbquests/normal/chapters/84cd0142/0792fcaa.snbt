@@ -1,6 +1,12 @@
 {
-	x: -25.5d,
-	y: 8.0d,
+	x: -26.5d,
+	y: 12.0d,
+	text: [
+		"消耗骨头/腐肉进行发电，工作时靠近会有特殊debuff(你猜是什么)"
+	],
+	dependencies: [
+		"6ae02688"
+	],
 	tasks: [{
 		uid: "dc6d022e",
 		type: "item",

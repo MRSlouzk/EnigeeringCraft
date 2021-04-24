@@ -1,6 +1,12 @@
 {
-	x: -29.5d,
-	y: 4.0d,
+	x: -33.5d,
+	y: 2.0d,
+	text: [
+		"可以燃烧各种神奇的燃料进行发电，具体燃料见JEI"
+	],
+	dependencies: [
+		"be53a4f7"
+	],
 	tasks: [{
 		uid: "debacf21",
 		type: "item",

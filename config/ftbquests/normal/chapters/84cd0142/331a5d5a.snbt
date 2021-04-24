@@ -1,6 +1,12 @@
 {
-	x: -26.5d,
-	y: 8.0d,
+	x: -19.5d,
+	y: 8.5d,
+	text: [
+		"消耗末影珍珠/末影之眼发电"
+	],
+	dependencies: [
+		"6ae02688"
+	],
 	tasks: [{
 		uid: "cd876e98",
 		type: "item",

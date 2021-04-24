@@ -1,11 +1,29 @@
 {
-	x: -29.5d,
-	y: 9.0d,
+	x: -28.0d,
+	y: -0.5d,
+	text: [
+		"动能发电机可以配合水车/风车进行发电"
+	],
+	dependencies: [
+		"1ca6a242"
+	],
 	tasks: [{
 		uid: "f052e49b",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:metal_device1 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "ac9252b2",
+		type: "item",
+		item: "immersiveengineering:material 1 12",
+		count: 8
+	},
+	{
+		uid: "3439cc46",
+		type: "item",
+		item: "immersiveengineering:material 1 10",
+		count: 2
 	}]
 }

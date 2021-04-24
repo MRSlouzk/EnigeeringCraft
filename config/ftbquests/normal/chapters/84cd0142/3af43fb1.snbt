@@ -1,6 +1,12 @@
 {
 	x: -24.5d,
-	y: 3.0d,
+	y: 1.5d,
+	text: [
+		"利用放射性衰变产生的能量进行发电"
+	],
+	dependencies: [
+		"7a3b28f7"
+	],
 	tasks: [{
 		uid: "987cb652",
 		type: "item",

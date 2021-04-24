@@ -1,11 +1,36 @@
 {
-	x: -29.5d,
-	y: 5.0d,
+	x: -23.0d,
+	y: 3.5d,
+	text: [
+		"龙之研究神龙反应堆是龙之研究的一个大功率发电设备。以觉醒龙锭为原料，并产出混沌碎片。发电量可达到数十万RF/t",
+		"开启并维持反应堆需要巨量的电力。反应堆利用能量差价来进行发电",
+		"Warning:神龙反应堆配置繁琐，若使用不当会发生核爆，将方圆数百格夷为平地！",
+		"具体搭建教程请前往MC百科对应页面查询(主要怕讲的不清楚然后把反应堆玩炸了)",
+		"开机前记得备份"
+	],
+	dependencies: [
+		"3a908766"
+	],
 	tasks: [{
 		uid: "f983271f",
 		type: "item",
 		items: [{
 			item: "draconicevolution:reactor_component 1 1"
 		}]
+	},
+	{
+		uid: "5875828f",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_core"
+		}]
+	},
+	{
+		uid: "ef3ab9ca",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_component"
+		}],
+		count: 4L
 	}]
 }
