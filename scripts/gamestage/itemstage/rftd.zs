@@ -1,4 +1,9 @@
+/*
+crafttweaker script to add items in rftoolsdimensions to gamestages
+ */
 #priority -1
+#modloaded rftoolsdim
+
 import mods.zenstages.Stage;
 import mods.zenstages.ZenStager;
 import crafttweaker.item.IIngredient;

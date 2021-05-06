@@ -1,16 +1,17 @@
 /*
-极限反应堆
- */
+crafttweaker script for bigreactors
+*/
 #priority 1
 #modloaded bigreactors
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDict;
 import crafttweaker.oredict.IOreDictEntry;
-import mods.jei.JEI.removeAndHide as hide;
+import mods.jei.JEI.removeAndHide as rh;
 import mods.jei.JEI.addDescription;
 
-hide(<bigreactors:dustcyanite>);
+rh(<bigreactors:dustcyanite>);
 
 //移除由铀锭与沙子合成蓝晶锭配方
 recipes.removeShapeless(<bigreactors:ingotcyanite>, [<minecraft:sand>,<immersiveengineering:metal:5>]);

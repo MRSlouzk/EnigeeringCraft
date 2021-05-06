@@ -1,3 +1,6 @@
+/*
+crafttweaker script to create new stages
+ */
 #priority 8
 import mods.zenstages.ZenStager;
 import mods.zenstages.Stage;

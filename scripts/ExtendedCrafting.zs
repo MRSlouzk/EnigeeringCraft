@@ -1,8 +1,9 @@
 /*
-合成拓展
+crafttweaker script for extendedcrafting
 */
 #priority 1
 #modloaded extendedcrafting
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDict;

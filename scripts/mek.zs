@@ -1,9 +1,11 @@
+/*
+crafttweaker script for mekanism
+*/
 #priority 1
 #modloaded mekanism
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
-import crafttweaker.oredict.IOreDict;
-import crafttweaker.oredict.IOreDictEntry;
 import mods.jei.JEI.addDescription;
 
 //化学溶解室

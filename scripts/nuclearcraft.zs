@@ -1,12 +1,11 @@
 /* 
-核电工艺
+crafttweaker script for nuclearcraft
 */
 #priority 1
 #modloaded nuclearcraft
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
-import crafttweaker.oredict.IOreDict;
-import crafttweaker.oredict.IOreDictEntry;
 import mods.jei.JEI.addDescription;
 
 

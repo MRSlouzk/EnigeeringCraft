@@ -1,8 +1,9 @@
 /*
-等价交换
-*/
-#priority 0
-#modloaded gamestages
+crafttweaker script to add items in projecte and projectex to gamestages
+ */
+#priority -1
+#modloaded projecte projectex
+
 import mods.zenstages.Stage;
 import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack as IItemStack;
@@ -145,5 +146,4 @@ for items1 in Eitems{
 }
 for items2 in Bitems{
     mods.ItemStages.addItemStage("Disabled",items2);
-    mods.ItemStages.setUnfamiliarName("Banned Item",items2);
 }

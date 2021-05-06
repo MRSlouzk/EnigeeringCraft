@@ -1,9 +1,11 @@
+/*
+crafttweaker script for draconicevolution
+ */
 #priority 1
 #modloaded draconicevolution
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
-import crafttweaker.oredict.IOreDict;
-import crafttweaker.oredict.IOreDictEntry;
 
 //怪物磨床
 recipes.remove(<draconicevolution:grinder>);

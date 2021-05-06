@@ -1,12 +1,12 @@
 /*
-应用能源2
+crafttweaker script for appliedenergistics2
  */
 #priority 1
+#modloaded appliedenergistics2
+
 import crafttweaker.item.IItemStack as IItemStack;
 import crafttweaker.item.IIngredient as IIngredient;
-import crafttweaker.oredict.IOreDict;
-import crafttweaker.oredict.IOreDictEntry;
-import mods.jei.JEI.addDescription;
 import mods.jei.JEI.removeAndHide as rh;
 
-rh(<appliedenergistics2:facade>);
+//伪装板隐藏
+rh(<appliedenergistics2:facade:*>);

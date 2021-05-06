@@ -1,11 +1,16 @@
-#priority -15
+/* 
+crafttweaker script for items that will be used to unlock gamestages
+*/
+#priority 5
+#modloaded gamestages contenttweaker
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDict;
 import crafttweaker.oredict.IOreDictEntry;
 import mods.jei.JEI.addDescription;
 
-//toolstips
+//tooltips
 <contenttweaker:slimesteel>.addTooltip(format.red("手持并右键解锁阶段 Two"));
 <contenttweaker:super_processor>.addTooltip(format.red("手持并右键解锁阶段 Three"));
 <contenttweaker:tear_of_enderman>.addTooltip(format.red("手持并右键解锁阶段 Final"));
@@ -52,4 +57,4 @@ mods.extendedcrafting.CombinationCrafting.addRecipe
 (<contenttweaker:star_of_blue>,400000000000,50000000,<storagedrawers:upgrade_creative:1>, [<mekanism:gastank>.withTag({tier: 4}),<mekanism:machineblock2:11>.withTag({tier: 4}),<mekanism:energycube>.withTag({tier: 4, mekData: {energyStored: 1.7976931348623157E308}}),<thermalexpansion:capacitor:32000>.withTag({Energy: 25000000}),<draconicevolution:chaotic_core>,<extrautils2:snowglobe:1>]);
 
 //调试物品
-<contenttweaker:debug_item>.addTooltip(format.red("创造模式专用,\n"+"手持右键解锁所有阶段"));
+<contenttweaker:debug_item>.addTooltip(format.red("创造模式专用,"+"手持右键解锁所有阶段"));

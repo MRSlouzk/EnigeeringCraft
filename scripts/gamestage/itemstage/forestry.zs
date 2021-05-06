@@ -1,4 +1,9 @@
-#priority 0
+/*
+crafttweaker script to add items in forestry to gamestages
+ */
+#priority -1
+#modloaded forestry
+
 import mods.zenstages.Stage;
 import mods.zenstages.ZenStager;
 import crafttweaker.item.IIngredient;

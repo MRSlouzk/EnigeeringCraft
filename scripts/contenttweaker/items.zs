@@ -1,5 +1,8 @@
+/*
+crafttweaker script for contenttweaker
+ */
 #loader contenttweaker
-#priority -100
+#priority 6
 
 import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Item;

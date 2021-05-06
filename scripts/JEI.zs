@@ -1,9 +1,8 @@
 /*
-JEI修改
- */
-#priority -1
-import crafttweaker.item.IItemStack as IItemStack;
-import crafttweaker.item.IIngredient as IIngredient;
+crafttweaker script for justenoughitems
+*/
+#priority 0
+
 import mods.jei.JEI.hideCategory as hidec;
 
 //隐藏融合机合成

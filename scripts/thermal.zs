@@ -1,11 +1,11 @@
-/*
-热力
-*/ 
-#priority 10
+/* 
+crafttweaker script for thermalexpansion and thermalfoundation
+*/
+#priority 1
+#modloaded thermalexpansion thermalfoundation
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
-import crafttweaker.oredict.IOreDict;
-import crafttweaker.oredict.IOreDictEntry;
 import mods.jei.JEI.addDescription;
 
 //移除铁匠宝典

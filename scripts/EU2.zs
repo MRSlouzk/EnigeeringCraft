@@ -1,10 +1,11 @@
+/*
+crafttweaker script for extrautils2
+ */
 #priority 1
 #modloaded extrautils2
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
-import crafttweaker.oredict.IOreDict;
-import crafttweaker.oredict.IOreDictEntry;
-import mods.jei.JEI.addDescription;
 
 //天使指环
 recipes.remove(<extrautils2:chickenring>);

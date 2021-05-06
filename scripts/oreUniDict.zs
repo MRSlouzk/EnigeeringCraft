@@ -1,8 +1,7 @@
-#priority 100
+#priority -1
+
 import crafttweaker.item.IItemStack as IItemStack;
 import crafttweaker.item.IIngredient as IIngredient;
-import crafttweaker.oredict.IOreDict as IOreDict;
-import crafttweaker.oredict.IOreDictEntry as IOreDictEntry;
 
 //铜矿矿辞
 recipes.addShapeless(<thermalfoundation:material:64>, [<mekanism:dust:3>]);

@@ -1,3 +1,6 @@
+/*
+crafttweaker script for immersiveengineering
+*/
 #priority 1
 #modloaded immersiveengineering
 
@@ -15,7 +18,7 @@ mods.immersiveengineering.CokeOven.removeRecipe(<immersiveengineering:material:6
 recipes.remove(<immersiveengineering:stone_decoration:10>);
 addDescription(<immersiveengineering:stone_decoration:10>,"已被移除，请使用匠魂冶炼炉");
 
-//移除矿物
+//矿物标注
 var removedores as IItemStack[] = [
      <immersiveengineering:ore>,
      <immersiveengineering:ore:1>,

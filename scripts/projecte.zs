@@ -1,10 +1,11 @@
+/* 
+crafttweaker script for projecte and projectex
+*/
 #priority 1
 #modloaded projecte projectex
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
-import crafttweaker.oredict.IOreDict;
-import crafttweaker.oredict.IOreDictEntry;
 import mods.jei.JEI.addDescription;
 
 recipes.remove(<projecte:item.pe_philosophers_stone>);
@@ -66,7 +67,6 @@ for items in removed {
 }
 
 recipes.addShapeless(<projectex:collector:10>, [<projectex:collector:9>,<projectex:matter:7>,<bigreactors:ingotludicrite>,<avaritia:resource:4>,<enderio:item_alloy_endergy_ingot:3>,<avaritia:resource:1>]);
-recipes.addShapeless(<projectex:collector:9>, [<projectex:collector:8>,<projectex:matter:6>,<bigreactors:ingotludicrite>,<avaritia:resource:4>,<enderio:item_alloy_endergy_ingot:3>,<avaritia:resource:1>]);
 recipes.addShapeless(<projectex:collector:9>, [<projectex:collector:8>,<projectex:matter:6>,<bigreactors:ingotludicrite>,<avaritia:resource:4>,<enderio:item_alloy_endergy_ingot:3>,<avaritia:resource:1>]);
 recipes.addShapeless(<projectex:collector:7>, [<projectex:collector:6>,<projectex:matter:4>,<bigreactors:ingotludicrite>,<avaritia:resource:4>,<enderio:item_alloy_endergy_ingot:3>]);
 recipes.addShapeless(<projectex:collector:5>, [<projectex:collector:4>,<projectex:matter:2>,<bigreactors:ingotludicrite>,<avaritia:resource:4>]);

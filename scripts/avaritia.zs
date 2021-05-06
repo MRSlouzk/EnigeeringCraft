@@ -1,10 +1,14 @@
+/*
+crafttweaker script for avaritia
+ */
 #priority 1
 #modloaded avaritia
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDict;
 import crafttweaker.oredict.IOreDictEntry;
-import mods.jei.JEI.removeAndHide as hide;
+import mods.jei.JEI.removeAndHide as rh;
 import mods.jei.JEI.addDescription;
 
 //中子素锭
@@ -38,7 +42,7 @@ mods.extendedcrafting.TableCrafting.addShaped(2, <avaritia:neutron_collector>, [
 	[<compactmachines3:wallbreakable>, <compactmachines3:wallbreakable>, <compactmachines3:wallbreakable>, <compactmachines3:wallbreakable>, <compactmachines3:wallbreakable>]
 ]);
 
-//AVA的奇点与中子态素压缩机
+//AVA的奇点与中子态素压缩机移除
 var hideitems as IIngredient[] = [
 <avaritia:singularity>,
 <avaritia:singularity:1> ,
@@ -59,7 +63,7 @@ var hideitems as IIngredient[] = [
 ];
 
 for items in hideitems{
-    hide(items);
+    rh(items);
 }
 
 mods.avaritia.ExtremeCrafting.remove(<avaritia:neutronium_compressor>);

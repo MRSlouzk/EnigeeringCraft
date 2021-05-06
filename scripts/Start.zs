@@ -1,16 +1,17 @@
-#priority -101
+/* 
+crafttweaker script for events that will happen when players get started
+*/
+#priority -1
 
 import crafttweaker.events.IEventManager;
 import crafttweaker.event.IPlayerEvent;
 import crafttweaker.event.PlayerLoggedInEvent;
-import crafttweaker.event.PlayerTickEvent;
 import crafttweaker.player.IPlayer;
-import crafttweaker.util.Position3f;
 
 //欢迎语
 events.onPlayerLoggedIn(function(event as crafttweaker.event.PlayerLoggedInEvent){
     if(!event.player.hasGameStage("start")){
-        event.player.addGameStage("Start");
+        event.player.addGameStage("start");
         event.player.sendChat(
             "§c欢迎来到 §lEngineering Craft §r§c整合包!\n"
             +"作者为 §1MRSlouzk§r(MCBBS)\n"

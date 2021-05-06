@@ -1,4 +1,9 @@
-#priority 0
+/*
+crafttweaker script to add items in mekanism to gamestages
+ */
+#priority -1
+#modloaded mekanism
+
 import mods.zenstages.Stage;
 import mods.zenstages.ZenStager;
 import crafttweaker.item.IIngredient;

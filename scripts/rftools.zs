@@ -1,9 +1,11 @@
+/* 
+crafttweaker script for rftools and rftoolsdimensions
+*/
 #priority 1
 #modloaded rftools
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
-import crafttweaker.oredict.IOreDict;
-import crafttweaker.oredict.IOreDictEntry;
 
 //护盾生成仪
 recipes.remove(<rftools:shield_block1>);

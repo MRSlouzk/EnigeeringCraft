@@ -1,7 +1,9 @@
 /*
-龙研stage
-*/
+crafttweaker script to add items in draconicevolution to gamestages
+ */
 #priority -1
+#modloaded draconicevolution
+
 import mods.zenstages.Stage;
 import mods.zenstages.ZenStager;
 import crafttweaker.item.IIngredient;

@@ -1,4 +1,8 @@
-#priority -1
+/*
+crafttweaker script to add creative items that was not included in other scripts to gamestages
+ */
+#priority 6
+
 import mods.zenstages.Stage;
 import mods.zenstages.ZenStager;
 import crafttweaker.item.IIngredient;

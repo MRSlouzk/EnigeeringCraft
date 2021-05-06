@@ -1,4 +1,9 @@
+/*
+crafttweaker script to add items in immersiveengineering to gamestages
+ */
 #priority -1
+#modloaded immersiveengineering
+
 import mods.zenstages.Stage;
 import mods.zenstages.ZenStager;
 import crafttweaker.item.IIngredient;

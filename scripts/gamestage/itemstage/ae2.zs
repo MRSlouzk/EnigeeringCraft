@@ -1,12 +1,16 @@
-#priority -1
-#modloaded appliedenergistics2
+/*
+crafttweaker script to add items in appliedenergistics2 to gamestages
+ */
+#priority 7
+#modloaded appliedenergistics2 gamestages
+
 import mods.zenstages.Stage;
 import mods.zenstages.ZenStager;
 import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack as IItemStack;
 
-import scripts.gamestage.gamestages.One;
 import scripts.gamestage.gamestages.Two;
+import scripts.gamestage.gamestages.Creative;
 
 mods.ItemStages.stageModItems("Two","appliedenergistics2");
 
