@@ -1,0 +1,25 @@
+{
+	x: -1.0d,
+	y: -4.5d,
+	dependencies: [
+		"fa048419"
+	],
+	tasks: [{
+		uid: "57b09f84",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:graphite_electrode"
+		}]
+	}],
+	rewards: [{
+		uid: "4ea4f19a",
+		type: "loot",
+		table: 6
+	},
+	{
+		uid: "e50eabd1",
+		type: "item",
+		item: "immersiveengineering:material 1 19",
+		count: 8
+	}]
+}

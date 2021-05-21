@@ -5,7 +5,11 @@
 	y: 1.5d,
 	hide_text_until_complete: true,
 	tasks: [{
-		uid: "993e48f2",
+		uid: "cbdf536e",
+		type: "checkmark"
+	},
+	{
+		uid: "dc614961",
 		type: "item",
 		items: [{
 			item: "avaritia:resource 1 4"

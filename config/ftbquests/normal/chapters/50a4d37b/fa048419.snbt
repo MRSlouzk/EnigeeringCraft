@@ -1,0 +1,24 @@
+{
+	title: "万用装配台",
+	x: -2.0d,
+	y: -3.5d,
+	text: [
+		"工程师装配台可以使用蓝图合成各种物品，例如比使用合成台合成节省原料的零件合成，完整的石墨电极以及各种冲压模具",
+		"PS:其实后期资源多了这玩意基本上用不到了，主要合成一些真空管，石墨电极，冲压模具等东西。衍生产品自动化装配台挺鸡肋的"
+	],
+	dependencies: [
+		"ac4250ef"
+	],
+	tasks: [{
+		uid: "774aa7ee",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "db0504fa",
+		type: "loot",
+		table: 6
+	}]
+}

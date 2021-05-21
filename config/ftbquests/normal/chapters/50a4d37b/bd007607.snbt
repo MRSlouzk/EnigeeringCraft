@@ -1,0 +1,56 @@
+{
+	title: "粉碎机",
+	icon: "immersiveengineering:metal 1 18",
+	x: 2.5d,
+	y: -4.0d,
+	text: [
+		"IE的粉碎机和其它模组的磨粉机功能相同，都可以粉碎矿物，但是IE粉碎机是焦煤粉的唯一来源，所以还是要做XD"
+	],
+	dependencies: [
+		"69d39d47"
+	],
+	tasks: [{
+		uid: "815b9463",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 10L
+	},
+	{
+		uid: "e1cc466a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "b9641738",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 10L
+	},
+	{
+		uid: "686e5069",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1"
+		}],
+		count: 8L
+	},
+	{
+		uid: "b99cec92",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "c3a72787",
+		type: "random",
+		table: 6
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -1.0d,
+	y: -2.5d,
+	text: [
+		"泛光灯是一个非常强大的光源，可以发出32个远的光柱，照亮一大片区域",
+		"从底部输入电力"
+	],
+	dependencies: [
+		"fa048419"
+	],
+	tasks: [{
+		uid: "43abedbd",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 9"
+		}]
+	}],
+	rewards: [{
+		uid: "493162e2",
+		type: "loot",
+		table: 6
+	}]
+}

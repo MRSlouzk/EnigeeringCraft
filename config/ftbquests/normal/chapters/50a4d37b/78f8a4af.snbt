@@ -1,0 +1,47 @@
+{
+	title: "更快的速度",
+	icon: "immersivetech:stone_decoration",
+	x: -3.5d,
+	y: 0.5d,
+	text: [
+		"强化焦炉的速度相比于焦炉有大幅度提升，并且交互性更好了(可以主动的输出了)",
+		"在强化焦炉两侧放上焦炉预热器并通上电，也可以为焦炉加速"
+	],
+	dependencies: [
+		"0940e653"
+	],
+	tasks: [{
+		uid: "8e16ebac",
+		type: "item",
+		items: [{
+			item: "immersivetech:stone_decoration"
+		}],
+		count: 18L
+	},
+	{
+		uid: "1820f045",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 8"
+		}],
+		count: 9L
+	},
+	{
+		uid: "87917c8f",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper"
+		}]
+	}],
+	rewards: [{
+		uid: "7edb914d",
+		type: "item",
+		item: "immersivetech:metal_device",
+		count: 2
+	},
+	{
+		uid: "2a597a91",
+		type: "loot",
+		table: 6
+	}]
+}

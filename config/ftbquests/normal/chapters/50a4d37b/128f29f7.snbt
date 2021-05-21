@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: -5.0d,
+	text: [
+		"破坏后能保留其中的物品的箱子(潜影盒:喵喵喵???)"
+	],
+	dependencies: [
+		"ac4250ef"
+	],
+	tasks: [{
+		uid: "5308b3b1",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0"
+		}]
+	}]
+}

@@ -16,6 +16,12 @@
 		type: "item",
 		items: [{
 			item: "immersiveengineering:stone_decoration 1 1"
-		}]
+		}],
+		count: 27L
+	}],
+	rewards: [{
+		uid: "9291435b",
+		type: "loot",
+		table: 6
 	}]
 }

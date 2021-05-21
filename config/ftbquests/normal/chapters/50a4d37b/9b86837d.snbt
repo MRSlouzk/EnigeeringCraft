@@ -1,0 +1,22 @@
+{
+	x: -5.0d,
+	y: -3.5d,
+	text: [
+		"气球类似于EXU2中的天使方块，可以凭空放置，气球下面可以接线柱进行来传输电力(这核里吗，这不合理)"
+	],
+	dependencies: [
+		"ac4250ef"
+	],
+	tasks: [{
+		uid: "d2049f62",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:cloth_device 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "5f5ff1de",
+		type: "loot",
+		table: 6
+	}]
+}

@@ -1,0 +1,84 @@
+{
+	title: "电弧炉",
+	icon: "immersiveengineering:graphite_electrode",
+	x: 2.5d,
+	y: 0.0d,
+	text: [
+		"电弧炉可以消耗大量电力直接烧制矿物或者烧制合金,还可以回收装备工具",
+		"注意:搭建多方块结构时请用凿子将热力的钢块换成沉浸的钢块，不然结构无法成型",
+		"后面三个三孔插座用来输入能量，上方电极两边可以输入原料与辅料(JEI中电弧炉配方右侧为辅料，左侧为主料),正前方输出产品",
+		"(此机器耗电量巨大，谨慎使用)"
+	],
+	dependencies: [
+		"69d39d47"
+	],
+	tasks: [{
+		uid: "d19f08ae",
+		type: "item",
+		items: [{
+			item: "minecraft:cauldron"
+		}]
+	},
+	{
+		uid: "ec7fa02c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "81ff9742",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal_slab 1 8"
+		}],
+		count: 14L
+	},
+	{
+		uid: "8073436e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 8"
+		}],
+		count: 8L
+	},
+	{
+		uid: "bae5ed7c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:storage 1 8"
+		}],
+		count: 6L
+	},
+	{
+		uid: "10a0dec3",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 5L
+	},
+	{
+		uid: "bc777201",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 10L
+	},
+	{
+		uid: "31ab7e22",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 5L
+	},
+	{
+		uid: "0aabf93e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 2"
+		}]
+	}]
+}

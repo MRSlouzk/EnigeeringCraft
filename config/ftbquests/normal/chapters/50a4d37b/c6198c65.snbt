@@ -1,0 +1,78 @@
+{
+	title: "挤压机",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "plantoil",
+			Amount: 1000
+		}
+	},
+	x: 2.5d,
+	y: -2.0d,
+	text: [
+		"挤压机可以将物品挤压，产出流体和物品",
+		"一般用于生产植物油为柴油发电机供给燃料"
+	],
+	dependencies: [
+		"69d39d47"
+	],
+	tasks: [{
+		uid: "b337079e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 6L
+	},
+	{
+		uid: "4e82af3c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 2L
+	},
+	{
+		uid: "aaec7ce0",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "bce43348",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "66f4af37",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 1"
+		}],
+		count: 4L
+	},
+	{
+		uid: "60b08c28",
+		type: "item",
+		items: [{
+			item: "minecraft:piston"
+		}]
+	},
+	{
+		uid: "504e524b",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "23cb7407",
+		type: "loot",
+		table: 6
+	}]
+}

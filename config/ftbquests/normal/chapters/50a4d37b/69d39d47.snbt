@@ -1,0 +1,23 @@
+{
+	title: "各种基础性方块",
+	icon: "immersiveengineering:metal_decoration0 1 3",
+	x: 1.0d,
+	y: -1.5d,
+	text: [
+		"红石工程块，轻型工程块，重型工程块是沉浸多方块机器的基本构构件",
+		"红石工程块是几乎每个机器都有的，多方块成型后变为红石控制面(可以通过向这面输入红石信号控制机器)",
+		"轻型工程块一般为接电面，多方块成型后进行能量的交互",
+		"重型工程块为物品/流体交互面，成型后一般用于物品/流体的交互",
+		"注意:本整合包中所有关于金属冲压机的合成全部移除!"
+	],
+	dependencies: [
+		"6a235b05"
+	],
+	tasks: [{
+		uid: "e0d3cb02",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	}]
+}

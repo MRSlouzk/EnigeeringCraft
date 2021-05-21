@@ -1,0 +1,70 @@
+{
+	title: "发酵机",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "ethanol",
+			Amount: 1000
+		}
+	},
+	x: 2.5d,
+	y: -1.0d,
+	text: [
+		"发酵机可以将甘蔗等植物加工为乙醇用作燃料"
+	],
+	dependencies: [
+		"69d39d47"
+	],
+	tasks: [{
+		uid: "b006b1ec",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "6ef13c82",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "cad1f953",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 2L
+	},
+	{
+		uid: "8094ff9b",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 6L
+	},
+	{
+		uid: "b415f1cb",
+		type: "item",
+		items: [{
+			item: "minecraft:cauldron"
+		}],
+		count: 4L
+	},
+	{
+		uid: "b84ee9b0",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 9"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "8f07b73f",
+		type: "loot",
+		table: 6
+	}]
+}

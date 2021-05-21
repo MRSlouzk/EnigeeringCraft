@@ -1,0 +1,68 @@
+{
+	title: "混合机",
+	icon: {
+		id: "minecraft:potion",
+		tag: {
+			Potion: "minecraft:healing"
+		}
+	},
+	x: 2.5d,
+	y: -3.0d,
+	text: [
+		"混合机可以将固体液体进行搅拌混合(其实就是一台大型的药水酿造机)"
+	],
+	dependencies: [
+		"69d39d47"
+	],
+	tasks: [{
+		uid: "6720cfa3",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "5d0248a7",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 5L
+	},
+	{
+		uid: "02c17e79",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 3L
+	},
+	{
+		uid: "24adaadd",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 4L
+	},
+	{
+		uid: "760c0761",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 9"
+		}],
+		count: 4L
+	},
+	{
+		uid: "9ba83c60",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1"
+		}]
+	}],
+	rewards: [{
+		uid: "8b3d892d",
+		type: "loot",
+		table: 6
+	}]
+}

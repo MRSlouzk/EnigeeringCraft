@@ -1,0 +1,56 @@
+{
+	title: "IE",
+	loot_size: 1,
+	rewards: [{
+		item: "immersiveengineering:treated_wood",
+		count: 32,
+		weight: 25
+	},
+	{
+		item: "immersiveengineering:material 1 9",
+		count: 8,
+		weight: 15
+	},
+	{
+		item: "immersiveengineering:metal_decoration0 1 3",
+		weight: 10
+	},
+	{
+		item: "immersiveengineering:metal_decoration0 1 4",
+		count: 2,
+		weight: 10
+	},
+	{
+		item: "immersiveengineering:metal_decoration0 1 5",
+		count: 4,
+		weight: 10
+	},
+	{
+		item: "thermalfoundation:material 1 160",
+		count: 16,
+		weight: 15
+	},
+	{
+		item: "immersiveengineering:metal_device0 1 2",
+		weight: 5
+	},
+	{
+		item: "immersiveengineering:metal_device1 1 6",
+		count: 16,
+		weight: 10
+	},
+	{
+		item: "immersiveengineering:metal_decoration1 1 1",
+		count: 16,
+		weight: 15
+	}],
+	loot_crate: {
+		string_id: "ie",
+		color: 16777215,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	title: "防腐木板",
+	x: -3.5d,
+	y: -3.5d,
+	text: [
+		"防腐木板通过任意木板中间加上杂酚油进行合成，参与许多沉浸的合成",
+		"PS:合成表中央的杂酚油桶可以用装有杂酚油的便携储罐等替代"
+	],
+	dependencies: [
+		"0940e653"
+	],
+	tasks: [{
+		uid: "431fc3fe",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:treated_wood"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "3b909167",
+		type: "loot",
+		table: 6
+	}]
+}

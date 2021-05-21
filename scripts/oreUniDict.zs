@@ -1,3 +1,7 @@
+/*
+crafttweaker script to Unidict ores
+*/
+
 #priority -1
 
 import crafttweaker.item.IItemStack as IItemStack;

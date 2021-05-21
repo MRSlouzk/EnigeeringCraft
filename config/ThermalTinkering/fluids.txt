@@ -105,7 +105,7 @@ latex                                             (industrialforegoing:latex)   
 sewage                                            (industrialforegoing:sewage)                                                     = ÎÛË®
 sludge                                            (industrialforegoing:sludge)                                                     = ÎÛÄà
 biofuel                                           (industrialforegoing:biofuel)                                                    = ÉúÎïÈ¼ÓÍ
-if.pink_slime                                     (industrialforegoing:if.pink_slime)                                              = ·ÛºìÊ·À³Ä·
+if.pink_slime                                     (industrialforegoing:if.pink_slime)                                              = ·ÛºìÕ³Òº
 if.protein                                        (industrialforegoing:if.protein)                                                 = µ°°×ÖÊ
 if.ore_fluid_raw                                  ([no block])                                                                     = Éú¿óÎïÈâÌÀ
 if.ore_fluid_fermented                            ([no block])                                                                     = ·¢½Í¿óÎïÈâÌÀ
