@@ -1,0 +1,68 @@
+{
+	title: "灌装机",
+	icon: "minecraft:water_bucket",
+	x: 1.5d,
+	y: 0.5d,
+	text: [
+		"可以将液体装入容器当中(流体转置机不香吗/doge)"
+	],
+	dependencies: [
+		"69d39d47"
+	],
+	tasks: [{
+		uid: "889eba5b",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "d0f0643e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 3L
+	},
+	{
+		uid: "ab56bfb9",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 9"
+		}],
+		count: 2L
+	},
+	{
+		uid: "4a2d446f",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "e31cd06c",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		}],
+		count: 3L
+	},
+	{
+		uid: "778066b8",
+		type: "item",
+		items: [{
+			item: "minecraft:glass"
+		}]
+	},
+	{
+		uid: "7a546691",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device0 1 5"
+		}]
+	}]
+}

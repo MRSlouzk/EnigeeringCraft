@@ -8,8 +8,7 @@
 		"焦炉也可以进行直接交互，例如用管道导出杂酚油"
 	],
 	dependencies: [
-		"59674a62",
-		"d3c86b1d"
+		"e50ebbc4"
 	],
 	tasks: [{
 		uid: "dba2fd6e",

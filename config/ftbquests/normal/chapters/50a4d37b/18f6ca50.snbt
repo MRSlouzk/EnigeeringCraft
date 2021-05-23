@@ -1,0 +1,38 @@
+{
+	x: -2.5d,
+	y: -4.5d,
+	text: [
+		"你以为他是输电设备???其实他是个防御设施，在有电和红石型号的情况下可以对附近生物造成大量伤害",
+		"分为低压/高压模式，用工程师锤右键可切换，低压模式对穿着法拉第套装的玩家无伤害，高压模式则会加倍伤害"
+	],
+	dependencies: [
+		"ac4250ef"
+	],
+	tasks: [{
+		uid: "c7a853c6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "612aa9da",
+		type: "item",
+		item: "immersiveengineering:faraday_suit_head"
+	},
+	{
+		uid: "dd63d281",
+		type: "item",
+		item: "immersiveengineering:faraday_suit_chest"
+	},
+	{
+		uid: "eb9c19f6",
+		type: "item",
+		item: "immersiveengineering:faraday_suit_legs"
+	},
+	{
+		uid: "6c304238",
+		type: "item",
+		item: "immersiveengineering:faraday_suit_feet"
+	}]
+}

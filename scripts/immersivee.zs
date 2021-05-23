@@ -11,6 +11,18 @@ import crafttweaker.oredict.IOreDictEntry;
 import mods.jei.JEI.addDescription;
 import mods.jei.JEI.removeAndHide as rh;
 
+//移除隐藏
+var remove as IItemStack[] = [
+    <immersiveengineering:fake_light>,
+    <immersiveengineering:metal:30>,
+    <immersiveengineering:metal:31>,
+    <immersiveengineering:metal:37>,
+    <immersiveengineering:metal:38>
+];
+for items1 in remove{
+    rh(items1);
+}
+
 //添加热力焦煤配方
 mods.immersiveengineering.CokeOven.removeRecipe(<immersiveengineering:stone_decoration:3>);
 mods.immersiveengineering.CokeOven.removeRecipe(<immersiveengineering:material:6>);
@@ -25,25 +37,11 @@ recipes.addShaped(<immersiveengineering:stone_decoration:3>, [[<thermalfoundatio
 rh(<immersiveengineering:material:6>);
 
 //线
-mods.thermalexpansion.Sawmill.addRecipe(<immersiveengineering:material:23>,<ore:plateSteel>, 1800);//钢
-mods.thermalexpansion.Sawmill.addRecipe(<immersiveengineering:material:22>,<ore:plateAluminum>, 1800);//铝
-mods.thermalexpansion.Sawmill.addRecipe(<immersiveengineering:material:20>,<ore:plateCopper>, 1800);//铜
-mods.thermalexpansion.Sawmill.addRecipe(<immersiveengineering:material:21>,<ore:plateElectrum>, 1800);//琥珀金
+mods.thermalexpansion.Sawmill.addRecipe(<immersiveengineering:material:23> *2,<thermalfoundation:material:352>, 1800);//钢
+mods.thermalexpansion.Sawmill.addRecipe(<immersiveengineering:material:22> *2,<thermalfoundation:material:324>, 1800);//铝
+mods.thermalexpansion.Sawmill.addRecipe(<immersiveengineering:material:20> *2,<thermalfoundation:material:320>, 1800);//铜
+mods.thermalexpansion.Sawmill.addRecipe(<immersiveengineering:material:21> *2,<thermalfoundation:material:353>, 1800);//琥珀金
 
 //移除窑砖
 recipes.remove(<immersiveengineering:stone_decoration:10>);
 addDescription(<immersiveengineering:stone_decoration:10>,"已被移除，请使用匠魂冶炼炉");
-
-//矿物标注
-var removedores as IItemStack[] = [
-     <immersiveengineering:ore>,
-     <immersiveengineering:ore:1>,
-     <immersiveengineering:ore:2>,
-     <immersiveengineering:ore:3>,
-     <immersiveengineering:ore:4>,
-     <immersiveengineering:ore:5>
-];
-
-for items in removedores {
-    addDescription(items,"只会生成热力的矿石");
-}

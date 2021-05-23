@@ -32,7 +32,7 @@ recipes.addShaped(<contenttweaker:slimesteel>, [[<immersiveengineering:metal_dec
 //Three 解锁
 mods.extendedcrafting.TableCrafting.addShaped(1,<contenttweaker:super_processor>, [
 	[<ore:ingotStellarAlloy>, <ore:blockEnderium>, <ore:plateElite>], 
-	[<ore:dropRoyalJelly>, <thermalexpansion:frame:148>, <ore:circuitUltimate>], 
+	[<ore:dropRoyalJelly>, <enderio:item_material:66>, <ore:circuitUltimate>], 
 	[<ore:plateElite>, <ore:blockEnderium>, <ore:ingotStellarAlloy>]
 ]);
 
@@ -58,3 +58,6 @@ mods.extendedcrafting.CombinationCrafting.addRecipe
 
 //调试物品
 <contenttweaker:debug_item>.addTooltip(format.red("创造模式专用,"+"手持右键解锁所有阶段"));
+
+//模式选择器
+<contenttweaker:mode_choose>.addTooltip(format.red("右键开启反作弊,无法关闭!!!!!!"));

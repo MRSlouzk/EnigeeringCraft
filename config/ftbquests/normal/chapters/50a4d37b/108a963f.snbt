@@ -1,0 +1,27 @@
+{
+	title: "路由器",
+	x: -5.0d,
+	y: -3.5d,
+	text: [
+		"物品路由器可以对输入的物品进行分配",
+		"右键打开GUI可以设置各个面的过滤。从一面输入物品可以根据过滤配置分配到对应方向，若没有分配，则无法输入",
+		"流体路由器同理"
+	],
+	dependencies: [
+		"ac4250ef"
+	],
+	tasks: [{
+		uid: "c75fd8ee",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 3"
+		}]
+	},
+	{
+		uid: "4991423c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 7"
+		}]
+	}]
+}

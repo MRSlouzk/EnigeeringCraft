@@ -1,0 +1,17 @@
+{
+	x: -4.5d,
+	y: -2.5d,
+	text: [
+		"充电站可以为放在其中的物品充能(不过速度极慢)"
+	],
+	dependencies: [
+		"ac4250ef"
+	],
+	tasks: [{
+		uid: "bd3e1a79",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 5"
+		}]
+	}]
+}

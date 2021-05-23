@@ -1,0 +1,27 @@
+{
+	title: "传送带",
+	icon: {
+		id: "immersiveengineering:conveyor",
+		tag: {
+			conveyorType: "immersiveengineering:conveyor"
+		}
+	},
+	x: -4.5d,
+	y: 0.5d,
+	text: [
+		"沉浸工程的传送带可以作为物流工具使用(像机械动力)，并且有各种各样的传送带，他们都有独特的功能"
+	],
+	dependencies: [
+		"e50ebbc4"
+	],
+	tasks: [{
+		uid: "908a6a7a",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		}]
+	}]
+}

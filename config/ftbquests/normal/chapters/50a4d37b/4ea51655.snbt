@@ -1,0 +1,17 @@
+{
+	x: -6.5d,
+	y: 0.5d,
+	text: [
+		"外置加热器可以消耗电能产生热量，热量可以为熔炉供能"
+	],
+	dependencies: [
+		"e50ebbc4"
+	],
+	tasks: [{
+		uid: "dc1a2eb6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: -3.0d,
+	text: [
+		"隔音耳罩可以戴在头部，减弱周围的大部分声音，也可以和装备进行合成，使装备也有隔音效果"
+	],
+	dependencies: [
+		"e50ebbc4"
+	],
+	tasks: [{
+		uid: "e5dffe53",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:earmuffs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

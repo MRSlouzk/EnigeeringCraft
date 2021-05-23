@@ -1,0 +1,18 @@
+{
+	title: "沉浸工程",
+	icon: "immersiveengineering:wirecoil 1 2",
+	x: -5.5d,
+	y: -1.5d,
+	text: [
+		"沉浸工程(Immersive engineering)是一个复古风科技模组，里面有大量贴近真实世界的机械/输电系统",
+		"难度中等，适合前期开荒"
+	],
+	dependencies: [
+		"59674a62",
+		"d3c86b1d"
+	],
+	tasks: [{
+		uid: "7d006e72",
+		type: "checkmark"
+	}]
+}

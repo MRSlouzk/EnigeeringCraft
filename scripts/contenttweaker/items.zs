@@ -139,3 +139,20 @@ debug_item.itemRightClick = function(stack, world, player, hand){
     }
 };
 debug_item.register();
+
+//模式调节器
+var mode_choose = VanillaFactory.createItem("mode_choose");
+mode_choose.maxStackSize = 1;
+mode_choose.rarity = "COMMON";
+mode_choose.glowing = true;
+mode_choose.itemRightClick = function(stack, world, player, hand){
+    if(true){
+        Commands.call("gamestage add "+ player.name + " antiCheat", player, world, false, true);
+        stack.shrink(1);
+        return "SUCCESS";
+    }
+    else
+    {
+        return "PASS";
+}};
+mode_choose.register();
