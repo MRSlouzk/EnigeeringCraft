@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "f470cf1f",
+		type: "item",
+		items: [{
+			id: "extrautils2:ingredients",
+			tag: {
+				Freq: -101011412
+			},
+			Damage: 13s
+		}],
+		ignore_nbt: 1b
+	}]
+}

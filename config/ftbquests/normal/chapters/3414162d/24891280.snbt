@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "faa4506c",
+		type: "item",
+		items: [{
+			item: "extrautils2:cursedearth"
+		}]
+	}]
+}

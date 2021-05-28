@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "c1be4eee",
+		type: "item",
+		items: [{
+			item: "extrautils2:trashcan"
+		}]
+	}]
+}

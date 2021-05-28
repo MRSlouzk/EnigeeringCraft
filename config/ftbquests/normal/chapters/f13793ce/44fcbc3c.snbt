@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "a03f3e77",
+		type: "item",
+		items: [{
+			item: "forestry:analyzer"
+		}]
+	}]
+}

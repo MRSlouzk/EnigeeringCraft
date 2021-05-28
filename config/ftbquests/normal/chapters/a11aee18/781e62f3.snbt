@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "b884c06d",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:crop_enrich_material_injector"
+		}]
+	}]
+}

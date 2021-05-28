@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "5272322b",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:energy_extractor"
+		}]
+	}]
+}

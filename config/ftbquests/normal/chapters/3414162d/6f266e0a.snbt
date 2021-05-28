@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "4836919f",
+		type: "item",
+		items: [{
+			item: "extrautils2:playerchest"
+		}]
+	}]
+}

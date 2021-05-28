@@ -1,0 +1,11 @@
+{
+	x: 18.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "6b85f63e",
+		type: "item",
+		items: [{
+			item: "enderio:item_me_conduit 1 1"
+		}]
+	}]
+}

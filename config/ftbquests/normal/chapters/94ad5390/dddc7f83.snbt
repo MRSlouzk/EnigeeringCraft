@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "b7ef4dd0",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:dimlet_workbench"
+		}]
+	}]
+}

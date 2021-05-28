@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "65d3f7ce",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:enchanter"
+			}
+		}]
+	}]
+}

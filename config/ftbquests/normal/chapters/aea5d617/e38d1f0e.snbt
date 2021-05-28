@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "e8f5c5bb",
+		type: "item",
+		items: [{
+			item: "rftools:noteleport_module"
+		}]
+	}]
+}

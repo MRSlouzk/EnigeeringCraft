@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"ccfcd034"
+	],
+	tasks: [{
+		uid: "53f47f4c",
+		type: "item",
+		items: [{
+			item: "rftools:shield_block4"
+		}]
+	}]
+}

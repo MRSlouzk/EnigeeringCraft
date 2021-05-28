@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "55075b9d",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:sewage_composter_solidifier"
+		}]
+	}]
+}

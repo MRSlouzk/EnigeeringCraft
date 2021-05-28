@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "a37d428b",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:enchantment_invoker"
+		}]
+	}]
+}

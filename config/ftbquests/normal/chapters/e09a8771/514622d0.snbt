@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "00718fe1",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_archangel_smite",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

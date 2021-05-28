@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "b702569a",
+		type: "item",
+		items: [{
+			item: "rftools:composer"
+		}]
+	}]
+}

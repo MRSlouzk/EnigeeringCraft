@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "8f6a69e8",
+		type: "item",
+		items: [{
+			item: "forestry:bituminous_peat"
+		}]
+	}]
+}

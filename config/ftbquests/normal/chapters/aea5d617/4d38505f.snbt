@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "df03e03f",
+		type: "item",
+		items: [{
+			item: "rftools:rf_monitor"
+		}]
+	}]
+}

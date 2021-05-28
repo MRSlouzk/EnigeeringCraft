@@ -1,0 +1,11 @@
+{
+	x: 16.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "d65e2538",
+		type: "item",
+		items: [{
+			item: "enderio:block_enhanced_alloy_smelter"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "25769168",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_gem_armor_3"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

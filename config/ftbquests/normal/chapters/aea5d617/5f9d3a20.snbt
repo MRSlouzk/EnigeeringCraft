@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "9d151641",
+		type: "item",
+		items: [{
+			item: "rftools:crafter1"
+		}]
+	}]
+}

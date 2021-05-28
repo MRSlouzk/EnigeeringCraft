@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 5.0d,
+	dependencies: [
+		"fa1ab241"
+	],
+	tasks: [{
+		uid: "ea017cdc",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:water_source_compact"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "ce3d8dd4",
+		type: "item",
+		items: [{
+			item: "projecte:nova_cataclysm"
+		}]
+	}]
+}

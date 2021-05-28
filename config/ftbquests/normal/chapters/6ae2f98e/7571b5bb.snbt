@@ -1,0 +1,23 @@
+{
+	title: "末影接口-机器部分",
+	icon: "enderio:item_material 1 43",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"末影接口(Enderio)是一个极其强大的物流(划掉)科技模组，里面有大量实用性非常高的物品，例如经验方尖碑，无线充电器等",
+		"当然，这个模组最强大的东西莫过于他的导管，其功能强大，使用便捷且造价便宜",
+		"注意:本章节仅仅是末影接口的机器部分，管道部分请见\"物流与存储\"章节"
+	],
+	dependencies: [
+		"d1b3ce09"
+	],
+	tasks: [{
+		uid: "8464d2d5",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "8f977ca1",
+		type: "item",
+		item: "enderio:item_yeta_wrench"
+	}]
+}

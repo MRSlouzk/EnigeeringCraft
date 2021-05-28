@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "77b4843a",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:water_resources_collector"
+		}]
+	}]
+}

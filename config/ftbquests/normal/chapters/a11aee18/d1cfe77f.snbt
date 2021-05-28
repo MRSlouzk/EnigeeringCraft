@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "e199415d",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:hydrator"
+		}]
+	}]
+}

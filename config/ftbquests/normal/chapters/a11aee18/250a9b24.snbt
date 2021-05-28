@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "4ad60684",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:crop_sower"
+		}]
+	}]
+}

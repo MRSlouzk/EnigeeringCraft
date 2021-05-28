@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "f68de0bb",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:time_absorber"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "cb3d8fe0",
+		type: "item",
+		items: [{
+			item: "rftools:sensor_block"
+		}]
+	}]
+}

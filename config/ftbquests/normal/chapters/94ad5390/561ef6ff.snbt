@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "0e445ac5",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:material_absorber"
+		}]
+	}]
+}

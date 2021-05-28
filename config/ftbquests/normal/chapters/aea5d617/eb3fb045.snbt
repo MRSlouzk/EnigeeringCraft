@@ -1,0 +1,11 @@
+{
+	x: -5.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "9afd8756",
+		type: "item",
+		items: [{
+			item: "rftools:block_protector"
+		}]
+	}]
+}

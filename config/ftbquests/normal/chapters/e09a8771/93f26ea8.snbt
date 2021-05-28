@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "ce82a6c9",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_destruction_catalyst",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

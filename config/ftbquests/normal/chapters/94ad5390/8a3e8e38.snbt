@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "31f977b0",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:terrain_absorber"
+		}]
+	}]
+}

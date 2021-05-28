@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "62a75949",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:upgrade 1 1"
+		}]
+	}]
+}

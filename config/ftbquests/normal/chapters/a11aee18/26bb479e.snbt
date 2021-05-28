@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "9acb7247",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fluid_pump"
+		}]
+	}]
+}

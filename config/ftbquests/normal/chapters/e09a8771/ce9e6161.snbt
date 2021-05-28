@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "cc4fad8b",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_catalitic_lens",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: -3.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "ded3d425",
+		type: "item",
+		items: [{
+			item: "extrautils2:itemcreativebuilderswand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

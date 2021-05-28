@@ -1,0 +1,13 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "fe69d35c",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:meat_feeder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

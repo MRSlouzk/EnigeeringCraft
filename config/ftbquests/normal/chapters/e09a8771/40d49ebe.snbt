@@ -1,0 +1,12 @@
+{
+	x: 2.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "d7ddd3eb",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_divining_rod_1",
+			tag: {}
+		}]
+	}]
+}

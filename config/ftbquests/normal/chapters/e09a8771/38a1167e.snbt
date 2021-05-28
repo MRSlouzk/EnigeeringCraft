@@ -1,0 +1,12 @@
+{
+	x: 2.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "e33dd413",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_alchemical_bag"
+		}],
+		ignore_nbt: 1b
+	}]
+}

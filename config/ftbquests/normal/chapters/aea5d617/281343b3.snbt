@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "176f2b2a",
+		type: "item",
+		items: [{
+			item: "rftools:shield_block1"
+		}]
+	}]
+}

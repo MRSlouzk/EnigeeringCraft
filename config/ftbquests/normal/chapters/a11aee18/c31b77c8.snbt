@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "464555fb",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:villager_trade_exchanger"
+		}]
+	}]
+}

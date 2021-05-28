@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "d88db3d3",
+		type: "item",
+		items: [{
+			item: "rftools:builder"
+		}]
+	}]
+}

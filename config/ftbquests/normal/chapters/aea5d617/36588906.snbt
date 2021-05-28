@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "7394b433",
+		type: "item",
+		items: [{
+			item: "rftools:environmental_controller"
+		}]
+	}]
+}

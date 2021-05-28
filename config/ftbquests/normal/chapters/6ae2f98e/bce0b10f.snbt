@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "4ee3633c",
+		type: "item",
+		items: [{
+			id: "enderio:item_rod_of_return",
+			tag: {
+				"enderio:energy": 2000000,
+				"enderio:famount": 200
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

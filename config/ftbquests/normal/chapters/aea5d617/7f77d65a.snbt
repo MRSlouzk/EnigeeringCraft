@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "74940c50",
+		type: "item",
+		items: [{
+			item: "rftools:glowing_module"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "324f66a8",
+		type: "item",
+		items: [{
+			item: "forestry:still"
+		}]
+	}]
+}

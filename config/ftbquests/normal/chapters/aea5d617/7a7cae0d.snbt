@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "cb346b96",
+		type: "item",
+		items: [{
+			item: "rftools:regeneration_module"
+		}]
+	}]
+}

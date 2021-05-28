@@ -1,0 +1,12 @@
+{
+	x: 16.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "76c5486d",
+		type: "item",
+		items: [{
+			item: "enderio:item_xp_transfer"
+		}],
+		ignore_nbt: 1b
+	}]
+}

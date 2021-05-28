@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "23373877",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_time_watch",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "c50641a9",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:adult_filter"
+		}]
+	}]
+}

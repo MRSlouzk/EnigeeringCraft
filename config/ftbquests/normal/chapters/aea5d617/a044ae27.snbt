@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "a392749c",
+		type: "item",
+		items: [{
+			item: "rftools:redstone_receiver_block"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: -1.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "bdcf0222",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:phased_field_generator"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

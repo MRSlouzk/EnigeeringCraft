@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: 4.0d,
+	dependencies: [
+		"277201da"
+	],
+	tasks: [{
+		uid: "158cb5d5",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:helium_collector_compact"
+		}]
+	}]
+}

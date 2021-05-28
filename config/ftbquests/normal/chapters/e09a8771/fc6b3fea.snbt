@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "f26df842",
+		type: "item",
+		items: [{
+			item: "projectex:compressed_collector"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "dda1c2af",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_volcanite_amulet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

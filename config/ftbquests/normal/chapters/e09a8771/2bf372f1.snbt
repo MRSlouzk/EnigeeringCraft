@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "d6eaa29b",
+		type: "item",
+		items: [{
+			id: "projectex:colossal_star_ein",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

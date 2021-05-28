@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "45ec5e4f",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fluiddictionary_converter"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -3.0d,
+	dependencies: [
+		"309a4036"
+	],
+	tasks: [{
+		uid: "9be47932",
+		type: "item",
+		items: [{
+			item: "rftools:shield_block3"
+		}]
+	}]
+}

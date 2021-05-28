@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "0fabe068",
+		type: "item",
+		items: [{
+			item: "extrautils2:spike_gold"
+		}]
+	}]
+}

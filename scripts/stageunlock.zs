@@ -32,7 +32,7 @@ recipes.addShaped(<contenttweaker:slimesteel>, [[<immersiveengineering:metal_dec
 //Three 解锁
 mods.extendedcrafting.TableCrafting.addShaped(1,<contenttweaker:super_processor>, [
 	[<ore:ingotStellarAlloy>, <ore:blockEnderium>, <ore:plateElite>], 
-	[<ore:dropRoyalJelly>, <enderio:item_material:66>, <ore:circuitUltimate>], 
+	[<ore:dropRoyalJelly>, <enderio:item_material:54>, <ore:circuitUltimate>], 
 	[<ore:plateElite>, <ore:blockEnderium>, <ore:ingotStellarAlloy>]
 ]);
 

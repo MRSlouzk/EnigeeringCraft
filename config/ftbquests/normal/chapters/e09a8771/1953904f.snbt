@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "2718d147",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_black_hole",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

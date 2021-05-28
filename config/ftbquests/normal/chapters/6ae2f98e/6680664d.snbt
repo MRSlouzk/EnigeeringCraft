@@ -1,0 +1,11 @@
+{
+	x: 17.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "e0670c6d",
+		type: "item",
+		items: [{
+			item: "enderio:item_inventory_charger_simple"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "b53446e4",
+		type: "item",
+		items: [{
+			item: "forestry:squeezer"
+		}]
+	}]
+}

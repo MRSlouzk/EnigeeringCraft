@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "fd80a525",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_evertide_amulet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

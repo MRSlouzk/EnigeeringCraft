@@ -1,0 +1,13 @@
+{
+	x: 0.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "dcd97b7d",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fortune_addon"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

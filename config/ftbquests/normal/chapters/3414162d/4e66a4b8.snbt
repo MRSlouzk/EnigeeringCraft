@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "ba6fcd97",
+		type: "item",
+		items: [{
+			item: "extrautils2:ineffableglass 1 2"
+		}]
+	}]
+}

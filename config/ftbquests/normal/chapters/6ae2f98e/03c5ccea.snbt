@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: 8.0d,
+	dependencies: [
+		"fe22d446",
+		"5278ade0"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "da7b91bf",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_crystalline"
+		}]
+	}]
+}

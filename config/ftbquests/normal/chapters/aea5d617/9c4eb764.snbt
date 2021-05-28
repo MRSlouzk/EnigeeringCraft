@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "1ab6b3e0",
+		type: "item",
+		items: [{
+			item: "rftools:scanner"
+		}]
+	}]
+}

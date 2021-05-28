@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "b7abf0ec",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_detector"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "2e1de151",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_ignition",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

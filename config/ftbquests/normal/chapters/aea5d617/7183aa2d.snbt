@@ -1,0 +1,11 @@
+{
+	x: -5.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "cb799f5a",
+		type: "item",
+		items: [{
+			item: "rftools:booster"
+		}]
+	}]
+}

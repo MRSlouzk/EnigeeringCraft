@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "c7de89cc",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_life_stone",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

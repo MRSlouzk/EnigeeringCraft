@@ -1,0 +1,14 @@
+{
+	x: 9.5d,
+	y: 5.0d,
+	dependencies: [
+		"7e79975c"
+	],
+	tasks: [{
+		uid: "21784d85",
+		type: "item",
+		items: [{
+			item: "enderio:block_inhibitor_obelisk"
+		}]
+	}]
+}

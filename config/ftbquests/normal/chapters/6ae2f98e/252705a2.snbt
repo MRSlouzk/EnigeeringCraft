@@ -1,0 +1,18 @@
+{
+	x: 18.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "8bee3c0b",
+		type: "item",
+		items: [{
+			id: "enderio:item_travel_staff",
+			tag: {
+				enderio.darksteel.upgrade.energyUpgrade: {
+					level: 3,
+					energy: 1000000
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

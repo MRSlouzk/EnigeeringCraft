@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "c2387868",
+		type: "item",
+		items: [{
+			item: "extrautils2:sickle_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

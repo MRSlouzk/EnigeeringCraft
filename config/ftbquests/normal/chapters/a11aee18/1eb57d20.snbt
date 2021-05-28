@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "0334fe95",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_imprisonment_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

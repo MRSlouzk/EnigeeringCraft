@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 6.0d,
+	dependencies: [
+		"5fadc61d"
+	],
+	tasks: [{
+		uid: "dc4508e1",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:water_source_dense"
+		}]
+	}]
+}

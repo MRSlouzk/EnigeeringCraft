@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "231341bf",
+		type: "item",
+		items: [{
+			item: "forestry:moistener"
+		}]
+	}]
+}

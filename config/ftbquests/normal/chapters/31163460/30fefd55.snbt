@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: 5.0d,
+	dependencies: [
+		"2f7d5f88"
+	],
+	tasks: [{
+		uid: "6572a70c",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cobblestone_generator_dense"
+		}]
+	}]
+}

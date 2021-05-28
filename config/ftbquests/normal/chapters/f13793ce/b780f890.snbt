@@ -1,0 +1,16 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "50ebd230",
+		type: "item",
+		items: [{
+			id: "forestry:portable_alyzer",
+			tag: {
+				UID: -1351449190
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

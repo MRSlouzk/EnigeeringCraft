@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "012e5ec6",
+		type: "item",
+		items: [{
+			item: "rftools:peace_essence"
+		}]
+	}]
+}

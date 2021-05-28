@@ -1,0 +1,11 @@
+{
+	x: 16.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "410b3393",
+		type: "item",
+		items: [{
+			item: "enderio:block_enhanced_wireless_charger"
+		}]
+	}]
+}

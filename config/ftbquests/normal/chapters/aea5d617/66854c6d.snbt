@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "a7762708",
+		type: "item",
+		items: [{
+			item: "rftools:remote_scanner"
+		}]
+	}]
+}

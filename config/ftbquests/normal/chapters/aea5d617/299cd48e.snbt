@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "206017a6",
+		type: "item",
+		items: [{
+			item: "rftools:counter_block"
+		}]
+	}]
+}

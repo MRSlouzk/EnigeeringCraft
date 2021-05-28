@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "96dae8e7",
+		type: "item",
+		items: [{
+			item: "extrautils2:lawsword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

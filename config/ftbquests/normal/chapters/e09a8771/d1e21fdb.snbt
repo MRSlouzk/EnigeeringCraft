@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "40396416",
+		type: "item",
+		items: [{
+			id: "projectex:magnum_star_ein",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

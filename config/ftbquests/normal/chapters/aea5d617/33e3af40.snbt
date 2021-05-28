@@ -1,0 +1,12 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "31567d45",
+		type: "item",
+		items: [{
+			item: "rftools:shape_card 1 8"
+		}],
+		ignore_nbt: 1b
+	}]
+}

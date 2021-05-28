@@ -1,0 +1,13 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "d3861b6a",
+		type: "item",
+		items: [{
+			item: "rftools:smartwrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

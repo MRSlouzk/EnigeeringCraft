@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "97d07d02",
+		type: "item",
+		items: [{
+			item: "extrautils2:goldenlasso 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

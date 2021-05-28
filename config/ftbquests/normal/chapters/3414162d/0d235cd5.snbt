@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "d9e7062a",
+		type: "item",
+		items: [{
+			item: "extrautils2:trashchest"
+		}]
+	}]
+}

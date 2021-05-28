@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "06b7c30f",
+		type: "item",
+		items: [{
+			item: "extrautils2:terraformer 1 8"
+		}]
+	}]
+}

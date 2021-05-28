@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "74f82c8d",
+		type: "item",
+		items: [{
+			item: "extrautils2:decorativeglass 1 3"
+		}]
+	}]
+}

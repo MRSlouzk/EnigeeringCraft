@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "bbed17d6",
+		type: "item",
+		items: [{
+			item: "forestry:bee_chest"
+		}]
+	}]
+}

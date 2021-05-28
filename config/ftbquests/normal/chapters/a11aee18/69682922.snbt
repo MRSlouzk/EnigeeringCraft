@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "2b7adcac",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:plastic"
+		}]
+	}]
+}

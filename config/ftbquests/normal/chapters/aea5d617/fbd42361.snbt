@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "6567ec00",
+		type: "item",
+		items: [{
+			item: "rftools:analog_block"
+		}]
+	}]
+}

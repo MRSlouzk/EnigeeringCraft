@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "45fab764",
+		type: "item",
+		items: [{
+			item: "forestry:centrifuge"
+		}]
+	}]
+}

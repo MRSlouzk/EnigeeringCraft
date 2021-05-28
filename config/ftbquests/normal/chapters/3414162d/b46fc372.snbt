@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "f2eef95e",
+		type: "item",
+		items: [{
+			item: "extrautils2:indexer"
+		}]
+	}]
+}

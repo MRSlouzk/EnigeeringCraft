@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "5bbbe662",
+		type: "item",
+		items: [{
+			item: "forestry:thermionic_tubes 1 7"
+		}]
+	}]
+}

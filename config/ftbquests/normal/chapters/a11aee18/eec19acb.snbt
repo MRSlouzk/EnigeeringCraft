@@ -1,0 +1,13 @@
+{
+	x: -1.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "cc732272",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:energy_field_addon"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

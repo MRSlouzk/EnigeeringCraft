@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "ab08c109",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:item_splitter"
+		}]
+	}]
+}

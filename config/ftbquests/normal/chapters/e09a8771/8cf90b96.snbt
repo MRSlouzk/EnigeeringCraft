@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "b78ea4a7",
+		type: "item",
+		items: [{
+			item: "projecte:alchemical_chest"
+		}]
+	}]
+}

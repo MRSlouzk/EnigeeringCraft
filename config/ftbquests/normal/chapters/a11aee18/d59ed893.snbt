@@ -1,0 +1,12 @@
+{
+	x: -4.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "37c0d9ab",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_lens"
+		}],
+		ignore_nbt: 1b
+	}]
+}

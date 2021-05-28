@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "8cd20898",
+		type: "item",
+		items: [{
+			item: "extrautils2:indexerremote"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

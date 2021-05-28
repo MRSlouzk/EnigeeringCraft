@@ -1,0 +1,11 @@
+{
+	x: 20.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "acfb5260",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_crafter"
+		}]
+	}]
+}

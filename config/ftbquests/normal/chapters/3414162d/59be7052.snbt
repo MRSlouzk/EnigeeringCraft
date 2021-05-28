@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "e72782af",
+		type: "item",
+		items: [{
+			item: "extrautils2:ingredients 1 16"
+		}]
+	}]
+}

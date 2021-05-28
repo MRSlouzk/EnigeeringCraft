@@ -1,0 +1,14 @@
+{
+	x: 11.5d,
+	y: 2.0d,
+	dependencies: [
+		"d8ab7381"
+	],
+	tasks: [{
+		uid: "1eb8c519",
+		type: "item",
+		items: [{
+			item: "enderio:block_experience_obelisk"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "2af1aa70",
+		type: "item",
+		items: [{
+			item: "extrautils2:analogcrafter"
+		}]
+	}]
+}

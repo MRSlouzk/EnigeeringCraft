@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "b8f84e1d",
+		type: "item",
+		items: [{
+			id: "forestry:chipsets",
+			tag: {
+				T: 0s
+			}
+		}]
+	}]
+}

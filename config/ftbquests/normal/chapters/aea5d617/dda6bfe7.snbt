@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "972fe20e",
+		type: "item",
+		items: [{
+			item: "rftools:matter_transmitter"
+		}]
+	}]
+}

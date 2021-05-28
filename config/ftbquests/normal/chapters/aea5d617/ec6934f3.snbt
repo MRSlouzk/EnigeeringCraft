@@ -1,0 +1,13 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "434335c5",
+		type: "item",
+		items: [{
+			item: "rftools:syringe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

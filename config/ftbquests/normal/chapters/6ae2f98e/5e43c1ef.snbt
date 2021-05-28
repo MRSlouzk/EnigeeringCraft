@@ -1,0 +1,15 @@
+{
+	x: 17.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "23326495",
+		type: "item",
+		items: [{
+			id: "enderio:item_magnet",
+			tag: {
+				"enderio:energy": 100000
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

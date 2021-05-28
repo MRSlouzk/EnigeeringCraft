@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "b10e14f9",
+		type: "item",
+		items: [{
+			item: "rftools:level_emitter"
+		}]
+	}]
+}

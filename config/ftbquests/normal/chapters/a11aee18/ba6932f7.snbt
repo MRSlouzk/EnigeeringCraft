@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "ab9a9f66",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:tinydryrubber"
+		}]
+	}]
+}

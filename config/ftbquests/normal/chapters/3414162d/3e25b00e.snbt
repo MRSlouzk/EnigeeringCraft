@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "b5de8381",
+		type: "item",
+		items: [{
+			item: "extrautils2:trowel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

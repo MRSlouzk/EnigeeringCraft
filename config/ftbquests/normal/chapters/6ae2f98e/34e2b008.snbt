@@ -1,0 +1,21 @@
+{
+	title: "基岩的尘埃",
+	icon: "enderio:item_material 1 20",
+	x: 2.5d,
+	y: 0.0d,
+	text: [
+		"基岩粉是末影接口模组最基础的合成材料之一，点燃基岩等待一段时间后，会有50%的几率爆出基岩粉",
+		"点燃基岩使用打火石或者此模组的火焰水均可",
+		"PS:其实也可以使用SAG磨粉机对二重压缩基岩粉块磨粉(最好加磨珠)，有几率会\"无中生有\"出基岩粉块"
+	],
+	dependencies: [
+		"7571b5bb"
+	],
+	tasks: [{
+		uid: "355b7d5c",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 20"
+		}]
+	}]
+}

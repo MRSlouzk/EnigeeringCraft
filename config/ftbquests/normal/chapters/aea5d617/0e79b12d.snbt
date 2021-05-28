@@ -1,0 +1,11 @@
+{
+	x: -5.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "a829a045",
+		type: "item",
+		items: [{
+			item: "rftools:saturation_module"
+		}]
+	}]
+}

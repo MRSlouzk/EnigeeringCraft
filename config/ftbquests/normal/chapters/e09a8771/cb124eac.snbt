@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "c00789d0",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_repair_talisman"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

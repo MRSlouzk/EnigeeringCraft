@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "1139df08",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fluid_crafter"
+		}]
+	}]
+}

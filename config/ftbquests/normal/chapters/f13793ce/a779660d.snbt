@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "cf28036c",
+		type: "item",
+		items: [{
+			item: "forestry:fermenter"
+		}]
+	}]
+}

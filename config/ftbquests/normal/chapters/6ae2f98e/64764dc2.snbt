@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "e37969ef",
+		type: "item",
+		items: [{
+			id: "enderio:item_cold_fire_igniter",
+			tag: {
+				"enderio:famount": 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

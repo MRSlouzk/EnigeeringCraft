@@ -1,0 +1,13 @@
+{
+	x: -1.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "fd4aa483",
+		type: "item",
+		items: [{
+			item: "projectex:arcane_tablet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

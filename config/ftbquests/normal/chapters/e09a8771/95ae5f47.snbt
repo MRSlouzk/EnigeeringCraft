@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "ce2151ae",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_void_ring",
+			tag: {
+				teleportCooldown: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

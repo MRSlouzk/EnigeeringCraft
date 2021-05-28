@@ -1,0 +1,11 @@
+{
+	x: -5.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "1f426756",
+		type: "item",
+		items: [{
+			item: "rftools:security_manager"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "842cdd04",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower"
+		}]
+	}]
+}

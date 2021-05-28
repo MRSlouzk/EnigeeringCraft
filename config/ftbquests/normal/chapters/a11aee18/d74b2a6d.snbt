@@ -1,0 +1,12 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "cc5c2009",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:range_addon"
+		}],
+		ignore_nbt: 1b
+	}]
+}

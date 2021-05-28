@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "ea05e560",
+		type: "item",
+		items: [{
+			item: "extrautils2:enderlilly"
+		}]
+	}]
+}

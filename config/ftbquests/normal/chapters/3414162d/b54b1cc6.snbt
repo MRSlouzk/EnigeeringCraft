@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "2c7b8192",
+		type: "item",
+		items: [{
+			item: "extrautils2:biomemarker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

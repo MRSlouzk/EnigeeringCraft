@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "e8216725",
+		type: "item",
+		items: [{
+			item: "forestry:sturdy_machine"
+		}]
+	}]
+}

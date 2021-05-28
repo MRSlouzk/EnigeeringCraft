@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "1416ee8d",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_mind_stone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

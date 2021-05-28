@@ -1,0 +1,12 @@
+{
+	x: 18.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "7addeb66",
+		type: "item",
+		items: [{
+			item: "enderio:item_conduit_probe"
+		}],
+		ignore_nbt: 1b
+	}]
+}

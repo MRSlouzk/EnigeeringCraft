@@ -1,0 +1,18 @@
+{
+	x: 10.0d,
+	y: -2.0d,
+	text: [
+		"合成材料，用于合成本模组普通等级的机器"
+	],
+	dependencies: [
+		"a8ef8386",
+		"2ccecd51"
+	],
+	tasks: [{
+		uid: "3c83eb54",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 1"
+		}]
+	}]
+}

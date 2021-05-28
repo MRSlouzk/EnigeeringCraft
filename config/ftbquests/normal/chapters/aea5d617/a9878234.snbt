@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "a129aa3f",
+		type: "item",
+		items: [{
+			item: "rftools:speed_module"
+		}]
+	}]
+}

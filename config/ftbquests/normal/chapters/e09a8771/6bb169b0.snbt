@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: 2.5d,
+	dependencies: [
+		"c8f90cb7"
+	],
+	tasks: [{
+		uid: "99c35de3",
+		type: "item",
+		items: [{
+			item: "projectex:compressed_refined_link"
+		}]
+	}]
+}

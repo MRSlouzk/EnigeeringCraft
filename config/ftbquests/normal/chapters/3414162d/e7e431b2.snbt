@@ -1,0 +1,12 @@
+{
+	x: -3.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "a1ee7e3e",
+		type: "item",
+		items: [{
+			item: "extrautils2:angelring"
+		}],
+		ignore_nbt: 1b
+	}]
+}

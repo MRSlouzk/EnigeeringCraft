@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: -1.5d,
+	text: [
+		"过渡用机器，用来获取松散枯草以及植物碎叶"
+	],
+	dependencies: [
+		"43b93a3b"
+	],
+	tasks: [{
+		uid: "5e0de7f8",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_sag_mill"
+		}]
+	}]
+}

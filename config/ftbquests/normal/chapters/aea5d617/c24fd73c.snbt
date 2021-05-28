@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "29e1c758",
+		type: "item",
+		items: [{
+			item: "rftools:simple_dialer"
+		}]
+	}]
+}

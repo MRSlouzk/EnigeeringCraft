@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "fc7e3949",
+		type: "item",
+		items: [{
+			item: "extrautils2:crafter"
+		}]
+	}]
+}

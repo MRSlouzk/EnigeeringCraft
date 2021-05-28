@@ -1,0 +1,11 @@
+{
+	x: 21.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "c3801a67",
+		type: "item",
+		items: [{
+			item: "enderio:item_soul_vial"
+		}]
+	}]
+}

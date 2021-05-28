@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 8.0d,
+	dependencies: [
+		"a0cb0f5b"
+	],
+	tasks: [{
+		uid: "064ca028",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_stellar"
+		}]
+	}]
+}

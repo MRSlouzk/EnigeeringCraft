@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "0efbf028",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_soul_stone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

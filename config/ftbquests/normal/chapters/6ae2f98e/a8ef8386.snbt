@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 1.5d,
+	text: [
+		"过渡用机器，用来合成有机染料"
+	],
+	dependencies: [
+		"43b93a3b"
+	],
+	tasks: [{
+		uid: "5b24639d",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_alloy_smelter"
+		}]
+	}]
+}

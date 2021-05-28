@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "daabcf95",
+		type: "item",
+		items: [{
+			item: "forestry:wood_pile"
+		}]
+	}]
+}

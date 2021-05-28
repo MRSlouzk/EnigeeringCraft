@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"5f9d3a20"
+	],
+	tasks: [{
+		uid: "c8b82999",
+		type: "item",
+		items: [{
+			item: "rftools:crafter2"
+		}]
+	}]
+}

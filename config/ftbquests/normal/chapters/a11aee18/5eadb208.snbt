@@ -1,0 +1,13 @@
+{
+	x: -2.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "e8a30915",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:straw"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

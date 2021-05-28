@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "927a186c",
+		type: "item",
+		items: [{
+			item: "rftools:invchecker_block"
+		}]
+	}]
+}

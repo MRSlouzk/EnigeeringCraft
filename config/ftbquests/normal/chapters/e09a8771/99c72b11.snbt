@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "72d49cc1",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_body_stone",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

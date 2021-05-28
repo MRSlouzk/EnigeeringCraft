@@ -1,0 +1,13 @@
+{
+	x: -5.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "57179edb",
+		type: "item",
+		items: [{
+			item: "rftools:advanced_charged_porter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

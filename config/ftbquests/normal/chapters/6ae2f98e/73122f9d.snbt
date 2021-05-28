@@ -1,0 +1,14 @@
+{
+	x: 11.0d,
+	y: 3.0d,
+	dependencies: [
+		"d8ab7381"
+	],
+	tasks: [{
+		uid: "03549a4d",
+		type: "item",
+		items: [{
+			item: "enderio:block_slice_and_splice"
+		}]
+	}]
+}
